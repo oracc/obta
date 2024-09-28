@@ -1,0 +1,67 @@
+&P412476 = CULC 430
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & GU₄-HI.A & {še}<MUR>.GU₄ & LA₂.I₃ & DUH-HI.A & LA₂.I₃ & IN.NU.DA & LÁ.Ì & MU-BI.IM
+#lem:  alpū[bull]N;  imrûm[fodder]N;  ribbatum[arrears]N;  tuhhū[bran]N;  ribbatum[arrears]N;  tibnum[straw]N;  ribbatum[arrears]N;  šumšu[name]N 
+$ single ruling
+2.	 & 1.15 & 3(BARIG) 2(BAN₂) &  & 1(AŠ) x & x & 7(AŠ) <GUR> 1(BARIG) 2(BAN₂) &  & u-bar-{d}UTU
+#lem:  n;  n; n;   n; u;  u;  n; kur[unit]N; n; n;   Ubar-Šamaš[1]PN 
+
+3.	 & 26 & 1(BARIG) & [x] SÌLA & [...] & [...] & 2(AŠ) <GUR> 3(BARIG) &  & {d}SUEN-i-din-nam
+#lem:  n;  n;  u; qā[unit]N;  u;  u;  n; kur[unit]N; n;   Sin-iddinam[1]PN 
+
+4.	 & 27 & 1(BARIG) & [x] SÌLA & [...] & [...] & 2(AŠ) <GUR> 3(BARIG) 3(BAN₂) &  & {d}SUEN-SIPA
+#lem:  n;  n;  u; qā[unit]N;  u;  u;  n; kur[unit]N; n; n;   Sin-reʾum[1]PN 
+
+5.	 & 25 & 1(BARIG) 6 SILA₃! & 3 <SILA₃> & [...] & [...] & [...] & 2(AŠ) <GUR> 3(BARIG) 3(BAN₂) & ia-ú & 
+#lem:  n;  n; n; qā[unit]N;  n; qā[unit]N;  u;  u;  u;  n; kur[unit]N; n; n;  yāʾu[mine]PP  
+
+$ 1 blank line
+7.	 & NÍG.Ú.RUM &  &  &  &  &  &  & {d}NANNA
+#lem:  namkūr[property]N;        Nanna[1]DN 
+
+8.	 & ŠA₃ &  &  &  &  &  &  & URIM₂{ki!}-MA
+#lem:  qereb[centre]N;       +Ur[]SN$ 
+
+$ 1 line blank
+@reverse
+$ several blank lines
+1.	| $ŠU# x x x $NE
+#lem:  u; u; u; u; u 
+
+$ single ruling
+2.	| {iti}DU₆.KÙ KI-3 U₄ 21-KAM
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+3.	| %s mu ki-2
+#lem:  mu[year]; n                                                                                                     
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @& Arrears @& Bran @& Arrears @& Straw @& Arrears @& Its name
+$ single ruling
+2.	 @& 1 15 @& 200 @sila @&  @& 1 ... @& ... @& 7 @gur 80 @sila @&  @& Ubar-Šamaš
+3.	 @& 26 @& 60 @sila @& [n] @sila @& [...] @& [...] @& 2 @gur 180 @sila @&  @& Sin-iddinam
+4.	 @& 27 @& 60 @sila @& [n] @sila @& [...] @& [...] @& 2 @gur 210 @sila @&  @& Sin-reʾum
+5.	 @& 25 @& 66 @sila @& 3 @sila @& [...] @& [...] @& [...] @& 2 @gur 210 @sila @& Mine
+$ 1 blank line
+7.	 @&8 Property of Nanna of Ur
+8.	 @&8 
+$ 1 blank line
+@reverse
+$ several blank lines
+$ single ruling
+1.	 @&8 ...
+$ single ruling
+2.	 @&8 Tašritum (Month VI), third, day 21.
+3.	 @&8 Year: the second.
+
+

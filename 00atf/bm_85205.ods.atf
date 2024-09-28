@@ -1,0 +1,132 @@
+&P412465 = BM 085205
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	| [...] $TAB $BA $BI DA?# MUŠEN.DU₃-MEŠ ŠU#.[HA]-MEŠ.TA.AM₃ $NAM šu-pu-lu-ma mah-[(x)]-ru
+#lem:  u; u; u; u; u; +usandû[bird-catcher]N$; +bāʾeru[hunter//fisherman]N'N$bāʾerū; u; X; u 
+#note: I am indebted to Zsombor Földi for many improvements in the reading of this text
+$ 1 line blank
+2.	 & [...] x i-din-ia-tum & ta-ri-ba-tum & {d}SUEN-DINGIR & {d}EN₂#.LIL₂#-ZI.GA.A.NI & ŠU.NIGÍN A.ŠÀ & MU-BI.IM
+#lem:  u; u; +Iddiniatum[]PN$;  +Taribatum[]PN$;  +Sin-ilum[]PN$;  +Enlil-nišišu[]PN$; naphar[total]N; eqlētim[area]N;  šumšu[name]N 
+$ single ruling
+3.	 & 1(BURʾU) 4(BUR₃)# 2(IKU) 1/2(IKU)  & 2(BURʾU) 1(BUR₃) 1(EŠE₃) 4(IKU) 1/2(IKU) & 1(BURʾU) 6(BUR₃) 1(EŠE₃) 1/2(IKU) & ⸢1(BURʾU) 9(BUR₃)⸣ [2(EŠE₃)] 4(IKU) & 1(ŠAR₂) 1(BURʾU) 1(BUR₃) 2(EŠE₃) 5(IKU) 1/2(IKU) & BÀD.TIBIRA{ki}
+#lem:  n; n; n; n;  n; n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n; n; n;  +Bad-Tibira[]SN$ 
+
+4.	 & [3(BURʾU)?] 3(BUR₃) 2(IKU) 1/2(IKU) & 2(BURʾU) 9(BUR₃) 2(EŠE₃) 1(IKU) 1/2(IKU) & 4(BURʾU) 8(BUR₃) 2(IKU) 1/2(IKU) & ⸢3(BURʾU) 6(BUR₃)?⸣ 2(EŠE₃) 3(IKU) 1/2(IKU) & 2(ŠAR₂) 2(BURʾU) 7(BUR₃) 2(EŠE₃) 4(IKU) & IRI.DIDLI{ki} MA.DA 
+#lem:  n; n; n; n;  n; n; n; n; n;  n; n; n; n;  n; n; n; n; n;  n; n; n; n; n;  +ālu[city]N$ālū; +mātu[land]N$mātim 
+
+5.	| [I₃].DAB₅# LIBIR-MEŠ
+#lem:  +ṣibtu[seizure//holding (of land)]N'N$ṣibtū; +labīru[old]AJ$labīrūtum      
+
+6.	 & [4(BURʾU)]{gana₂} & 4(BURʾU){gana₂} & 4(BURʾU){gana₂} & 4(BURʾU){gana₂} & 2(ŠAR₂) 4(BURʾU){gana₂} & A.GÀR ni-ki-is-sà-ta-a
+#lem:  n;  n;  n;  n;  n; n;  ugār[(communally controlled) meadow]N; +Nikissataya[]GN$ 
+
+7.	 & [3(BURʾU)]{gana₂} & 3(BURʾU){gana₂} & 3(BURʾU){gana₂} & 3(BURʾU){gana₂} & 2(ŠAR₂){gana₂} & A.GÀR 1(ŠAR₂) 4(BURʾU){gana₂}-TA
+#lem:  n;  n;  n;  n;  n;  ugār[(communally controlled) meadow]N; n; n 
+
+8.	 & [3(BURʾU)]{gana₂} & 3(BURʾU){gana₂} & 3(BURʾU){gana₂} & 3(BURʾU){gana₂} & 2(ŠAR₂){gana₂} & A.GÀR u₄-mu-um
+#lem:  n;  n;  n;  n;  n;  ugār[(communally controlled) meadow]N; +Umum[]GN$ 
+
+9.	 & [1(BURʾU) 4(BUR₃) 1(EŠE₃)] 3(IKU)  & 1(BURʾU) 4(BUR₃) 1(EŠE₃) 3(IKU)  & 1(BURʾU) 4(BUR₃) 1(EŠE₃) 3(IKU)  & 1(BURʾU) 4(BUR₃) 1(EŠE₃) 3(IKU)  & 5(BURʾU) 8(BUR₃){gana₂} & A.GÀR GADA.KASKAL.LÁ
+#lem:  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n;  ugār[(communally controlled) meadow]N; X 
+
+10.	 & [1(BURʾU) 7(BUR₃) 1(EŠE₃)] 3(IKU)  & 1(BURʾU) 7(BUR₃) 1(EŠE₃) 3(IKU)  & 1(BURʾU) 7(BUR₃) 1(EŠE₃) 3(IKU)  & 1(BURʾU) 7(BUR₃) 1(EŠE₃) 3(IKU)  & 1(ŠAR₂) 1(BURʾU){gana₂} & A.GÀR il-tam-ka#-[...]
+#lem:  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n;  ugār[(communally controlled) meadow]N; u 
+
+11.	| {iri#}LARSA{ki}
+#lem:  +Larsa[]SN$      
+
+12.	 & ⸢5(BUR₃)⸣ 2(EŠE₃) 5(IKU) 1/2(IKU) & 5(BUR₃) 2(EŠE₃) 5(IKU) 1/2(IKU) & 5(BUR₃) 2(EŠE₃) 5(IKU) 1/2(IKU) & 5(BUR₃) ⸢2(EŠE₃)⸣ [5(IKU)] 1/4(IKU)#{gana₂} & 2(BURʾU) 3(BUR₃) 2(EŠE₃) 3(IKU) 3/4(IKU){gana₂#?} & A.GÀR Ú-HI.A
+#lem:  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n; n;  ugār[(communally controlled) meadow]N; +šammu[plant(s)//grass]N'N$šammī 
+
+13.	| {iri}ARAD-{d}SUEN{ki}
+#lem:  +Warad-Sin[]SN$      
+
+14.	 & 2(BUR₃) 1(EŠE₃) 3(IKU) & 2(BUR₃) 1(EŠE₃) 3(IKU) & 2(BUR₃) 1(EŠE₃) 3(IKU) & 2(BUR₃) 1(EŠE₃) 3(IKU) & 1(BURʾU){gana₂} & A.ŠÀ ha-pa-mil {íd}zi-nu-ki LUGAL?
+#lem:  n; n; n;  n; n; n;  n; n; n;  n; n; n;  n;  eqel[field]N; X; X; šarrim[king]N 
+
+15.	 & ⸢3(BUR₃)⸣ 2(EŠE₃) 1(IKU) 1/2(IKU) & 3(BUR₃) 2(EŠE₃) 1(IKU) 1/2(IKU) & 3(BUR₃) 2(EŠE₃) 1(IKU) 1/2(IKU) & 3(BUR₃) 2(EŠE₃) 1(IKU) 1/2(IKU) & 1(BURʾU) 5(BUR₃){gana₂} & A.GÀR $BA? [...]
+#lem:  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n;  ugār[(communally controlled) meadow]N; u; u 
+
+16.	 & [2(BURʾU)] 2(BUR₃) 1(EŠE₃) 3(IKU) & 1(BURʾU) 2(BUR₃) 1(EŠE₃) 3(IKU) & 1(BURʾU) 2(BUR₃) 1(EŠE₃) 3(IKU) & 1(BURʾU) 2(BUR₃) 1(EŠE₃) 3(IKU) & 1(ŠAR₂){gana₂} & A.GÀR gi-sa-na [...] $DAH
+#lem:  n; n; n; n;  n; n; n; n;  n; n; n; n;  n; n; n; n;  n;  ugār[(communally controlled) meadow]N; X; u; u 
+
+17.	| [{iri}BÀD]-TIBIRA{ki}
+#lem:  +Bad-Tibira[]SN$      
+
+@reverse
+1.	 & [2(BUR₃) 1(EŠE₃)] 3(IKU) & 2(BUR₃) 1(EŠE₃) 3(IKU) & 2(BUR₃) 1(EŠE₃) 3(IKU) & 2(BUR₃) 1(EŠE₃)# [3(IKU)] & 1(BURʾU){gana₂} & A.ŠÀ [...] {iri}maš-maš-e-ne{ki}
+#lem:  n; n; n;  n; n; n;  n; n; n;  n; n; n;  n;  eqel[field]N; u; +Mašmašene[]SN$ 
+
+2.	 &6 [(...)] {iri}ra-za-ma{ki}
+#lem:  u; +Razama[]SN$ 
+
+3.	 & [5(BUR₃){gana₂}] & [5(BUR₃)]{gana₂} & 5(BUR₃){⸢gana₂⸣} & [5(BUR₃){gana₂}] & [2(BURʾU)]{gana₂} & A.GÀR na-kam-tum
+#lem:  n;  n;  n;  n;  n;  ugār[(communally controlled) meadow]N; +Nakkamtum[]GN$ 
+
+4.	| {iri}nu-úr-{d}IŠKUR{ki}
+#lem:  +Nur-Adad[]SN$ 
+
+5.	 & 3(ŠAR₂)# [4(BURʾU) 1(BUR₃)] 1(EŠE₃)# [3(IKU)] & [3(ŠAR₂)] 3(BURʾU)# 5(BUR₃) [1(EŠE₃)] 4(IKU)#{⸢gana₂⸣} & 3(ŠAR₂) 4(BURʾU) 8(BUR₃) 2(EŠE₃) 1(IKU){gana₂} & 3(ŠAR₂) 3(BURʾU) 7(BUR₃) 2(EŠE₃) 4(IKU) 1/4(IKU){gana₂} & 1(ŠARʾU) 4(ŠAR₂) 4(BURʾU) 6(BUR₃) 2(IKU) 1/4(IKU){gana₂} & ša iš-⸢tu⸣ 30-[i?-din?-nam?] ù A₂?.GAL₂-MEŠ.ÀM [...] $ŠU [...] $DA $MU [...]
+#lem:  n; n; n; n; n; n; n; n; n; n;  n; n; n; n; n;  n; n; n; n; n; n;  n; n; n; n; n; n;  ša[that]REL; ištu[from]PRP; +Sin-iddinam[]PN$; u[and]CNJ; +muʾerru[leader (of an assembly)]N$muʾerrī; u; u; u; u; u; u 
+
+6.	 & [5(ŠAR₂)] & ⸢2(ŠAR₂) 5(BURʾU) 6(BUR₃)⸣ & 4(ŠAR₂) 1(BURʾU) & 3(ŠAR₂) 4(BURʾU) 8(BUR₃) & 1(ŠARʾU) 5(ŠAR₂) 5(BURʾU) 4(BUR₃){gana₂} & SAG NÍG.GA MUŠEN.DU₃# ŠU#.HA#-MEŠ
+#lem:  n;  n; n; n;  n; n;  n; n; n;  n; n; n; n;  rēš[head]N; +namkūru[property]N$namkūr; +usandû[bird-catcher]N$usandî; +bāʾeru[hunter//fisherman]N'N$bāʾerī 
+
+7.	 & [2(ŠAR₂)] 2(BUR₃) & 2(ŠAR₂) 2(BUR₃) & 2(ŠAR₂) 2(BUR₃) & [2(ŠAR₂) 2(BUR₃)] & 8(ŠAR₂)!(7(ŠAR₂)) 8(BUR₃) & SAG NÍG.GA LU₂ A.AB.BA
+#lem:  n; n;  n; n;  n; n;  n; n;  n; n;  rēš[head]N; namkūr[property]N; +awīlu[man]N$awīlī; +tiāmtu[sea//marsh]N'N$tiāmtim 
+
+$ single ruling
+8.	 &6 {⸢iti⸣}KIN.{d}INNIN 2-KAM.MA U₄ 5!-KAM
+#lem:  +Ululum[]MN$; n; ūm[day]N; n 
+
+9.	 &6 %s [mu] ha-am-mu-ra-bi %s lugal-e
+#lem:  mu[year]; Hammurabi[1]; lugal[king] 
+
+10.	 &6 %s ⸢bàd⸣ ma-ri{ki} ù ma-al-gi-a{ki}
+#lem:  bad[wall]; Mari[1]; u[and]; Malgium[]SN 
+
+11.	 &6 %s ⸢mu-un⸣-gul-la
+#lem:  gul[destroy] 
+
+@translation parallel en project
+@obverse
+1.	| [...] ... bird-catchers (and) fishermen ...
+$ 1 line blank
+2.	 @& [...] ... Iddiniatum @& Taribatum @& Sin-ilum @& Enlil-@?nišišu?@ @& Total area @& Its name
+$ single ruling
+3.	 @& 14 @bur 2 1/2 @iku @& 21 @bur 10 1/2 @iku @& 16 @bur 6 1/2 @iku @& 19 @bur 16 @iku @& 71 @bur 17 1/2 @iku @& Bad-Tibira
+4.	 @& 33 @bur 2 1/2 @iku @& 29 @bur 13 1/2 @iku @& 48 @bur 2 1/2 @iku @& 36 @bur 15 1/2 @iku @& 147 @bur 16 @iku @& Cities of the land
+5.	 @&6 Old @?land-holdings?@
+6.	 @& [40 @bur] @& 40 @bur @& 40 @bur @& 40 @bur @& 160 @bur @& Nikissataya meadow
+7.	 @& [30 @bur] @& 30 @bur @& 30 @bur @& 30 @bur @& 120 @bur @& Meadows @?of 100 @bur each@?
+8.	 @& [30 @bur] @& 30 @bur @& 30 @bur @& 30 @bur @& 120 @bur @& Umum meadow
+9.	 @& [14 @bur] 9 @iku @& 14 @bur 9 @iku @& 14 @bur 9 @iku @& 14 @bur 9 @iku @& 58 @bur @& .... meadow
+10.	 @& [17 @bur] 9 @iku @& 17 @bur 9 @iku @& 17 @bur 9 @iku @& 17 @bur 9 @iku @& 70 @bur @& .... meadow
+11.	 @&6 Larsa
+12.	 @& 5 @bur 16 1/2 @iku @& 5 @bur 17 1/2 @iku @& 5 @bur 17 1/2 @iku @& 5 @bur 17 1/4 @iku @& 23 @bur 15 @iku @& @?grass?@ meadow
+13.	| Warad-Sin town
+14.	 @& 2 @bur 9 @iku @& 2 @bur 9 @iku @& 2 @bur 9 @iku @& 2 @bur 9 @iku @& 10 @bur @& @?Royal?@ field ....
+15.	 @& 3 @bur 13 1/2 @iku @& 3 @bur 13 1/2 @iku @& 3 @bur 13 1/2 @iku @& 3 @bur 13 1/2 @iku @& 15 @bur @& .... meadow
+16.	 @& [22 @bur] 9 @iku @& 12 @bur 9 @iku @& 12 @bur 9 @iku @& 12 @bur 9 @iku @& 60 @bur @& .... meadow
+17.	| Bad-Tibira
+@reverse
+1.	 @& [2 @bur] 9 @iku @& 2 @bur 9 @iku @& 2 @bur 9 @iku @& 2 @bur 9 @iku @& 10 @bur @& Field of [...] ... town
+2.	 @&6 Razama town
+3.	 @& [5 @bur] @& [5 @bur] @& 5 @bur @& [5 @bur] @& [20 @bur] @& Nakkamtum meadow
+4.	| Nur-Adad town
+5.	 @& [221 @bur 9 @iku] @& 215 @bur 10 @iku @& 228 @bur 13 @iku @& 217 @bur 16 1/4 @iku @& 886 @bur 2 1/4 @iku @& That from Sin-[@?iddinam?@] and the assembly-leaders [...] ... [...] ... [...]
+6.	 @& [300 @bur] @& 176 @bur @& 250 @bur @& 228 @bur @& 954 @bur @& Available assets of the bird-catchers and fishermen
+7.	 @& 122 @bur @& 122 @bur @& 122 @bur @& [122 @bur] @& 488 @bur @& Available assets of the marsh-dwellers
+$ single ruling
+8.	 @&6 Second Ululum (Month VI/2), day 5
+9.	 @&6 Year: Hammurabi the king destroyed the walls of Mari and Malgium.
+
+

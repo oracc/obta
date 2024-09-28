@@ -1,0 +1,238 @@
+&P347349 = OECT 15, 006
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+# Ashmolean 1922.277
+
+@tablet
+@obverse
+1.	| IGI.DU₈.A šu-ku-un-na A.ŠÀ ⸢UKU⸣.UŠ-MEŠ ù a-hi-a-tim
+#lem:  +tāmartu[view(ing)//inspection]N'N$tāmarti; +šukunnû[estimated yield]N$šukunnā; +eqlu[field]N$eqlāt; +rēdû[soldier]N$rēdî; u[and]CNJ; +ahītu[side//additional payment]N'N$ahiātim 
+
+2.	| NÍG É.GAL ù NÍG É {d}NANNA nir-da⸢{ki}⸣ ù {iri}kur-kar-nu{ki}
+#lem:  +būšu[goods//property]N'N$būš; ēkallim[palace]N; u[and]CNJ; būš[property]N; +bītu[house//temple]N'N$bīt; Nanna[1]DN; +Nirda[]SN$; u[and]CNJ; +Kurkanu[]SN$ 
+
+$ double ruling
+3.	 & A.ŠÀ AB.SÍN & ŠE-BI & AB.SÍN ŠE NU? & MU-BI.IM
+#lem:  +eqlu[field//area]N'N$eqel; +šerʾu[furrow]N$šerʾātim;  +šeʾu[barley//grain]N'N$šeʾšu;  šerʾātim[furrow]N; X; +lā[not]MOD$;  šumšu[name]N 
+
+$ single ruling
+4.	 & 1(BURʾU) 4(BUR₃) 1(EŠE₃) 2(IKU) 5 <SAR> & 4(GEŠ₂) 1(U) 2(AŠ) <GUR> 4(BARIG) 2.2/3 <SILA₃> & 1(BUR₃) 1(EŠE₃) 1(IKU) & ša UKU.UŠ-MEŠ ša a-na AD.DA-NI it-bu-ú
+#lem:  n; n; n; n; n; mūšar[unit]N;  n; n; n; kur[unit]N; n; n; qā[unit]N;  n; n; n;  ša[of]DET; rēdî[soldier]N; ša[who]REL; ana[for]PRP; +abu[father]N$abišu; +tebû[get up//stand in]V'V$itbû 
+
+5.	 & ŠÀ-BA & 1(U) 9(AŠ) <GUR> 2(BARIG) 5(BAN₂) 5 <SILA₃> &  & APIN ENSÍ
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; kur[unit]N; n; n; n; qā[unit]N;   +mēreštu[planting//cultivated field]N'N$mērešti; +iššiakku[city-ruler//(a class of farmer)]N'N$iššiakkim 
+
+$ single ruling
+6.	 & 1(BURʾU) 1(EŠE₃) 5(IKU) & 2(GEŠ₂) 3(U) 6(AŠ) <GUR> 5(BAN₂) & 1(BUR₃) 2(EŠE₃) 5(IKU) 1.10 <SAR> & ša UKU.UŠ-MEŠ ša ki-ma EREN₂ UG₇ ZÁH <it-bu-ú>
+#lem:  n; n; n;  n; n; n; kur[unit]N; n;  n; n; n; n; mūšar[unit]N;  ša[of]DET; rēdî[soldier]N; ša[who]REL; +kīma[like//instead of]PRP'PRP$; +ṣābu[people//troops]N'N$ṣābī; +mītu[dead]AJ$mītūtim; +halqu[lost//fugitive]AJ'AJ$halqūtim; itbû[stand in]V 
+
+7.	 & ŠÀ-BA & 3(U) 4(BARIG) 1(BAN₂) GUR &  & APIN ENSÍ
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; n; kur[unit]N;   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N 
+
+$ single ruling
+8.	 & 8(BUR₃) 5 SAR & 2(GEŠ₂) 1(U) 3(AŠ) <GUR> 1(BARIG) 1(BAN₂) 1 SILÀ & 1(BUR₃) 1(EŠE₃) 4(IKU) & ša ERÉN UG₇ ZÁH
+#lem:  n; n; mūšar[unit]N;  n; n; n; kur[unit]N; n; n; n; qā[unit]N;  n; n; n;  ša[of]DET; +ṣābu[people//troops]N'N$ṣābī; mītūtim[dead]AJ; halqūtim[fugitive]AJ 
+
+9.	 & ŠÀ-BA & 1(U) 2(AŠ) <GUR> 2(BARIG) 3(BAN₂) &  & APIN ENSÍ
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; kur[unit]N; n; n;   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N 
+
+$ single ruling
+10.	 & 1(BUR₃) 2(EŠE₃) 5(IKU) & 4(U) 1(AŠ) <GUR> 3(BAN₃) 3.1/3 SILÀ &  & DUB.SAR {d}za-ba₄-ba₄-na-ṣir
+#lem:  n; n; n;  n; n; kur[unit]N; n; n; qā[unit]N;   +ṭupšarru[scribe]N$ṭupšarrum; +Zababa-naṣir[]PN$ 
+
+$ single ruling
+11.	 & 3(BURʾU) 5(BUR₃) 10 SAR & 9(GEŠ₂) 4(U) 3(AŠ) <GUR> 1(BARIG) 5(BAN₂) 7 SILÀ & 4(BUR₃) 2(EŠE₃) 4(IKU) 1.10 <SAR> & UKU.UŠ NÍG.ŠU {d}URAŠ-mu-ba-lí-iṭ
+#lem:  n; n; n; mūšar[unit]N;  n; n; n; kur[unit]N; n; n; n; qā[unit]N;  n; n; n; n; mūšar[unit]N;  +rēdû[soldier]N$; būš[property]N; +Uraš-muballiṭ[]PN$ 
+
+12.	 & ŠÀ-BA & 1(GEŠ₂) 2(AŠ) <GUR> 4(BARIG) 3(BAN₂) 5 SILÀ &  & APIN ENSÍ
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; kur[unit]N; n; n; n; qā[unit]N;   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N 
+
+$ single ruling
+13.	 & 1(EŠE₃) & 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & EREN₂ UG₇ APIN {d}URAŠ-mu-ba-lí-iṭ
+#lem:  n;  n; kur[unit]N; n; n;   +ṣābu[people//troops]N'N$ṣābū; +mītu[dead]AJ$mītūtum; mērešti[cultivated field]N; Uraš-muballiṭ[1]PN 
+
+14.	 & 4(IKU) & 3(AŠ) <GUR> 3(BARIG) 4(BAN₂) 5 <SILA₃>  & ša & ERÉN GAG.<SI>.SÁ APIN É-IGI.DU₈-BI ; ù zi-kir-ì-lí-šu
+#lem:  n;  n; kur[unit]N; n; n; n; qā[unit]N;  ša[of]DET;  +ṣābu[people//troops]N'N$ṣābū; +šukudu[arrow]N$šukudim; mērešti[cultivated field]N; +E-igidu-bi[]PN$; u[and]CNJ; +Zikir-ilišu[]PN$ 
+
+$ single ruling
+15.	 & 1(BUR₃) 1(EŠE₃) 4(IKU) & 7(AŠ) <GUR> 3(BAN₂) 5 <SILA₃>  &  & NÍG.ŠU in-bu-ša
+#lem:  n; n; n;  n; kur[unit]N; n; n; qā[unit]N;   būš[property]N; +Inbuša[]PN$ 
+
+$ single ruling
+16.	 & 3(BURʾU) 5(BUR₃) 1(EŠE₃) 4(IKU) 10 <SAR> & 9(GEŠ₂) 5(U) <GUR> 2(BARIG) 2(BAN₂) 2 SILÀ & 4(BUR₃) 2(EŠE₃) 4(IKU) 1.10 <SAR> & ⸢ŠÀ A.ŠÀ.ŠUKU⸣-MEŠ UKU.UŠ-MEŠ
+#lem:  n; n; n; n; n; mūšar[unit]N;  n; n; kur[unit]N; n; n; n; qā[unit]N;  n; n; n; n; mūšar[unit]N;  +ina[in]PRP$&+libbu[interior]N$libbi; +šukūsu[subsistence (field)]N$šukūsī; rēdî[soldier]N 
+
+17.	 & ŠÀ-BA & 1(GEŠ₂) 6(AŠ) <GUR> 3(BARIG) 2(BAN₂) &  & APIN ENSÍ
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; kur[unit]N; n; n;   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N 
+
+$ single ruling
+@bottom
+1.	 & 8(BUR₃) 3(IKU) & 2(GEŠʾU) 1(U) 8(AŠ) <GUR> 2(BARIG) 2(BAN₂) 1.2/3 <SILA₃> &  & ša a-hi-a-tim
+#lem:  n; n;  n; n; n; kur[unit]N; n; n; n; qā[unit]N;   ša[of]DET; ahiātim[additional payment]N 
+
+$ single ruling
+@reverse
+1.	 & 1(BURʾU) 5(BUR₃) 2(EŠE₃) 4(IKU) 10 <SAR>  & 3(GEŠ₂) 2(U) 7(AŠ) <GUR> 1(BAN₂) 6.2/3 [SILÀ] & [...] & [x] $A ni-di-it É.GAL ; APIN x x NÍG.KU₅ ŠU.RI.A
+#lem:  n; n; n; n; n; mūšar[unit]N;  n; n; n; kur[unit]N; n; n; qā[unit]N;  u;  u; u; +nidītu[unbuilt plot]N$nidīt; ēkallim[palace]N; mērešti[cultivated field]N; u; u; +miksu[tax (on produce)//land-owner's share]N'N$mikis; +mišlānū[half (shares)]N$mišlānī 
+
+2.	 &  & ŠÀ-BA 1(AŠ) <GUR> 1(BARIG) 1(BAN₂) 5 <SILA₃> &  & APIN ENSÍ
+#lem:   +ina[in]PRP$&+libbu[interior]N$libbišu; n; kur[unit]N; n; n; n; qā[unit]N;   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N 
+
+$ single ruling
+3.	 & 5(BURʾU) 8(BUR₃) 1(EŠE₂) 5(IKU) 20 <SAR> & 1(GEŠʾU) 5(GEŠ₂) 3(U) 6(AŠ) <GUR> 1/3 SILÀ &  & NÍG É.GAL
+#lem:  n; n; n; n; n; mūšar[unit]N;  n; n; n; n; kur[unit]N; n; qā[unit]N;   būš[property]N; ēkallim[palace]N 
+
+$ single ruling
+4.	 & ŠÀ-BA &3 1(GEŠ₂) 7(AŠ) <GUR> 4(BARIG) [3(BAN₂)] 5 SILÀ APIN ENSÍ É {d}NANNA
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; kur[unit]N; n; n; n; qā[unit]N; mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N; bīt[temple]N; Nanna[1]DN 
+
+5.	 &  &3 1(U) 8(AŠ) <GUR> 4(BARIG) [UKU.UŠ-MEŠ] ⸢ša?⸣ ki-ma a-bi-šu it-bu-ú
+#lem:   n; n; kur[unit]N; n; rēdî[soldier]N; ša[who]REL; kīma[instead of]PRP; +abu[father]N$abišu; itbû[stand in]V 
+
+6.	 &  &3 4(U) GUR [UKU.UŠ-MEŠ ša] ki-ma EREN₂ UG₇ ZÁH it-bu-ú
+#lem:   n; kur[unit]N; rēdî[soldier]N; ša[who]REL; kīma[instead of]PRP; +ṣābu[people//troops]N'N$ṣābī; mītūtim[dead]AJ; halqūtim[fugitive]AJ; itbû[stand in]V 
+
+7.	 &  &3 1(GEŠ₂) 4(U) 8(AŠ) <GUR> 4(BARIG) [2(BAN₂)] 6.2/3 <SILA₃> ša EREN₂ UG₇ ZÁH APIN {d}URAŠ-mu-ba-lí-iṭ
+#lem:   n; n; n; kur[unit]N; n; n; n; qā[unit]N; ša[who]REL; ṣābum[troops]N; mītūtim[dead]AJ; halqūtim[fugitive]AJ; mērešti[cultivated field]N; Uraš-muballiṭ[1]PN 
+
+8.	 &  & nir-da{ki#}
+#lem:   Nirda[1]SN 
+
+$ single ruling
+9.	 & 5(BUR₃) 1(EŠE₃) & 1(GEŠ₂) 8(AŠ) <GUR> 4(BARIG) 2(BAN₂) 6.2/3 (SILÀ) & 1(BUR₃) 3(IKU) & UKU.UŠ NÍG.ŠU i-din-{d}la-ga-ma-al & 
+#lem:  n; n;  n; n; kur[unit]N; n; n; n; qā[unit]N;  n; n;  +rēdû[soldier]N$; būš[property]N; +Iddin-Lagamal[]PN$  
+
+10.	 & ŠÀ-BA & 4(U) 1(AŠ) <GUR> 3(BARIG) 4(BAN₂) 3.1/3 SILÀ &  & APIN ENSÍ É {d}NANNA & 
+#lem:  +ina[in]PRP$&+libbu[interior]N$libbišu;  n; n; kur[unit]N; n; n; n; qā[unit]N;   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N; bīt[temple]N; Nanna[1]DN  
+
+$ single ruling
+11.	 & 2(BUR₃) 1(EŠE₃) & 1(GEŠ₂) 1(U) GUR &  & ša ba-li-ṭu₃-GI₄ DUMU a-ú-mi ; i-na ṭup-pi la in-nam-di & 
+#lem:  n; n;  n; n; kur[unit]N;   ša[of]DET; +Balliṭu-taru[]PN$; mār[son]N; +yāʾu[my]PP$yāʾumi; ina[in]PRP; +ṭuppu[(clay) tablet]N$ṭuppī; lā[not]MOD; +nadû[throw (down)//record]V'V$innamdi  
+
+12.	 &  &3 APIN ENSÍ É {d}NANNA ša ma-la i-li-a-am & 
+#lem:   mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N; bīt[temple]N; Nanna[1]DN; ša[that]REL; +mala[as much as]PRP'SBJ$; +elû[go up]V$īliam  
+
+13.	 &  &3 {iri}kur-[kar]-nu-um{ki}  & 
+#lem:   +Kurkanu[]SN$Kurkanum  
+
+$ single ruling
+14.	 &  & NÍG É.GAL &  &  & 
+#lem:   būš[property]N; ēkallim[palace]N    
+
+15.	 & 9(BUR₃) 1(EŠE₃) 1(IKU) & 4(GEŠ₂) 1(U) 4(AŠ) <GUR> 2(BARIG) 1(BAN₂) 3.1/3 <SILA₃>  & 1(BUR₃) x [...]  & GÚ.UN APIN ENSÍ É {d}NANNA & 
+#lem:  n; n; n;  n; n; n; kur[unit]N; n; n; n; qā[unit]N;  n; u; u;  +biltu[load//rent]N'V$bilat; mērešti[cultivated field]N; iššiakkim[(a class of farmer)]N; bīt[temple]N; Nanna[1]DN  
+
+16.	 & 4(BURʾU) 2(BUR) 2(IKU) 4(U) SAR & 1(GEŠ₂) 1(GEŠʾU) 2(GEŠ₂) 5(U) 2(AŠ) <GUR> 4(BARIG) 4(BAN₂) 3.1/3 <SILA₃> & 5(BUR₃) [...] & [A].ŠÀ ni-di-it {d}NANNA APIN LÚ DIDLI & 
+#lem:  n; n; n; n; mūšar[unit]N;  n; n; n; n; n; kur[unit]N; n; n; n; qā[unit]N;  n; u;  eqel[field]N; nidīt[unbuilt plot]N; Nanna[1]DN; mērešti[cultivated field]N; +awīlu[man]N$awīlī; +wēdû[prominent]AJ$wēdûtim  
+
+17.	 &  & ŠÀ-<BA> 5(GEŠ₂) 1(U) 6(AŠ) <GUR> 4(BARIG) 1(BAN₂) 8 <SILA₃>  & [...] & [APIN] UKU.UŠ-MEŠ  & 
+#lem:   +ina[in]PRP$&+libbu[interior]N$libbišu; n; n; n; kur[unit]N; n; n; n; qā[unit]N;  u;  mērešti[cultivated field]N; rēdî[soldier]N  
+
+$ single ruling
+18.	 & 5(BURʾU) 2(BUR₃) 1(IKU) 4(U) <SAR> & 1(GEŠ₂) 1(GEŠʾU) 7(GEŠ₂) 7(AŠ) <GUR> 1(BARIG) 4(BAN₂) 6.2/3 <SILA₃>  & ⸢6(BUR₃)⸣ [...] x & GÚ.UN ù NÍG.GÁL.LA  & 
+#lem:  n; n; n; n; mūšar[unit]N;  n; n; n; n; kur[unit]N; n; n; n; qā[unit]N;  n; u; u;  +biltu[load//rent]N'N$biltum; u[and]CNJ; +būšu[goods//property]N'N$būšum  
+
+19.	 &  & ŠÀ-<BA> 5(GEŠ₂) 1(U) 6(AŠ) <GUR> 4(BARIG) 1(BAN₂) ⸢8⸣ <SILA₃>  & [...] x & APIN UKU.UŠ-MEŠ & 
+#lem:   +ina[in]PRP$&+libbu[interior]N$libbišu; n; n; n; kur[unit]N; n; n; n; qā[unit]N;  u; u; mērešti[cultivated field]N; rēdî[soldier]N  
+
+$ single ruling
+20.	 &  & nir-da{ki#} &  &  & 
+#lem:   Nirda[1]SN    
+
+@top
+1.	 & 4(BUR₃) 4(IKU) & 1(GEŠ₂) 2(U) 4(AŠ) <GUR> 2(BARIG) 1(BAN₂) 3.1/3 <SILA₃> & 2(BUR₃) 1(IKU) & GÚ.UN NÍG.ŠU zi-im-ru-nim? & 
+#lem:  n; n;  n; n; n; kur[unit]N; n; n; n; qā[unit]N;  n; n;  bilat[rent]N; būš[property]N; X  
+
+2.	 & 2(EŠE₃) 5(IKU) & 2(U) 5(AŠ) <GUR> 3(BARIG) 5(BAN₂) 3.1/3 <SILA₃>  &  & NÍG.GÁL.LA NÍG.KU₅ ŠU.RI.A & 
+#lem:  n; n;  n; n; kur[unit]N; n; n; n; qā[unit]N;   būšum[property]N; mikis[land-owner's share]N; mišlānī[half (shares)]N  
+
+$ single ruling
+3.	 & 5(BUR₃) 3(IKU) & 1(GEŠ₂) 5(U) 1(AŠ) <GUR> 6.2/3 <SILA₃> & 2(BUR₃) 1(IKU) & {iri}kur-kar-nu{<ki>} & 
+#lem:  n; n;  n; n; n; kur[unit]N; n; qā[unit]N;  n; n;  Kurkanu[1]SN  
+
+$ single ruling
+4. 	 &  & NÍG É {d}NANNA &  &  & 
+#lem:   būš[property]N; bīt[temple]N; Nanna[1]DN    
+
+@left
+1.	| {iti}SIG₄.A U₄ 20-KAM MU BÀD má-rí{ki}
+#lem:  +Simanu[]MN$Simanum; ūm[day]N; n; +šattu[year]N$šanat; +dūru[(city) wall]N$dūr; +Mari[]SN$ 
+
+
+@translation parallel en project
+@obverse
+1.	| Inspection of estimated yields for the fields of soldiers and additional payments, 
+2.	| property of the palace and property of the Nanna's temple in Nirda and Kurkarnu town.
+$ double ruling
+3. 	 @& Furrowed area @& Its grain @& Furrowed, not sown @& Its name
+$ single ruling
+4.	 @& 260 @iku, 5 @sar @& 252 @gur 242 2/3 @sila @& 25 @iku @& Of the soldiers who stood in for their fathers 
+5.	 @& From it @& 19 @gur 175 @sila @&  @& The middle-man's cultivated land
+$ single ruling
+6.	 @& 189 @iku @& 156 @gur 50 @sila @& 1;59  @& Of the soldiers who <stood in> for dead or absconded troops.
+7.	 @& From it @& 30 @gur 250@sila @&  @& The middle-man's cultivated land
+$ single ruling
+8.	 @& 144 @iku 5@sar @& 133 @gur 71 @sila @& 28 @iku @& Of the dead or absconded troops
+9.	 @& From it @& 12 @gur 150 @sila @&  @& The middle-man's cultivated land
+$ single ruling
+10.	 @& 25 @iku @& 41 @gur 33 1/3 @sila @&  @& Zababa-naṣir's scribe
+$ single ruling
+11.	 @& 630 @iku 10 @sar @& 583 @gur 117 @sila @& 88 @iku 70 @sar @& Soldiers and property of Uraš-muballiṭ
+12.	 @& From it @& 62 @gur 275 @sila @&  @& The middle-man's cultivated land
+$ single ruling
+13.	 @& 12 @iku @& 3 @gur 100 @sila @&  @& Dead troops; ploughman Uraš-muballiṭ
+14.	 @& 4 @iku @& 3 @gur 225 @sila @&  @& Of the @?arrow?@ troops; ploughmen E-igidu-bi and Zikir-ilišu
+$ single ruling
+15.	 @&  @& 7 @gur 35 @sila @&  @& Property of Inbuša
+$ single ruling
+16.	 @& 646 @iku 10 @sar @& 590 @gur 152 @sila @& 88 @iku 70 @sar @& From the maintenance fields of the soldiers
+17.	 @& From it @& 66 @gur 200 @sila @&  @& The middle-man's cultivated land
+$ single ruling
+@bottom
+1.	 @& 147 @iku @& 138 @gur 141 2/3 @sila @&  @& Of the additional payments
+$ single ruling
+@reverse
+1.	 @& 286 @iku 10 @sar @& 207 @gur 16 2/3 @sila @&  @& ... waste-land of the palace ... the land-owner's half-share
+2.	 @& From it @& 1 @gur 75 @sila @&  @& The middle-man's cultivated land
+$ single ruling
+3.	 @& 1055 @iku 20 @sar @& 936 @gur 1/3 @sila @& [...] @& Property of the palace
+$ single ruling
+4.	 @& From it @& 67 @gur 275 @sila @&  @& Cultivated land of the middle-men and Nanna's temple
+5.	 @&  @& 18 @gur 240 @sila [...] @&  @& [Soldiers who] stood in for their fathers
+6.	 @&  @& 40 @gur [...] @&  @& [Soldiers who] stood in for dead or absconded troops
+7.	 @&  @& 108 @gur 266 2/3 @sila  @&  @& Of the dead or absconded troops, Uraš-muballiṭ's cultivated land
+8.	 @&  @& Nirda @&  @& 
+$ single ruling
+9.	 @& 96 @iku @& 68 @gur 266 2/3 @sila @& 21 @iku @& Soldiers, property of Iddin-Lagamal
+10.	 @& From it @& 41 @gur 223 1/3 @sila @&  @& Cultivated land of the middle-men and Nanna's temple
+$ single ruling
+11.	 @& 42 @iku @& 70 @gur @&  @& Of @?Baliṭu-taru?@, son @?of mine?@, not recorded in the tablets.
+12.	 @&  @&3 Cultivated land of the middle-men and Nanna's temple, as much as came up here
+13.	 @&  @&3 Town of Kurkarnu
+$ single ruling
+14.	 @&  @&3 Property of the palace 
+15.	 @& 169 @iku @& 254 @gur 133 1/3 @sila @& 18 @iku [...] @& Tax of the cultivated land of the city governor and Nanna's temple
+16.	 @& 768 @iku 40 @sar @& 4372 @gur 283 2/3 @sila @& 90 @iku [...] @& Fields of the waste-land of Nanna, the cultivated fields of prominent men
+17.	 @& From it  @& 316 @gur 258 @sila @&  @& The soldiers' cultivated land
+$ single ruling
+18.	 @& 937 @iku 40 @sar  @& 4627 @gur 106 2/3 @sila @& 108 @iku [...] @& Tax and goods
+19.	 @& From it @& 316 @gur 258 @sila @&  @& The soldiers' cultivated land
+$ single ruling
+20.	 @&  @& Nirda @&  @& 
+@top
+1.	 @& 76 @iku @& 84 @gur 133 1/3 @sila @& 37 @iku @& Tax of the property of ...
+2.	 @& 17 @iku @& 25 @gur 233 1/3 @sila @&  @& Goods and the owners' half-shares
+$ single ruling
+3.	 @& 93 @iku @& 111 @gur 6 2/3 @sila @& 37 @iku @& Town of Kurkarnu
+$ single ruling
+4.	 @&  @&3 Property of Nanna's temple
+
+@left
+1.	| Simanum (Month III), day 20, year the wall of Mari was destroyed
+
+

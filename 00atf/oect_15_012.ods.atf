@@ -1,0 +1,147 @@
+&P347355 = OECT 15, 012
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+# museum number
+
+@tablet
+@obverse
+1.	| [...] ERÉN UG₇ UKU.UŠ-MEŠ ŠA₃ ÉŠ.GÀR ŠA₃ ni-di-tim É.GAL
+#lem:  u; ṣābū[troops]N; mītūtum[dead]AJ; rēdû[soldier]N; ina[in]PRP$ina&libbu[interior]N$libbi; +iškāru[work assignment]N$iškārī; ina[in]PRP$ina&libbu[interior]N$libbi; +nidītu[unbuilt plot]N$nidītim; ēkallim[palace]N 
+
+2.	| [...] ù ŠA₃ ERÉN UG₇ a-hi-a-tim-ma {d}UTU-mu-ša-lim UGULA ID₂.DA ù x LÚ DIDLI NÍG.KU₅ ŠU.RI.A
+#lem:  u; u[and]CNJ; ina[in]PRP$ina&libbu[interior]N$libbi; ṣābī[troops]N; mītūtim[dead]AJ; +ahītu[side//additional payment]N'N$ahiātimma; +Šamaš-mušallim[]PN$; +waklu[overseer]N$wakil; X; u[and]CNJ; u; awīlī[man]N; wēdûtim[prominent]AJ; mikis[land-owner's share]N; mišlānī[half (shares)]N 
+
+3.	| [...] ša a-na {d}UTU-mu-ša-lim a-na šu-ud-du-nim na-ad-nu
+#lem:  u; ša[that]REL; ana[to]PRP; Šamaš-mušallim[1]PN; ana[for]PRP; +nadānu[give//collecting]V'N$šuddunim; +nadnu[given]AJ$nadnū 
+
+4.	| [...] {iri}ia-zi-lum{ki} {iri}DUMU.MUNUS-LUGAL{ki} ù {iri}ia-en-ku-ú{ki}
+#lem:  u; +Yazilum[]SN$; +Marat-šarrim[]SN$; u[and]CNJ; +Yaʾenkum[]SN$Yaʾenku 
+
+5.	| [...] ⸢GU₂?⸣ {id₂}lib₃-bi-tum BAL.RI a-a-bi
+#lem:  u; +ahu[side//bank]N'N$ah; +Libbitum[]WN$; +ebertu[bank//other side]N'N$eberti; +ayyābu[enemy]N$ayyābī 
+
+$ double ruling
+6.	 & A.ŠÀ AB.SÍN & NÍG.GAR  & ŠE-BI & AB.SÍN NU & MU-BI.IM
+#lem:  eqel[area]N; šerʾātim[furrow]N;  +šukunnû[estimated yield]N$šukunnûm;  šeʾšu[grain]N;  +šerʾu[furrow]N$šerʾātum; lā[not]MOD;  šumšu[name]N 
+
+$ single ruling
+7.	 & 1(BUR₃) 1(EŠE₃) 3(IKU) & 2(U) <GUR>  & 1(U) 5(AŠ) GUR  & TIL & a-pí-ia-tum DUMU a-hi-a-ba-al
+#lem:  n; n; n;  n; kur[unit]N;  n; n; kur[unit]N;  +qatû[ended//completed]AJ'AJ$qati;  +Apiatum[]PN$; mār[son]N; +Ahi-abal[]PN$ 
+
+8.	 & 1(BUR₃) 2(EŠE₃) & 4(U) <GUR> & 1(U) 6(AŠ) ⸢3(BARIG)⸣ 2(BAN₂) GUR  & TIL & ì-lí-ip-pa-al-sà-⸢am DUMU ì-lí-ni⸣-ta-a-nu
+#lem:  n; n;  n; kur[unit]N;  n; n; n; n; kur[unit]N;  qati[completed]AJ;  +Ili-ippalsam[]PN$; mār[son]N; X 
+
+$ single ruling
+9.	 &  &  &  &2 ša 2 UKU.UŠ $GAR [...] x-si?-da{ki} {iri}ia-zi-lum{ki}
+#lem:     ša[that]REL; n; rēdû[soldier]N; u; u; u; Yazilum[1]SN 
+
+10.	 & 2(EŠE₃){gana₂} & 4(U) <GUR> & 1(U) 3(AŠ) 1(BARIG) ⸢4(BAN₂)⸣ GUR & TIL & {d}UTU-x [...]
+#lem:  n;  n; kur[unit]N;  n; n; n; n; kur[unit]N;  qati[completed]AJ;  u; u 
+
+11.	 & 2(EŠE₃){gana₂} & 4(U) <GUR> & 1(U) 3(AŠ) 1(BARIG) [4(BAN₂) GUR] & TIL & x [...]
+#lem:  n;  n; kur[unit]N;  n; n; n; n; kur[unit]N;  qati[completed]AJ;  u; u 
+
+12.	 & 2(EŠE₃){gana₂} & 4(U) <GUR> & ⸢1(U) 3(AŠ)⸣ [1(BARIG) 4(BAN₂) GUR] & [TIL] & [...]
+#lem:  n;  n; kur[unit]N;  n; n; n; n; kur[unit]N;  qati[completed]AJ;  u 
+
+13.	 & 2(EŠE₃){gana₂} & 4(U) <GUR> & [6(AŠ) 3(BARIG) 2(BAN₂) GUR] & [TIL] & [...]
+#lem:  n;  n; kur[unit]N;  n; n; n; kur[unit]N;  qati[completed]AJ;  u 
+
+14.	 & 1(EŠE₃){gana₂} & 4(U) <GUR> & [1(U) 3(AŠ) 1(BARIG) 4(BAN₂) GUR] & [TIL] & [...]
+#lem:  n;  n; kur[unit]N;  n; n; n; n; kur[unit]N;  qati[completed]AJ;  u 
+
+$ rest of obverse missing
+
+@reverse
+$ start of reverse missing
+1'.	 &  & ⸢3(BURʾU)⸣ [...] & [...] & [...] & [...]
+#lem:   n; u;  u; u; u 
+
+2'.	 & ŠE-BI  & 1(GEŠ₂) 1(GEŠʾU) 2(GEŠ₂) [... (GUR)] & [...] & [...] & [...]
+#lem:  šeʾšu[grain]N;  n; n; n; u; kur[unit]N;  u; u; u 
+
+3'.	 &  & APIN {d}UTU-[...] & [...] & [...] & [...]
+#lem:   mērešti[cultivated field]N; u;  u; u; u 
+
+4'.	 &  &4 ša a-na {d}UTU-mu-ša-lim ú-⸢x⸣-[...]
+#lem:   ša[that]REL; ana[for]PRP; Šamaš-mušallim[1]PN; u 
+
+$ single ruling
+$ 2 lines blank
+5'.	| GÌR {d}UTU-ha-zi-ir {m}{d}AMAR.UTU-na-ṣi-ir SAG?.UŠ?
+#lem:  +šēpu[foot//responsibility]N'N$šēp; +Šamaš-hazir[]PN$; +Marduk-naṣir[]PN$; X 
+
+6'.	| [... x]-{d}INNIN {m}be-el-šu-nu {m}{d}UTU-ma-gir {d}a-píl-{d}MAR.TU
+#lem:  u; +xxx-Ištar[]PN; +Belšunu[]PN$; +Šamaš-magir[]PN$; +Apil-Amurrim[]PN$ 
+
+7'.	| {m}mu-na-wi-rum {d}SUEN-ip-pa-al-sà-am AD.DA MAR!.TU!-MEŠ ù ŠÀ.TAM-MEŠ
+#lem:  +Munawwirum[]PN$; +Sin-ippalsam[]PN$; +abu[father//sheikh]N'N$abbū; +Amurru[Amorite]EN$Amurrim; u[and]CNJ; +šatammu[administrator//government auditor]N'N$šatammū 
+
+$ single ruling
+$ 2 lines blank
+8'.	| {iti}SIG₄.A U₄ 6-KAM
+#lem:  Simanum[1]MN; ūm[day]N; n 
+
+9'.	| %s ⸢mu⸣ ha-am-mu-ra-bi lugal-e
+#lem:  mu[year]; Hammurabi[]RN; lugal[king] 
+
+10'.	| %s [inim] ⸢an {d}en-líl⸣-lá-ta
+#lem:  inim[word]; An[1]; Enlil[]DN 
+
+@top
+1'.	| %s [bàd ma-rí{ki} ù] ⸢bàd⸣ ma-al-gi₄-a{ki}
+#lem:  bad[wall]; Mari[]SN; u[and]; bad[wall]; Malgium[]SN 
+
+2'.	| %s [mu]-⸢un⸣-gul-la
+#lem:  gul[destroy] 
+
+
+@translation parallel en project
+@obverse
+1.	| [...] dead workers, soldiers from which, the work-rate of unbuilt land (and) the palace
+2.	| [...] and from which the dead troops (and) @?additional payments?@ Šamaš-mušallim overseer of the river and prominent men, the land-owners' half-shares
+3.	| [...] which were given to Šamaš-mušallim to be collected.
+4.	| [...] Yazilum town, Marat-šarrim town, and Ya'enkum town. 
+5.	| [...] by @?Libbitum?@ river on the opposite bank to the @?enemy?@
+$ double ruling
+6.	 @& Furrowed area  @& Estimated yield rate  @& Its grain @& Not furrowed @& its name
+$ single ruling
+7.	 @& 27 @iku @& 20 (@gur) @& 15 @gur @& completed @& Apiatum, son of Ahi-abal
+8.	 @& 30 @iku @& 20 (@gur) @& 16 @gur 260 @sila @& completed @& Ili-ippalsam, son of @?Ili-nitanu?@
+$ single ruling
+9.	 @&  @&  @&  @&2 that 2 soldiers ... [...] ... Yazilum town
+10.	 @& 12 @iku @& 40 (@gur) @& 13 @gur 100 @sila @& completed @& Šamaš-... [...]
+11.	 @& 12 @iku @& 40 (@gur) @& 13 @gur 100 @sila @& completed @& [...]
+12.	 @& 12 @iku @& 40 (@gur) @& 13 @gur 100 @sila @& [completed] @& [...]
+13.	 @& 12 @iku @& 20 (@gur) @& [6 @gur 260 @sila @& [completed] @& [...]
+14.	 @& 12 @iku @& 20 (@gur) @& [13 @gur 100 @sila] @& [completed] @& [...]
+$ rest of obverse missing
+
+@reverse
+$ start of reverse missing
+1'.	 @&  @& 540+ @iku @& [...] @& [...] @& [...]
+2'.	 @& Its grain @& 4320+ @gur @& [...] @& [...] @& [...]
+3'.	 @&  @& Cultivated land of Šamaš-[...] @& [...] @& [...] @& [...]
+4'.	 @&  @&4 that [was given] to Šamaš-mušallim [...]
+$ single ruling
+$ 2 lines blank
+5'.	| Under the authority of Šamaš-hazir and Marduk-naṣir ... 
+6'.	| [...]-Ištar, Belšunu, Šamaš-magir, Apil-Amurrim, Munawwirum, 
+7'.	| Suen-ippalsam, the sheikhs and the auditors.
+$ single ruling
+$ 2 lines blank
+8'.	| Simanum (Month III), day 6
+9'.	| Year: Hammurabi the king
+10'.	| by the [word] of An and Enlil
+
+@top
+1'.	| [the walls of Mari and] Malgium
+2'.	| destroyed.
+
+

@@ -1,0 +1,147 @@
+&P412468 = BM 085260
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & ⸢ERÉN SAG⸣ NÍG.GA & GURUM₂ AK  & LÁL & MU-BI.IM
+#lem:  ṣābum[troops]N; rēš[head]N; namkūrim[property]N;  piqittum[check]N; epuštum[made]AJ;  +ribbatu[arrears]N$ribbatum;  šumšu[name]N 
+#note: I am indebted to Zsombor Földi for many improvements in the reading of this text.
+$ single ruling
+2.	 & 6 & 5 & 1 & i-gi-gi
+#lem:  n;  n;  n;  Igigi[1]PN 
+
+3.	 & 3.1/3 & 2 & 1.1/3 & a-bu-um-DINGIR
+#lem:  n;  n;  n;  Abum-ili[1]PN 
+
+$ single ruling
+4.	 & 9.1/3 & 7 & 2.1/3
+#lem:  n;  n;  n 
+
+5.	 & ⸢HA⸣.LA &  &  & LUGAL
+#lem:  +zittu[share]N$zitti;   +šarru[king]N$šarrim 
+
+6.	 & 10 & 10 &  & ⸢INIM-{d}UTU⸣
+#lem:  n;  n;   +Awat-Šamaš[1]PN$ 
+
+7.	 & 2 & 2 &  & [DUMU-MEŠ] {d}⸢SUEN-ša-mu-uh⸣
+#lem:  n;  n;   mārū[son]N; Sin-šamuh[1]PN 
+
+8.	 & 3 & 2 & 1 & ⸢DUMU im⸣-gur-rum
+#lem:  n;  n;  n;  mār[son]N; Imgurrum[1]PN 
+
+9.	 & 2 & 2 &  & [i-ṣi₂-da]-re-e
+#lem:  n;  n;   Iṣi-dare[1]PN 
+
+10.	 & 2 & 2 &  & ⸢{d}SUEN⸣-a-⸢ša⸣-re-⸢ed⸣
+#lem:  n;  n;   +Sin-ašareda[]PN$Sin-ašared 
+
+$ single ruling
+11.	 & 19 & 18 & 1
+#lem:  n;  n;  n 
+
+12.	 & NÍG.ŠU &  &  & ì-lí-i-din-nam
+#lem:  +būšu[goods//property]N'N$būš;    +Ili-iddinam[]PN$Ili-idinnam 
+
+13.	 & 3 & 2 & 1 & ni-di-it-tum
+#lem:  n;  n;  n;  Nidittum[1]PN 
+
+14.	 & 3.1/3 & 2 & 1.1/3 & pe-er-hu-um
+#lem:  n;  n;  n;  Perhum[]PN 
+
+15.	 & 1 & 1 &  & ne₂-me#-[lu]-um
+#lem:  n;  n;   +Nemelum[]PN$ 
+
+$ single ruling
+16.	 & 7.1/3 & 5 & 2.1/3
+#lem:  n;  n;  n 
+
+17.	 & NÍG.ŠU &  &  & [ap?-lum?]
+#lem:  būš[property]N;   +Aplum[]PN$ 
+
+@reverse
+1.	 & 2 & [2] & [(...)] & [...]
+#lem:  n;  n;  u;  u 
+
+$ single ruling
+2.	 & 2 & 2 & [(...)] & [(...)]
+#lem:  n;  n;  u;  u 
+
+3.	 & NÍG.ŠU &  &  & ⸢x-x⸣-um
+#lem:  būš[property]N;   +xxx-um[]PN$ 
+
+$ double ruling
+4.	 & 37.2/3 & 32 & 5.2/3
+#lem:  n;  n;  n 
+
+$ single ruling
+5.	| ⸢ERÉN še⸣-we-er-a-nu-um
+#lem:  ṣābum[troops]N; +šerʾānu[vein//allocation of work]N'N$šewerānum 
+
+6.	| ITI 33 KI!-5 U₄ 22-KAM
+#lem:  +warhu[moon//month]N'N$warah; n; n; ūm[day]N; n 
+
+7.	| %s mu ki-2 {ŋeš}tukul mah an {d}en-lil₂ {d}en-ki-[ga-ta]
+#lem:  mu[year]; n; tukul[weapon]; mah[great]; An[1]; Enlil[1]; Enki[1] 
+
+8.	 &4 %s i₃-si-in{ki} iri{ki} nam#-[lugal]-la#
+#lem:  Isin[1]; iri[city] ; namlugal[kingship] 
+
+9.	 &4 %s u₃ a₂-dam didli-bi a-na-me-a-bi#
+#lem:  u[and]; adam[habitation]; didli[several]; anamea[everything] 
+
+10.	 &4 %s sipad zid {d}ri-im-{d}suen# in-dab₅-ba
+#lem:  sipad[shepherd]; zid[true]; Rim-Sin[]RN$; dab[seize] 
+
+11.	 &4 %s ugu uŋ₃ daŋal-bi šu nam-ti-<la> in-ŋar-ra
+#lem:  ugu[on]; uŋ[people]; daŋal[wide]; šu[hand]; -namtil[life]; ŋar[place] 
+
+12.	 &4 %s mu nam-lugal-bi du-ri₂-še₃ bi₂-in-e₃-a
+#lem:  mu[name]; namlugal[kingship]; duri[forever]; e[leave] 
+
+@translation parallel en project
+@obverse
+1.	 @& Troops, available assets @& Check made @& Arrears @& Its name
+$ single ruling
+2.	 @& 6 @& 5 @& 1 @& Igigi
+3.	 @& 3 1/3 @& 2 @& 1 1/3 @& Abum-ili
+$ single ruling
+4.	 @& 9 1/3 @& 7 @& 2 1/2
+5.	 @&4 The king's share
+6.	 @& 10 @& 10 @&  @& Awat-Šamaš
+7.	 @& 2 @& 2 @&  @& [The sons of] Sin-šamuh
+8.	 @& 3 @& 2 @& 1 @& The son of Imgurrum
+9.	 @& 2 @& 2 @&  @& [Iṣi]-dare
+10.	 @& 2 @& 2 @&  @& Sin-ašaredu
+$ single ruling
+11.	 @& 19 @& 18 @& 1
+12.	 @&4 Ili-iddinam's property
+13.	 @& 3 @& 2 @& 1 @& Nidittum
+14.	 @& 3 1/3 @& 2 @& 1 1/3 @& Perhum
+15.	 @& 1 @& 1 @&  @& @?Nemelum?@
+$ single ruling
+16.	 @& 7 1/3 @& 5 @& 2 1/3
+17.	 @&4 [...]'s property
+@reverse
+1.	 @& 2 @& [2] @& [0] @& [@?Aplum?@]
+$ single ruling
+2.	 @& 2 @& 2 @& [0]
+3.	 @&4 [...]'s property
+$ double ruling
+4.	 @& 37 2/3 @& 32 @& 5 2/3
+$ single ruling
+5.	 @&4 Troops, work allocation
+6.	 @&4 Month 33, fifth time, day 22, 
+7.	 @&4 Year: for the second time with the great weapon of An, Enlil and Enki
+8.	 @&4 Isin, the city of kingship
+9.	 @&4 and all its various habitations
+10.	 @&4 the true shepherd Rim-Sin seized
+11.	 @&4 (but) spared the lives of its wide people
+12.	 @&4 and forever revealed the (good) name of his kingship.
+
+

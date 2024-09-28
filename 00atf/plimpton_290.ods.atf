@@ -1,0 +1,67 @@
+&P412474 = CULC 428
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-[HI.A] & {še}MUR.GU₄ &  & DUH &  & IN.NU.DA &  & MU-BI.IM
+#lem:  alpū[bull]N;  imrûm[fodder]N;   tuhhum[bran]N;   tibnum[straw]N;   šumšu[name]N 
+
+#note: I thank Gertrud and Walter Farber for the reading of ŠE.MUR.GU₄ in this line.
+$ single ruling
+2.	 & 2.44 &  & 1(AŠ) <GUR> 2(BARIG) & 1(AŠ) <GUR> 3(BARIG) &  &  &  & {d}EN.KI-ma-[lik]
+#lem:  n;   n; kur[unit]N; n;  n; kur[unit]N; n;     Ea-malik[1]PN 
+
+$ 1 line blank
+4.	 & NÍG.Ú.RUM &  &  &  &  &  &  & {d}EN.LÍL-⸢LÁ⸣
+#lem:  namkūr[property]N;        +Enlil[]DN$ 
+
+5.	 & 3.50 &  & 2(AŠ) <GUR> & 2(AŠ) <GUR> 1(BARIG) &  &  &  & i-din-{d#}[UTU]
+#lem:  n;   n; kur[unit]N;  n; kur[unit]N; n;     Iddin-Šamaš[1]PN 
+
+$ 1 line blank
+7.	 & NÍG.Ú.RUM &  &  &  &  &  &  & {d}⸢UTU⸣
+#lem:  namkūr[property]N;        Šamaš[1]DN 
+
+8.	 & 16 &  & 4(BAN₂) & 5(BAN₂) &  &  &  & ia-ú
+$ 1 line blank
+10.	 & NÍG.Ú.RUM &  &  &  &  &  &  & ⸢{d}NANNA ŠA₃ URIM₂{ki}⸣
+#lem:  namkūr[property]N;        Nanna[1]DN; qereb[centre]N; Ur[1]SN 
+
+@reverse
+$ several lines blank
+$ single ruling
+1.	| {iti}DU₆.KÙ KI-4 U₄ 16?-KAM
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+2.	| %s mu ki-2 {ŋeš}tukul mah an {d}en-líl {d}en-ki-ga-<ta>
+#lem:  mu[year]; n; tukul[weapon]; mah[great]; An[1]; Enlil[1]; Enki[1] 
+
+3.	| %s ì-si-in{ki} in-dab-ba
+#lem:  Isin[1]; dab[seize] 
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @&  @& Bran @&  @& Straw @&  @& Its name
+$ single ruling
+2.	 @& 2 44 @&  @& 1 @gur 120 @sila @& 1 @gur 180 @sila @&  @&  @&  @& Ea-malik
+$ 1 line blank
+4.	 @&8 Property of Enlil
+5.	 @& 3 50 @&  @& 2 @gur @& 1 @gur 60 @sila @&  @&  @&  @& Iddin-Šamaš
+$ 1 line blank
+7.	 @&8 Property of Šamaš
+8.	 @& 16 @&  @& 40 @sila @& 50 @sila @&  @&  @&  @& Mine
+$ 1 line blank
+10.	 @& Property of Nanna of Ur
+@reverse
+$ several lines blank
+$ single ruling
+1.	 @&8 Tašritum (Month VI), fourth, day @?16?@
+2.	 @&8 Year: the second after which with the great weapons of An, Enlil and Enki
+3.	 @&8 he seized Isin.
+
+

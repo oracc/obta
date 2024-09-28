@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+
+<esp:name>OBTA Home</esp:name>
+
+<esp:title>Old Babylonian Tabular Accounts</esp:title>
+
+<html><head/>
+
+<body>
+
+<esp:image
+	file="P412481.png"
+	description="Drawing of the tabular account CULC 462, an account of
+      cattle from Larsa"
+	position="float"	
+	> <esp:link url="/obta/P412481/"/></esp:image>
+
+   
+    <p class="firstpara">Here you will find a complete
+      listing of all the Old Babylonian tabular accounts presented in
+     <esp:link url="#robson_2004">Robson (2004)</esp:link>, and a full edition of
+      those discussed in <esp:link bookmark="robson_forthcoming">Robson (forthcoming)</esp:link>.</p>
+<ul>
+<li>
+    <p><esp:link page="corpus">You can browse the OBTA corpus here</esp:link>.</p>
+</li>
+</ul>
+<p>All the texts and catalogue data presented here are released under a <esp:link url="http://creativecommons.org/licenses/by-sa/2.0/" rel="external" hide-print="yes">Creative Commons Attribution Share-Alike 2.0</esp:link> license.</p>
+   <h2>Bibliography</h2>
+<ul>
+<li><p><esp:bookmark id="robson_forthcoming" />Robson, E., forthcoming. 'Old Babylonian tabular accounts: a
+      structural study'. Draft of 2011-11-01. [<esp:link url="~/downloads/obta-2011-11-01.pdf">278 KB PDF file</esp:link>]</p></li>
+<li><p>Robson, E., 2008. <i>Mathematics in Ancient Iraq: a Social
+      History</i>, Princeton: Princeton University Press, §6.2:
+      'Tabular accounting in southern Babylonia', pp. 157–166. [<esp:link url="http://books.google.com/books?id=w-e6kfvoq5gC&amp;lpg=PP1&amp;hl=en&amp;pg=PA157#v=onepage&amp;q&amp;f=false" rel="external" hide-print="yes">Preview on Google Books</esp:link>]</p></li>
+<li>
+  <p><esp:bookmark id="robson_2004" /> Robson, E., 2004. 'Accounting for change: the development of tabular
+      book-keeping in early Mesopotamia', in M. Hudson and C. Wunsch
+      (eds.), <i>Creating Economic Order: Record-keeping,
+      Standardization, and the Development of Accounting in the
+      Ancient Near East</i> (International Scholars Conference on Ancient
+      Near Eastern Economies, 4), Bethesda: CDL Press,
+      107–144. [<esp:link url="http://www.hps.cam.ac.uk/people/robson/accounting.pdf" rel="external" hide-print="yes">148 KB PDF file</esp:link>]</p>
+</li>
+<li>
+<p>Robson, E., 2003. 'Tables and tabular formatting in Sumer, Babylonia,
+      and Assyria, 2500-50 BCE' in M. Campbell-Kelly, M. Croarken,
+      R.G. Flood, and E. Robson (eds.), <i>The History of Mathematical
+      Tables from Sumer to Spreadsheets</i>, Oxford: Oxford University
+      Press, 18–47. [<esp:link url="http://www.hps.cam.ac.uk/people/robson/tables.pdf" rel="external" hide-print="yes">932 KB PDF file</esp:link>]</p>
+</li>
+</ul>
+
+</body></html></esp:page>

@@ -1,0 +1,214 @@
+&P412464 = BM 022738
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & [{giš}KIRI₆ GIBIL] & [...] $TI [...] & im-du-ud  & LÁL.Ì & MU {id₂}ha-am-mu-ra-bi-nu-hu-uš-ni-ši  & {giš}KIRI₆ GIBIL & [...] & im#-du-ud & LÁL.Ì & %s mu an-ke₄ {d}innin ù {d}na-na-a-[a ...]
+#lem:  +kirû[orchard]N$kirûm; eššum[new]AJ;  u; u; u;  +madādu[measure (out)]V$imdud;  ribbatum[arrears]N;  šanat[year]N; +Hammurabi-nuhuš-niši[]WN$;  kirûm[orchard]N; eššum[new]AJ;  u;  imdud[measure (out)]V;  ribbatum[arrears]N;  mu[year]; An[]DN; Inana[]DN; u[and]; Nanaya[]DN; u 
+
+$ single ruling
+2.	 &  &  & 1(IKU){gana₂} & 1(U) 2(AŠ) <GUR> &  &  &  &  &  & 1(IKU){gana₂} 1(U) 2(AŠ) <GUR>
+#lem:    n;  n; n; kur[unit]N;       n; n; n; kur[unit]N 
+
+3.	 & ⸢1(IKU)⸣ & ⸢1(U) 2(AŠ)⸣ <GUR> &  & 1(U) 2(AŠ) <GUR> &  & 1(IKU) & 1(U) 2(AŠ) <GUR> &  & 1(U) 2(AŠ) <GUR> & DA KI-1 {giš}KIRI₆ É.GAL NU.GIŠ.KIRI₆ ig-[mil-...]
+#lem:  n;  n; n; kur[unit]N;   n; n; kur[unit]N;   n;  n; n; kur[unit]N;   n; n; kur[unit]N;  +idi[by//next to]PRP'PRP$; n; +kirû[orchard]N$kiri; ēkallim[palace]N; +nukaribbu[gardener]N$nukarib; +Igmil-xxx[]PN$ 
+
+$ single ruling
+4.	 & 2(IKU) 1/2(IKU) & 3(U) <GUR> & 1(U) GUR & 2(U) <GUR> &  & 2(IKU) 1/2(IKU) & 3(U) <GUR> & 1(U) GUR & 2(U) <GUR> & KI-2 DA na-ra-am-DINGIR NU.GIŠ.[KIRI₆ ...]
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N;  n; kur[unit]N;   n; n;  n; kur[unit]N;  n; kur[unit]N;  n; kur[unit]N;  n; idi[next to]PRP; +Naram-ilim[]PN$; nukarib[gardener]N; u 
+
+$ single ruling
+5.	 &  &  &  &  &  &  &  &  &  & NÍG.Ú.RUM $AN $AŠ [...]
+#lem:           namkūr[property]N; u; u; u 
+
+$ single ruling
+6.	 & 10 SAR & 1(AŠ) <GUR> 1(BARIG) & 2(BARIG) & 4(BARIG) &  & 10 SAR & 1(AŠ) <GUR> 1(BARIG) & 2(BARIG) & 4(BARIG) & DA IRI{ki} ù ig-mil-{d}SUEN NU.[GIŠ.KIRI₆ ...] 
+#lem:  n; mūšar[unit]N;  n; kur[unit]N; n;  n;  n;   n; mūšar[unit]N;  n; kur[unit]N; n;  n;  n;  idi[next to]PRP; +ālu[city//town]N'N$ālim; u[and]CNJ; Igmil-Sin[1]PN; nukarib[gardener]N; u 
+
+$ single ruling
+7.	 &  &  &  &  & NÍG.ŠU AN.DUL₇-{d}UTU &  &  &  &  & NÍG.Ú.RUM $AN $AŠ [...]
+#lem:      būš[property]N; +Andul-Šamaš[]PN$;      namkūr[property]N; u; u; u 
+
+$ single ruling
+8.	 & 1(EŠE₃) & 1(GEŠ₂) 1(U) 2(AŠ) <GUR> & [(...)] & 1(GEŠ₂) 1(U) 2(AŠ) <GUR> & NU.GIŠ.KIRI₆ wa-aq-rum ; GUDU₄ URIM₅{ki} & 1(EŠE₃) & 1(GEŠ₂) 1(U) 2(AŠ) <GUR> & 5(AŠ) <GUR>  & 1(GEŠ₂) 7(AŠ) <GUR> & {[giš]}KIRI₆ šu-bu-ul-tum NU.⸢GIŠ⸣.[KIRI₆ ...] 
+#lem:  n;  n; n; n; kur[unit]N;  u;  n; n; n; kur[unit]N;  nukaribbim[gardener]N; +Waqrum[]PN$; +pašīšu[annointed one//(a priest)]N'N$pašīš; +Ur[]SN$;  n;  n; n; n; kur[unit]N;  n; kur[unit]N;  n; n; kur[unit]N;  kiri[orchard]N; +Šubultum[]PN$; nukarib[gardener]N; u 
+
+$ single ruling
+9.	 & [1(IKU)] & [1(U) 2(AŠ) <GUR>] & 2.5/6 GÍN KÙ.BABBAR & 1(U) 2(AŠ) <GUR> & NU? & 1(IKU) & 1(U) 2(AŠ) <GUR> &  & 1(U) 2(AŠ) <GUR> & {giš}KIRI₆ ta-li-mu NU.GIŠ.KIRI₆ ig-mil-[...]
+#lem:  n;  n; n; kur[unit]N;  n; šiqil[unit]N; +kaspu[silver]N$kaspim;  n; n; kur[unit]N;  lā[not]MOD;  n;  n; n; kur[unit]N;   n; n; kur[unit]N;  kiri[orchard]N; +Talimum[]PN$Talimu; nukarib[gardener]N; +Igmil-xxx[]PN$ 
+
+$ single ruling
+10.	 &  &  &  &  &  &  &  &  &  & NÍG.ŠU {d}UTU-a-bi
+#lem:           būš[property]N; Šamaš-abi[1]PN 
+
+$ single ruling
+11.	 & 12 SAR & 1(AŠ) <GUR> 2(BARIG) 1(BAN₂) 2 SILÀ &  & 1(AŠ) <GUR> 2(BARIG) 1(BAN₂) 2 SILÀ &  & 12 SAR & 1(AŠ) <GUR> 2(BARIG) 1(BAN₂) 2 SILÀ &  & 1(AŠ) <GUR> 2(BARIG) 1(BAN₂) <2> SILÀ & DA pe-er-hu-um NU.GIŠ.KIRI₆ pe-er-hu-um DUMU [...] x x
+#lem:  n; mūšar[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;   n; kur[unit]N; n; n; n; qā[unit]N;   n; mūšar[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;   n; kur[unit]N; n; n; n; qā[unit]N;  idi[next to]PRP; Perhum[1]PN; nukarib[gardener]N; Perhum[1]PN; mār[son]N; u; u; u 
+
+$ single ruling
+12.	 & 1(IKU) 1.15 <SAR> & 2(U) 1(AŠ) <GUR> & 2(AŠ) <GUR> & 1(U) 9(AŠ) <GUR> &  & 1(IKU) 1.15 <SAR> & 2(U) 1(AŠ) <GUR> & 2(AŠ) <GUR> & 1(U) 9(AŠ) <GUR> & ⸢DA⸣ a-da-an-ni-a-⸢am⸣ NU.GIŠ.KIRI₆ {d}SUEN?-ba-ni ù [...]
+#lem:  n; n; mūšar[unit]N;  n; n; kur[unit]N;  n; kur[unit]N;  n; n; kur[unit]N;   n; n; mūšar[unit]N;  n; n; kur[unit]N;  n; kur[unit]N;  n; n; kur[unit]N;  idi[next to]PRP; +Adanniam[]PN$; nukarib[gardener]N; +Sin-bani[]PN$; u[and]CNJ; u 
+
+$ single ruling
+13.	 & 2(IKU) 30 SAR & 2(U) 7(AŠ) <GUR> 3(BARIG) & 6(AŠ) <GUR> 3(BARIG) 4(BAN₂) ŠE & 2(U) <GUR> 4(BARIG) 2(BAN₂) &  & 2(IKU) 30 SAR & 2(U) 7(AŠ) <GUR> 3(BARIG) & 6(AŠ) <GUR> ŠE & 2(U) 1(AŠ) <GUR> 3(BARIG)!(1(BARIG)) & DA a-pil₂-i₃-<lí>-šu NU.GIŠ.KIRI₆ ap-lum DUMU sa-di?-tum
+#lem:  n; n; mūšar[unit]N;  n; n; kur[unit]N; n;  n; kur[unit]N; n; n; šeʾum[grain]N;  n; kur[unit]N; n; n;   n; n; mūšar[unit]N;  n; n; kur[unit]N; n;  n; kur[unit]N; šeʾum[grain]N;  n; n; kur[unit]N; n;  idi[next to]PRP; Apil-ilišu[1]PN; nukarib[gardener]N; Aplum[1]PN; mār[son]N; +Sadditum[]PN$ 
+
+$ single ruling
+14.	 & 1/2(IKU){gana₂} & 6(AŠ) <GUR> & 4(BARIG) & 5(AŠ) <GUR> 1(BARIG) &  & 1/2(IKU){gana₂} & 6(AŠ) <GUR> & 2(BARIG) ŠE & 5(AŠ) <GUR> 3(BARIG) & DA a-hi-we-du NU.GIŠ.KIRI₆ a-na-pa-ni-AN.DUL₇#?
+#lem:  n;  n; kur[unit]N;  n;  n; kur[unit]N; n;   n;  n; kur[unit]N;  n; šeʾum[grain]N;  n; kur[unit]N; n;  idi[next to]PRP; +Ahi-wedum[]PN$Ahi-wedu; nukarib[gardener]N; +Ana-pani-andullim[]PN$ 
+
+$ single ruling
+15.	 & 1/2(IKU){gana₂} & 6(AŠ) <GUR> & 5(AŠ) <GUR> 2(BARIG) 3(BAN₃) & 2(BARIG) 3(BAN₂) &  & 1/2(IKU){gana₂} & 6(AŠ) <GUR> & 4(AŠ) <GUR> & 2(AŠ) <GUR> & DA {id₂}IDIGNA ù {d}SUEN-še-me-e NU.GIŠ.KIRI₆ {d}SUEN-ma-gir
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;  n; n;   n;  n; kur[unit]N;  n; kur[unit]N;  n; kur[unit]N;  idi[next to]PRP; Tigris[1]WN; u[and]CNJ; Sin-šeme[1]PN; nukarib[gardener]N; Sin-magir[1]PN 
+
+$ single ruling
+16.	 & 5 SAR & 3(BARIG) &  & 3(BARIG) &  & 5 SAR & 3(BARIG) &  & 3(BARIG) & DA na-ra-am-{d}IŠKUR NU.GIŠ.KIRI₆ a-na-pa-ni-AN.DUL₇ x $A (x x) ; $RU $A
+#lem:  n; mūšar[unit]N;  n;   n;   n; mūšar[unit]N;  n;   n;  idi[next to]PRP; +Naram-Adad[]PN$; nukarib[gardener]N; Ana-pani-andullim[1]PN; u; u; u; u; u; u 
+
+$ single ruling
+17.	 & 30 SAR  & 3(AŠ) <GUR> 3(BARIG) & 1 GÍN KÙ.BABBAR & 3(AŠ) <GUR> 3(BARIG) &  & 30 SAR & 3(AŠ) <GUR> 3(BARIG) &  & [3(AŠ) <GUR> 3(BARIG)] & DA {id₂}IDIGNA NU.GIŠ.KIRI₆ ig-mil-{d}SUEN DUMU ip-qú-ša#
+#lem:  n; mūšar[unit]N;  n; kur[unit]N; n;  n; šiqil[unit]N; kaspim[silver]N;  n; kur[unit]N; n;   n; mūšar[unit]N;  n; kur[unit]N; n;   n; kur[unit]N; n;  idi[next to]PRP; Tigris[1]WN; nukarib[gardener]N; Igmil-Sin[1]PN; mār[son]N; Ipquša[1]PN 
+
+$ single ruling
+18.	 &  &  &  &  &  &  &  &  &  & NÍG.ŠU a-píl-ì-lí-šu
+#lem:           būš[property]N; Apil-ilišu[1]PN 
+
+$ single ruling
+@bottom
+1.	 & [10 SAR] & 1(AŠ) <GUR> 1(BARIG) & 1(AŠ) <GUR> & 1(BARIG) &  & 10 SAR & 1(AŠ) <GUR> 1(BARIG) & 1(AŠ) <GUR> & [1(BARIG)] & DA a-hu-wa-qar RÁ.GAB NU.GIŠ.KIRI₆ ì-lí-i-din-nam
+#lem:  n; mūšar[unit]N;  n; kur[unit]N; n;  n; kur[unit]N;  n;   n; mūšar[unit]N;  n; kur[unit]N; n;  n; kur[unit]N;  n;  idi[next to]PRP; Ahu-waqar[1]PN; rakbim[mounted messenger]N; nukarib[gardener]N; Ili-idinnam[1]PN 
+
+2.	 & [10 SAR] & 1(AŠ) <GUR> 1(BARIG) & 1(AŠ) <GUR> & 1(BARIG) &  & 10 SAR & 1(AŠ) <GUR> 1(BARIG) &  & 1(AŠ) <GUR> 1(BARIG) & DA li-pí-it-EŠ₈.TAR₂ NU.GIŠ.KIRI₆ a-bu-wa-qar ; INIM-TA a-li₂-dam-qum GIR₃.NITA₂
+#lem:  n; mūšar[unit]N;  n; kur[unit]N; n;  n; kur[unit]N;  n;   n; mūšar[unit]N;  n; kur[unit]N; n;   n; kur[unit]N; n;  idi[next to]PRP; +Lipit-Ištar[]PN$; nukarib[gardener]N; Abu-waqar[1]PN; +ina[in//according to]PRP'PRP$&+awātu[word//report]N'N$awāt; +Ali-damqum[]PN$; +šakkanakku[(military) governor]N$šakkanakkim 
+
+@reverse
+1.	 & 5 SAR & 3(BARIG) &  & 3(BARIG) &  & 5 SAR & 3(BARIG) &  & 3(BARIG) & DA 30-mu-uš-te-še-er NU.GIŠ.KIRI₆ a-na-pa-ni-AN.[DUL₇]
+#lem:  n; mūšar[unit]N;  n;   n;   n; mūšar[unit]N;  n;   n;  idi[next to]PRP; +Sin-muštešer[]PN$; nukarib[gardener]N; Ana-pani-andullim[]PN 
+
+$ single ruling
+2.	 & 1/2(IKU){gana₂} & 6(AŠ) <GUR> &  & 6(AŠ) <GUR> &  & 1/2(IKU){gana₂} & 6(AŠ) <GUR> &  & 6(AŠ) <GUR> & DA ša-ta-li-šu NU.GIŠ.KIRI₆ ša-ta-li-šu
+#lem:  n;  n; kur[unit]N;   n; kur[unit]N;   n;  n; kur[unit]N;   n; kur[unit]N;  idi[next to]PRP; +Šatallišu[]PN$; nukarib[gardener]N; Šatallišu[1]PN 
+
+$ single ruling
+3.	 &  &  &  &  &6 NÍG.ŠU {d}NIN.URTA-⸢ILLAT⸣-su# {iri}ì-lí-iš-ti-kal{ki} 
+#lem:      būš[property]N; +Ninurta-illassu[]PN$; +Iliš-tikal[]SN$ 
+
+$ double ruling
+4.	| INIM-TA a-bi-ia-tum ra-bi-a-nu
+#lem:  +ina[in//according to]PRP'PRP$&+awātu[word//report]N'N$awāt; +Abiyatum[]PN$; rabiānu[mayor]N 
+
+5.	| {m}a-lí-dam-qum GIR₃.NITA₂
+#lem:  +Ali-damqum[]PN$; šakkanakkim[(military) governor]N 
+
+6.	| {m}{d}SUEN-we-du DUMU {d}SUEN-ga-mil
+#lem:  +Sin-wedu[]PN$; mār[son]N; +Sin-gamil[]PN$ 
+
+7.	| {m}DINGIR{+lam}-du-gu-ul DUMU a-mu-ru
+#lem:  +Ilam-dugul[]PN$; mār[son]N; +Amurru[]PN$ 
+
+8.	| {m}{d}SUEN-ú-sé-li DUMU a-pa-a
+#lem:  +Sin-uselli[]PN$; mār[son]N; +Appaya[]PN$ 
+
+9.	| {m}wa-ar-du-⸢um⸣ DUMU me-e-{d}NIN $MU $UN $GU $UD $A
+#lem:  +Wardum[]PN$; mār[son]N; +Me-xxx[]PN$; u; u; u; u; u 
+
+10.	| {m}a-hi-lu-mur DUMU i-la-a-a
+#lem:  +Ahi-lumur[]PN$; mār[son]N; +Ilaya[]PN$ 
+
+11.	| {m}u-bar-{d}NANŠE? DUMU nu-úr-{d}MAR.TU
+#lem:  +Ubar-Nanše[]PN$; mār[son]N; +Nur-Amurrim[]PN$ 
+
+12.	| {m}im-gu-ú-a
+#lem:  +Imgua[]PN$ 
+
+13.	| {m}ig-mil-{d}SUEN DUMU a-hi-we-du GUDU₄
+#lem:  +Igmil-Sin[]PN$; mār[son]N; Ahi-wedu[1]PN; +pašīšu[annointed one//(a priest)]N'N$pašīšim 
+
+14.	| ši-bu-⸢tum⸣ an-nu-tum ⸢ša⸣ {iri}ì-lí-⸢iš-ti-kal⸣{ki}
+#lem:  +šību[old person//witness]N'N$šībūtum; +annû[this]DP$annûtum; ša[of]DET; Iliš-tikal[1]SN 
+
+15.	| ú-⸢bi?-ru⸣-ú É.GAL i-pa-lu
+#lem:  +bâru[appear//establish]V'V$ubīrū; +ēkallu[palace]N$ēkallam; +apālu[pay//satisfy]V'V$ippalū 
+
+$ 1 line blank
+16.	 &  &  &  &  &  &  &  &  &  & {iti}ŠE.KIN.KU₅ U₄ 3-KAM
+#lem:           +Addaru[]MN$Addarum; ūm[day]N; n 
+
+17.	 &  &  &  &  &  &  &  &  &  & %s mu bad₃ má-rí{ki} ; ù mà-al-gi₄-a[{ki}] ; mu-un-gul-e
+#lem:           mu[year]; bad[wall]; Mari[]SN$; u[and]; Malgium[1]; gul[destroy] 
+
+$ (seal impressions all over)
+
+@translation parallel en project
+@obverse
+1.	 @& [@?New orchard?@] @& [...] ... [...] @& He measured @& Arrears @& Year: the watercourse Hammurabi-abundance-of-the-people @& New orchard @& [...] @& He measured @& Arrears @& Year: An, Inana and Nanaya [...]
+$ single ruling
+2.	 @&5 1 @iku = 12 @gur @&  @&  @&  @&  @& 1 @iku = 12 @gur
+$ single ruling
+3.	 @& 1 @iku @& 12 @gur @&  @& 12 @gur @&  @& 1 @iku @& 12 @gur @&  @& 12 @gur @& First, @?Next to?@ the palace orchard, gardener of Igmil-[...]
+$ single ruling
+4.	 @& 2 1/2 @iku @& 30 @gur @& 10 @gur @& 20 @gur @&  @& 2 1/2 @iku @& 30 @gur @& 10 @gur @& 20 @gur @& Second, @?Next to?@ Naram-ilim, gardener [...]
+$ single ruling
+5.	 @&  @&  @&  @&  @&  @&  @&  @&  @&  @& Property of ... [...]
+$ single ruling
+6.	 @& 10 @sar @& 1 @gur 60 @sila @& 120 @sila @& 240 @sila @&  @& 10 @sar @& 1 @gur 60 @sila @& 120 @sila @& 240 @sila @& @?Next to?@ the town and Igmil-Sin, gardener [...]
+$ single ruling
+7.	 @&  @&  @&  @&  @& Property of Andul-Šamaš @&  @&  @&  @&  @& Property of ... [...]
+$ single ruling
+8.	 @& 6 @iku @& 72 @gur @&  @& 72 @gur @& Gardener of Waqrum, @pašīšum-priest of Ur @& 6 @iku @& 72 @gur @& 5 @gur @& 67 @gur @& Orchard of Šubultum, gardener [...]
+$ single ruling
+9.	 @& [1 @iku] @& [12 @gur] @& 2 5/6 shekels of silver @& 12 @gur @& @?Not?@ @& 1 @iku @& 12 @gur @&  @& 12 @gur @& Orchard of Talimum, gardener of Igmil-[...]
+$ single ruling
+10.	 @&  @&  @&  @&  @&  @&  @&  @&  @&  @& Property of Šamaš-abi
+$ single ruling
+11.	 @& 12 @sar @& 1 @gur 132 @sila @&  @& 1 @gur 132 @sila @&  @& 12 @sar @& 1 @gur 132 @sila @&  @& 1 @gur 132 @sila @& @?Next to?@ Perhum, gardener of Perhum son of [...]....
+$ single ruling
+12.	 @& 1 @iku 75 @sar @& 21 @gur @& 2 @gur @& 19 @gur @&  @& 1 @iku 75 @sar @& 21 @gur @& 2 @gur @& 19 @gur @& @?Next to?@ Adanniam, gardener of Sin-bani and [...]
+$ single ruling
+13.	 @& 2 @iku 30 @sar @& 27 @gur 180 @sila @& 6 @gur 220 @sila grain @& 20 @gur 260 @sila @&  @& 2 @iku 30 @sar @& 27 @gur 180 @sila @& 6 @gur grain @& 21 @gur 180 @sila @& @?Next to?@ Apil-ilišu, gardener of Aplum, son of @?Sadditum?@
+$ single ruling
+14.	 @& 1/2 @iku @& 6 @gur @& 240 @sila @& 5 @gur 60 @sila @&  @& 1/2 @iku @& 6 @gur @& 120 @sila @& 5 @gur @180 sila @& @?Next to?@ Ahi-wedu, gardener of Ana-pani-andullim
+$ single ruling
+15.	 @& 1/2 @iku @& 6 @gur @& 5 @gur 150 @sila @& 150 @sila @&  @& 1/2 @iku @& 6 @gur @& 4 @gur @& 2 @gur @& @?Next to?@ the Tigris and Sin-šeme, gardener of Sin-magir
+$ single ruling
+16.	 @& 5 @sar @& 180 @sila @&  @& 180 @sila @&  @& 5 @sar @& 180 @sila @&  @& 180 @sila @& @?Next to?@ Nara-Adad, gardener of Ana-pani-andullim ...
+$ single ruling
+17.	 @& 30 @sar @& 3 @gur 180 @sila @& 1 shekel of silver @& 3 @gur 180 @sila @&  @& 30 @sar @& 3 @gur 180 @sila @&  @& [3 @gur 180 @sila] @& @?Next to?@ the Tigris, gardener of Igmil-Sin son of Ipquša
+$ single ruling
+18.	 @&  @&  @&  @&  @&  @&  @&  @&  @&  @& Property of Apil-ilišu
+$ single ruling
+@bottom
+1.	 @& [10 @sar] @& 1 @gur 60 @sila @& 1 @gur @& 60 @sila @&  @& 10 @sar @& 1 @gur 60 @sila @& 1 @gur @& [60 @sila] @& @?Next to?@ Ahu-waqar, messenger, gardener of Ili-iddinam
+$ single ruling
+2.	 @& [10 @sar] @& 1 @gur 60 @sila @& 1 @gur @& 60 @sila @&  @& 10 @sar @& 1 @gur 60 @sila @&  @& 1 @gur 60 @sila @& @?Next to?@ Lipit-Ištar, gardener of Abu-waqar, according to the report of Ali-damqum, military governor
+
+@reverse
+1.	 @& 5 @sar @& 180 @sila @&  @& 180 @sila @&  @& 5 @sar @& 180 @sila @&  @& 180 @sila @& @?Next to?@ Sin-muštešer, gardener of Ana-pani-andullim
+$ single ruling
+2.	 @& 1/2 @iku @& 6 @gur @&  @& 6 @gur @&  @& 1/2 @iku @& 6 @gur @&  @& 6 @gur @& @?Next to?@ Šatallišu, gardener of Šatallišu
+$ single ruling
+3.	 @&  @&  @&  @&  @&6 Property of Ninurta-illassu, Iliš-tikal town
+$ double ruling
+4.	| According to the report of Abiyatum, mayor
+5.	| Ali-damqum, governor
+6.	| Sin-wedu, son of Sin-gamil
+7.	| Ilam-dugul, son of Amurru
+8.	| Sin-uselli, son of Appaya
+9.	| Wardum, son of Me-...
+10.	| Ahi-lumur, son of Ilaya
+11.	| Ubar-Nanše, son of Nur-Amurrim
+12.	| Imgua
+13.	| (and) Igmil-Sin, son of Ahi-wedu, @pašīšum-priest
+14.	| These witnesses from Iliš-tikal town
+15.	| established (this) and will satisfy the palace.
+$ 1 line blank
+16.	 @&  @&  @&  @&  @&  @&  @&  @&  @&  @& Addarum (Month XII), day 3
+17.	 @&  @&  @&  @&  @&  @&  @&  @&  @&  @& Year: the walls of Mari and Malgium were destroyed.
+
+

@@ -1,0 +1,147 @@
+&P347358 = OECT 15, 015
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+# Ashmolean 1922.286
+
+@tablet
+@obverse
+
+
+$ start of obverse missing
+1'.	 & [...] & [...] & [...] & [...] x $GU $LA? [...]
+#lem:  u;  u;  u;  u; u; u; u; u 
+
+2'.	 & [...] & [...] & [...] & x-ra-am ⸢šar⸣-ru-tam
+#lem:  u;  u;  u;  u; X 
+
+3'.	 & [...] & [...] & [...] & ŠUKU LÚ-{d}EN.KI.KA
+#lem:  u;  u;  u;  +šukūsu[subsistence (field)]N$šukūs; +Awil-Ea[]PN$ 
+
+4'.	 & [...] & [...] & [...] & ŠUKU ma-an-nu-um-ki-ma-{d}SUEN
+#lem:  u;  u;  u;  šukūs[subsistence (field)]N; +Mannum-kima-Sin[]PN$ 
+
+5'.	 & [...] & [...] & [...] & [...] ENSI
+#lem:  u;  u;  u;  U; +šāʾilu[asker//dream interpreter]N'N$šāʾilum 
+
+6'.	 & [(...)] & [(...)] & [...] & ⸢ŠUKU⸣ É-IGI.DU₈-ŠUM{ki}
+#lem:  u;  u;  u;  šukūs[subsistence (field)]N; +Bit-tamartišu[]SN$Bit-tamartišum 
+
+7'.	 & [...] & [...] &2 [...] A.ŠÀ ZI har-pu-um
+#lem:  u;  u;  u; eqel[field]N; +nishu[extract(ion)//stubble]N'N$nishum; +harpu[early]AJ$harpum 
+
+8'.	 & [...] & [...] &2 [...] zi-kir-ì-lí-šu ù É-IGI.DU₈-ŠUM{ki}
+#lem:  u;  u;  u; Zikir-ilišu[1]PN; u[and]CNJ; Bit-tamartišum[1]SN 
+
+9'.	 & [...] & ⸢2(U) <GUR>⸣ &  & KI-2 ŠUKU É-IGI.DU₈-ŠUM{ki}
+#lem:  u;  n; kur[unit]N;   n; šukūs[subsistence (field)]N; Bit-tamartišum[1]SN 
+
+10'.	 & 3(IKU){ganá} & 1(U) <GUR> & 1(IKU){gana₂} & APIN ip-qú-{d}ÌR.RA RÁ.GAB
+#lem:  n;  n; kur[unit]N;  n;  mērešti[cultivated field]N; +Ipqu-Irra[]PN$; +rakbu[mounted messenger]N$rakbim 
+
+11'.	 & 2(EŠE₃) 3(IKU) & 2(U) <GUR> & 4(IKU){gana₂} & APIN zi-kir-ì-lí-šu ù E₂-IGI.DU₈.BI 
+#lem:  n; n;  n; kur[unit]N;  n;  mērešti[cultivated field]N; Zikir-ilišu[1]PN; u[and]CNJ; +Bit-tamartišu[]SN$ 
+
+12'.	 & 1(BUR₃) 1(EŠE₃) 3(IKU) & 3(U) <GUR> &  & APIN i-din-{d}SUEN DUMU a-ap-pa-a
+#lem:  n; n; n;  n; kur[unit]N;   mērešti[cultivated field]N; Iddin-Sin[1]PN; mār[son]N; +Appaya[]PN$ 
+
+13'.	 & 2(EŠE₃) 3(IKU) & 2(U) <GUR> & 1(EŠE₃){gana₂} & APIN a-hu-um ENSÍ
+#lem:  n; n;  n; kur[unit]N;  n;  mērešti[cultivated field]N; +Ahum[]PN$; +iššiakku[city-ruler//(a class of farmer)]N'N$iššiakkim 
+
+14'.	 & 2(EŠE₃){gana₂} & 2(U) <GUR> & 1(BUR₃) 1(EŠE₃){gana₂} & APIN ma-ṣi-a-am-ì-lí ENSÍ
+#lem:  n;  n; kur[unit]N;  n; n;  mērešti[cultivated field]N; +Maṣiam-ili[]PN$; +iššiakku[city-ruler//(a class of farmer)]N'N$iššiakkim 
+
+15'.	 &  &  &2 ŠÀ ŠUKU gi-mil-{d}UTU RÁ.GAB
+#lem:    ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; +Gimil-Šamaš[]PN$; rakbim[mounted messenger]N 
+
+16'.	 & 4(IKU){gana₂} & 1(U) <GUR> & 5(IKU){gana₂} & šu-mu-um-li-ib-ši GAL UGULA
+#lem:  n;  n; kur[unit]N;  n;  +Šumum-libši[]PN$; +rabû[big one//chief]N'N$rab; +waklu[overseer]N$waklī 
+
+17'.	 & 3(IKU){gana₂} & 1(U) <GUR> & 1(IKU){gana₂} & ip-qú-{d}ÌR.RA RÁ.GAB
+#lem:  n;  n; kur[unit]N;  n;  Ipqu-Irra[1]PN; rakbim[mounted messenger]N 
+
+18'.	 & 2(IKU){gana₂} & 1(U) <GUR> & 2(IKU) 1/2(IKU){gana₂} & $É $ME $ŠU $UL
+#lem:  n;  n; kur[unit]N;  n; n;  u; u; u; u 
+
+@reverse
+1.	 & 2(IKU){gana₂} & 1(U) 5(AŠ) <GUR> & 1(IKU){gana₂} & ap-lum MÁŠ.ŠU.GÍD.GÍD
+#lem:  n;  n; n; kur[unit]N;  n;  Aplum[1]PN; +bārû[diviner]N$bārûm 
+
+2.	 & 1(IKU){gana₂} & 1(U) <GUR> & 1(IKU){gana₂} & el-me-šum ŠU.I
+#lem:  n;  n; kur[unit]N;  n;  +Elmešum[]PN$; +gallābu[barber]N$gallābum 
+
+3.	 & 3(IKU){gana₂} & 1(U) <GUR> &  & {d}SUEN-pa-te-er ŠÀ.GU₄
+#lem:  n;  n; kur[unit]N;   +Sin-pater[]PN$; +kuzillu[ox-driver]N$kuzillum 
+
+4.	 & 2(IKU){gana₂} & 2(U) <GUR> &  & u-bar-{d}UTU UKU.UŠ
+#lem:  n;  n; kur[unit]N;   Ubar-Šamaš[1]PN; rēdû[soldier]N 
+
+5.	 & 3(IKU){gana₂} & 3(U) <GUR> & ki-ma DUMU  & li-lum DAM.GÀR DUMU? ENGAR AD.DA MAR.TU
+#lem:  n;  n; kur[unit]N;  kīma[instead of]PRP; mār[son]N;  +Lilum[]PN$; +tamkāru[merchant]N$tamkārum; +māru[son//member]N'N$mār; +ikkaru[farmer]N$ikkarī; +abu[father//sheikh]N'N$ab; +Amurru[Amorite]EN$Amurrim 
+
+6.	 & 1(BUR₃) 1(IKU) & [...] &  & APIN zi-kir-ì-lí-šu ù É.IGI.DU₈.BI
+#lem:  n; n;  u;   mērešti[cultivated field]N; Zikir-ilišu[1]PN; u[and]CNJ; +Bit-tamartišu[]SN$ 
+
+7.	 & 1(BUR₃) 2(EŠE₃) & 4(U) <GUR> &  & APIN ni-id-nu-ša DAM.GÀR
+#lem:  n; n;  n; kur[unit]N;   mērešti[cultivated field]N; +Nidnuša[]PN$; +tamkāru[merchant]N$tamkārim 
+
+8.	 & A.ŠÀ &  &  & kur-ri-tum
+#lem:  +eqlu[field]N$eqlēt;    +Kurritum[]GN$ 
+
+9.	 & 1(IKU) 1/2(IKU){gana₂} & 1(U) <GUR> &  & KI-1
+#lem:  n; n;  n; kur[unit]N;   n 
+
+10.	 & [...]{ganá} & 2(U) <GUR> & $BI $KASKAL $DA & KI-2 ERIDU{ki}-li-wi-ir NU.GIŠ.KIRI₆
+#lem:  u;  n; kur[unit]N;  u; u; u;  n; +Eridu-liwir[]PN$; +nukaribbu[gardener]N$nukaribbum 
+
+11.	 & [...] & [...] & [...] x & zi-kir-ì-lí-šu ù i-din-{d}SUEN
+#lem:  u;  u;  u; u;  Zikir-ilišu[1]PN; u[and]CNJ; Iddin-Sin[1]PN 
+
+12.	 & [...] & [...] & [...] & ⸢i⸣-din-{d}SUEN im-ta-ni
+#lem:  u;  u;  u;  Iddin-Sin[1]PN; X 
+
+$ rest of reverse missing
+
+@translation parallel en project
+@obverse
+
+$ start of obverse missing
+1'.	 @& [...] @& [...] @& [...] @& [...] ... [...]
+2'.	 @& [...] @& [...] @& [...] @& ...
+3'.	 @& [...] @& [...] @& [...] @& Awil-Ea's subsistence field
+4'.	 @& [...] @& [...] @& [...] @& Mannum-kima-Sin's subsistence field
+5'.	 @& [...] @& [...] @& [...] @& [...] the dream-interpreter
+6'.	 @& [...] @& [...] @& [...] @& @?subsistence field?@ of Bit-tamartišu 
+7'.	 @& [...] @& [...] @&2 [...] field, @?early stubble?@
+8'.	 @& [...] @& [...] @&2 [...] Zikir-ilišu and Bit-tamartišu
+9'.	 @& [...] @& 20 @gur @&  @& Second, subsistence field of Bit-tamartišu
+10'.	 @& 3 @iku @& 10 @gur @& 1 @iku @& Cultivated land of Ipqu-Irra, mounted messenger
+11'.	 @& 15 @iku @& 20 @gur @& 4 @iku @& Cultivated land of Zikir-ilišu and Bit-tamartišu
+12'.	 @& 21 @iku @& 30 @gur @&  @& Cultivated land of Iddin-Sin, son of Appaya
+13'.	 @& 15 @iku @& 20 @gur @& 6 @iku @& Cultivated land of Ahum, @iššiakkum-farmer
+14'.	 @& 12 @iku @& 20 @gur @& 24 @iku @& Cultivated land of Maṣiam-ili, @iššiakkum-farmer
+15'.	 @&  @&  @&2 From the subsistence land of Gimil-Šamaš, mounted messenger
+16'.	 @& 4 @iku @& 10 @gur @& 5 @iku @& Šumum-libši, chief overseer
+17'.	 @& 3 @iku @& 10 @gur @& 1 @iku @& Ipqu-Irra, mounted messenger
+18'.	 @& 2 @iku @& 10 @gur @& 2 1/2 @iku @& ...
+@reverse
+1.	 @& 2 @iku @& 15 @gur @& 1 @iku @& Aplum, diviner
+2.	 @& 1 @iku @& 10 @gur @& 1 @iku @& Elmešum, barber
+3.	 @& 3 @iku @& 10 @gur @&  @& Sin-pater, ox-driver
+4.	 @& 2 @iku @& 20 @gur @&  @& Ubar-Šamaš, soldier
+5.	 @& 3 @iku @& 30 @gur @& instead of (his) son @& Lilum, merchant, @?one of the farmers?@, Amorite sheikh
+6.	 @& 19 @iku @& [...] @&  @& Cultivated land of Zikir-ilišu and Bit-tamartišu
+7.	 @& 30 @iku @& 40 @gur @&  @& Cultivated land of Nidnuša, merchant
+8.	 @&4 Field(s) of Kurritum
+9.	 @& 1 /2 @iku @& 10 @gur @&  @& First
+10.	 @& [...] @iku @& 20 @gur @&  @& Second, Eridu-liwir, gardener
+11.	 @& [...] @& [...] @& [...] @& Zikir-ilišu and Iddin-Sin
+12.	 @& [...] @& [...] @& [...] @& Iddin-Sin, ...
+$ rest of reverse missing
+
+

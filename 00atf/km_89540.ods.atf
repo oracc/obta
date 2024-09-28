@@ -1,0 +1,59 @@
+&P235260 = KM 89540
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-HI.A & {še}<MUR>.GU₄ & LAL₂ & DUH-HI.A & LAL₂ & IN.NU.DA & LAL₂ & MU-BI.IM
+#lem:  +alpu[bull]N$alpū;  +imrû[fodder]N$imrûm;  ribbatum[arrears]N;  +tuhhu[residue//bran]N'N$tuhhū;  ribbatum[arrears]N;  +tibnu[straw]N$tibnum;  ribbatum[arrears]N;  šumšu[name]N 
+
+#note: I thank Zsombor Földi for bringing this tablet to my attention
+$ single ruling
+2.	 & 2.24?# & 2(BARIG) &  & 1(BARIG) &  & 4(AŠ) <GUR> &  & u-bar-{d}UTU
+#lem:  u;  n;   n;  n; kur[unit]N;  +Ubar-Šamaš[]PN$ 
+
+3.	 & 52 & 1(BARIG) &  &  &  & 4(AŠ) <GUR> &  & {d}SUEN-⸢i-din⸣-nam
+#lem:  n;  n;     n; kur[unit]N;  +Sin-iddinam[]PN$ 
+
+4.	 & 54 & 1(BARIG) &  & 1(BARIG) &  & 4(AŠ) <GUR> &  & {d}⸢SUEN⸣-[SIPA]
+#lem:  n;  n;   n;  n; kur[unit]N;  +Sin-reʾum[]PN$ 
+
+5.	 & 40 & 3(BAN₂) &  & 2(BAN₂) &  & 1(AŠ) <GUR> 1(BARIG) &  & ia-ú
+#lem:  n;  n;   n;  n; kur[unit]N; n;  +yāʾu[my//mine]PP'PP$ 
+
+$ 1 blank line
+7.	| [NÍG.Ú.RUM] {d#}NANNA ŠA₃ URIM₂{ki!}-MA
+#lem:  +namkūru[property]N$namkūr; +Nanna[]DN$; +qerbu[centre]N$qereb; +Ur[]SN$ 
+
+$ 1 blank line
+@reverse
+$ several blank lines
+$ single ruling
+1.	| {iti}DU₆.KÙ KI-3 U₄ 24-[KAM]
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+2.	| %s mu ki-2
+#lem:  mu[year]; n 
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @& Arrears @& Bran @& Arrears @& Straw @& Arrears @& Its name
+$ single ruling
+2.	 @& @?144?@ @& 100 @sila @&  @& 60 @sila @&  @& 4 @gur @&  @& Ubar-Šamaš
+3.	 @& 52 @& 60 @sila @&  @&  @&  @& 4 @gur @&  @& Sin-iddinam
+4.	 @& 54 @& 60 @sila @&  @& 60 @sila @&  @& 4 @gur @&  @& Sin-reʾum
+5.	 @& 40 @& 30 @sila @&  @& 20 @sila @&  @& 1 @gur 60 @sila @&  @& Mine
+$ 1 blank line
+7.	 @&8 Property of Nanna in the middle of Ur
+$ 1 blank line
+@reverse
+$ several blank lines
+$ single ruling
+1.	 @&8 Tašritum (Month VI), third, day 24, 
+2.	 @&8 Year: the second.
+
+

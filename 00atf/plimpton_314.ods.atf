@@ -1,0 +1,63 @@
+&P412479 = CULC 452
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-HI.A & {še}MUR.GU₄ & DUH & IN.NU.DA & MU-BI.IM
+#lem:  alpū[bull]N;  imrûm[fodder]N;  tuhhum[bran]N;  tibnum[straw]N;  šumšu[name]N 
+
+#note: I thank Gertrud and Walter Farber for the reading of ŠE.MUR.GU₄ in this line.
+$ single ruling
+2.	 & 2 šu-ši & 4(BAN₂) 6 <SILA₃> & 3(BARIG) 1(BAN₂) & 2(U) 2(AŠ) <GUR> & u-bar-{d}UTU
+#lem:  n; šūši[sixty]NU;  n; n; qā[unit]N;  n; n;  n; n; kur[unit]N;  Ubar-Šamaš[1]PN 
+
+3.	 & 52 & 1(BARIG) 3(BAN₂) & 1(BARIG) 3(BAN₂) & 6(AŠ) <GUR> & {d}SUEN-i-din-nam
+#lem:  n;  n; n;  n; n;  n; kur[unit]N;  Sin-iddinam[1]PN 
+
+4.	 & 54 & 2(BARIG) 2(BAN₂) 7 SÌLA  & 1(BARIG) 3(BAN₂) & 5(AŠ) <GUR> & {d}SUEN-SIPA
+#lem:  n;  n; n; n; qā[unit]N;  n; n;  n; kur[unit]N;  Sin-reʾum[1]PN 
+
+5.	 & 38 & 1(BARIG) & 5(BAN₂) 2 <SILA₃> & 2(AŠ) <GUR> & ia-ú
+#lem:  n;  n;  n; n; qā[unit]N;  n; kur[unit]N;  yāʾu[mine]PP 
+
+$ 1 blank line
+7.	 & NÍG.Ú.RUM &  &  &  & {d}NANNA ŠA₃ URIM₂{ki}
+#lem:  namkūr[property]N;     Nanna[1]DN; qereb[centre]N; Ur[1]SN 
+
+@reverse
+$ several blank lines
+$ single ruling
+1.	 &5 {iti}DU₆!.KÙ! KI-4 U₄ 8-KAM 
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+$ single ruling
+2.	 &5 34
+#lem:  n 
+
+3.	 &5 33.20
+#lem:  n 
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @& Bran @& Straw @& Its name
+$ single ruling
+2.	 @& 2 sixties @& 46 @sila @& 190 @sila @& 12 @gur @& Ubar-Šamaš
+3.	 @& 52 @& 90 @sila @& 90 @sila @& 6 @gur @& Sin-iddinam
+4.	 @& 54 @& 147 @sila @& 90 @sila @& 5 @gur @& Sin-reʾum
+5.	 @& 38 @& 60 @sila @& 52 @sila @& 2 @gur @& Mine
+$ 1 blank line
+7.	 @&5 Property of Nanna of Ur
+@reverse
+$ several blank lines
+$ single ruling
+1.	 @&5 Tašritum (Month VI), fourth, day 8
+$ single ruling
+2.	 @&5 34
+3.	 @&5 33 20
+
+

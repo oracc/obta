@@ -1,0 +1,93 @@
+&P368394 = CDLJ 2007/1, 43
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & EREN₂ SAG NIG₂.GA & ša# $TAB $KAR ; x $A x $E x $UM $DA $GAR x $RU $KI $U₂  & GURUM₂ AK  & LA₂.I₃ & MU-BI.IM 
+#lem:  ṣābum[troops]N; rēš[head]N; namkūrim[property]N;  ša[who]REL; u; u; u; u; u; u; u; u; u; u; u; u; u; u;  piqittum[check]N; epuštum[made]AJ;  ribbatum[arrears]N;  šumšu[name]N 
+
+$ single ruling
+2.	 & 15 & ⸢7⸣  & 7  & 8  & i-gi-gi 
+#lem:  n;  n;  n;  n;  Igigi[1]PN 
+
+3.	 & ⸢10⸣ & ⸢6 ⸣  & ⸢6 ⸣  & 4  & INIM-{d}UTU 
+#lem:  n;  n;  n;  n;  +Awat-Šamaš[1]PN$ 
+
+4.	 & 3  & 2  & 2  & [1]  & ⸢ni-di!-tum⸣ 
+#lem:  n;  n;  n;  n;  Nidittum[1]PN 
+
+5.	 & 3  & 2  & 2  & [1]  & [DUMU-MEŠ] ⸢i₃⸣-li₂-⸢SUM.MA⸣
+#lem:  n;  n;  n;  n;  mārū[son]N; Ili-iddinam[1]PN 
+
+6.	 & ⸢2⸣  & 2  & [2]  & [(...)]  & [DUMU-MEŠ] a-⸢hu⸣-ni
+#lem:  n;  n;  n;  u;  mārū[son]N; Ahuni[1]PN 
+
+7.	 & ⸢3⸣  & [...]  & [...]  & [...]  & [DUMU-MEŠ] {⸢d⸣}SUEN-ša-mu-uh
+#lem:  n;  u;  u;  u;  mārū[son]N; Sin-šamuh[1]PN 
+
+8.	 & ⸢3?⸣  & [...]  & [...]  & [...]  & [DUMU] ⸢im-gur⸣-rum
+#lem:  n;  u;  u;  u;  mār[son]N; Imgurrum[1]PN 
+
+9.	 & [...]  & [...]  & [...]  & [...]  & [i-ṣi₂-da]-⸢re⸣-e
+#lem:  u;  u;  u;  u;  Iṣi-dare[1]PN 
+
+10.	 & [...]  & [...]  & [...]  & [...]  & [za-a]-lum
+#lem:  u;  u;  u;  u;  Zayyalum[1]PN 
+
+11.	 & [...]  & [...]  & [...]  & [...]  & [ṣi-li₂-{d}]INNIN
+#lem:  u;  u;  u;  u;  Ṣilli-Ištar[1]PN 
+
+$ rest of obverse missing
+
+@reverse
+$ start of reverse missing
+$ single ruling
+1'.	| [EREN₂ še-er]-⸢ha-nu-um⸣
+#lem:  ṣābum[troops]N; šerhānum[allocation of work]N 
+
+$ single ruling
+2'.	| ITI 28 KI-4 U₄# [...]-KAM#
+#lem:  warah[month]N; n; n; ūm[day]N; u 
+
+3'.	| %s mu ki*-2* {ŋeš}tukul mah an {d}⸢en-lil₂⸣ 
+#lem:  mu[year]; n; tukul[weapon]; mah[great]; An[1]; Enlil[1] 
+
+4'.	| %s {d}⸢en-ki⸣-ga-ta
+#lem:  Enki[1] 
+
+5'.	| %s i₃-si-⸢in⸣{ki} ⸢in⸣-dab₅-ba 
+#lem:  Isin[1]; dab[seize] 
+
+
+@translation parallel en project
+@obverse
+1.	 @& Troops, available assets @& Those who ... @& Check made @& Arrears @& Its name
+$ single ruling
+2.	 @& 15 @& 7 @& 7 @& 8 @& Igigi
+3.	 @& 10 @& 6 @& 6 @& 4 @& Awat-Šamaš
+4.	 @& 3 @& 2 @& 2 @& [1] @& Nidittum
+5.	 @& 3 @& 2 @& 2 @& [1] @& [The sons of] Ili-iddinam
+6.	 @& 2 @& 2 @& [2] @& [0] @& [The sons of] Ahuni
+7.	 @& 3 @& [...]  @& [...]  @& [...]  @& [The sons of] Suen-šamuh
+8.	 @& @?3?@ @& [...]  @& [...]  @& [...]  @& [The son of] Imgurrum
+9.	 @& [...]  @& [...]  @& [...]  @& [...]  @& [Iṣi]-dare
+10.	 @& [...]  @& [...]  @& [...]  @& [...]  @& Zayyalum
+11.	 @& [...]  @& [...]  @& [...]  @& [...]  @& [Ṣilli]-Ištar
+$ rest of obverse missing
+@reverse
+$ start of reverse missing
+$ single ruling
+1'.	 @&5 [Troops], allocation of work
+$ single ruling
+2'.	 @&5 Month 28, fourth, day [x], 
+3'.	 @&5 Year: third time after which with the great weapon of An, Enlil
+4'.	| and Enki
+5'.	| he captured Isin.
+
+

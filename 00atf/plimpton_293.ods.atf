@@ -1,0 +1,69 @@
+&P412477 = CULC 431
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-HI.[A] & {še}<MUR>.GU₄ & DUH & IN.NU.DA & MU-BI.IM
+#lem:  alpū[bull]N;  imrûm[fodder]N;  tuhhum[bran]N;  tibnum[straw]N;  šumšu[name]N 
+$ single ruling
+2.	 & 2.⸢44⸣ & [1(AŠ) <GUR>] 1(BARIG) & 1(AŠ) <GUR> 1(BARIG) &  & é-a-ma-lik
+#lem:  n;  n; kur[unit]N; n;  n; kur[unit]N; n;   Ea-malik[1]PN 
+
+$ 1 line blank
+4.	 & NÍG.Ú.RUM &  &  &  & {d}EN.LIL₂-LA₂
+#lem:  namkūr[property]N;     Enlil[1]DN 
+
+5.	 & [3.50?] & 2(AŠ) <GUR> & 1(AŠ) <GUR> 4(BARIG) &  & i-din-{d}UTU
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n;   Iddin-Šamaš[1]PN 
+
+$ 1 line blank
+7.	 & NÍG.Ú.RUM &  &  &  & {d}UTU
+#lem:  namkūr[property]N;     Šamaš[]DN 
+
+8.	 & [16] & 4(BAN₂) & 5(BAN₂) &  & ia-ú
+#lem:  n;  n;  n;   yāʾu[mine]PP 
+
+$ 1 line blank
+10.	 & NÍG.Ú.RUM &  &  &  & {d}NANNA
+#lem:  namkūr[property]N;     Nanna[1]DN 
+
+@reverse
+$ several lines blank
+$ single ruling
+1.	| NÍG.Ú.RUM DINGIR-RE.E.NE
+#lem:  namkūr[property]N; ilāni[god]N 
+
+$ single ruling
+2.	| {iti}DU₆.[KÙ] KI-4 U₄ 2-KAM
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+3.	| %s mu ki-2
+#lem:  mu[year]; n 
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @& Bran @& Straw @& Its name
+$ single ruling
+2.	 @& 2 44 @& [1 @gur] 60 @sila @& 1 @gur 60 @sila @&  @& Ea-malik
+$ 1 line blank
+4.	 @&5 Property of Enlil
+5.	 @& [@?3 50?@] @& 2 @gur @& 1 @gur 240 @sila @&  @& Iddin-Šamaš
+$ 1 line blank
+7.	 @&5 Property of Šamaš
+8.	 @& [16] @& 40 @sila @& 50 @sila @&  @& Mine
+$ 1 line blank
+10.	 @&5 Property of Nanna
+@reverse
+$ several lines blank
+$ single ruling
+1.	 @&5 Property of the gods
+$ single ruling
+2.	 @&5 Tašritum (Month VI), fourth, day 2
+3.	 @&5 Year: the second.
+
+

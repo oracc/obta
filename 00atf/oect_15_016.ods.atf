@@ -1,0 +1,134 @@
+&P347359 = OECT 15, 016
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+# Ashmolean 1922.287
+
+@tablet
+@obverse
+
+
+$ start of obverse missing
+1'.	 & [...] & [...] & [...] & [...] & [...] x x x [...]
+#lem:  u;  u;  u;  u;  u; u; u; u; u 
+
+2'.	 & [...] & [...] & [...] & [...] & [...] KI# 2-KAM# i-din-{d}SUEN#?
+#lem:  u;  u;  u;  u;  u; X; n; Iddin-Sin[1]PN 
+
+3'.	 & [...] & [...] & [...] & [...] & [ŠUKU É]-IGI.DU₈.BI ù zi-kir-DINGIR#-šu# 
+#lem:  u;  u;  u;  u;  šukūs[subsistence (field)]N; Bit-tamartišu[1]SN; u[and]CNJ; +Zikir-ilišu[]PN$ 
+
+$ single ruling
+4'.	 & [...] & [...] & [...] & [...] & [...] AD.DA#-MEŠ ša ki-ma AD.DA-NI
+#lem:  u;  u;  u;  u;  u; +abu[father]N$abbū; ša[who]REL; kīma[instead of]PRP; abišu[father]N 
+
+$ single ruling
+5'.	 & [...] & [...] & [...] & [...] & [ma-al-ha]-tum TUR!(BI).RA
+#lem:  u;  u;  u;  u;  +Malhatum[]GN$; +ṣehru[small]AJ$ṣehirtu 
+
+6'.	 & [...] & [...] & [...] & [...] & [...] $IM $TU {d}SUEN-ma-ṣi-a-am
+#lem:  u;  u;  u;  u;  u; u; u; +Sin-maṣiam[]PN$ 
+
+7'.	 & [...] & [...] & [...] & [...] & [...] $MA $DU₈ $IG li-wi-ir
+#lem:  u;  u;  u;  u;  u; u; u; u; +xxx-liwir[]PN$ 
+
+8'.	 & 1(EŠE₃)#? & [...] & [...] & [...] & [...] {d}SUEN-i-qú-lam
+#lem:  n;  u;  u;  u;  u; +Sin-iqulam[]PN$ 
+
+9'.	 & 1(EŠE₃)#? & [...] & [...] & [...] & [ŠÀ] ŠUKU nu-ha-am-ì-lí
+#lem:  n;  u;  u;  u;  ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; +Nuham-ili[]PN$ 
+
+10'.	 & 1(EŠE₃)# & [...] & [...] & [...] & ⸢ŠÀ⸣ ŠUKU ì-lí-iš-me-a-ni
+#lem:  n;  u;  u;  u;  ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; +Ili-išmeanni[]PN$ 
+
+11'.	 & 1(EŠE₃) & [...] & [...] &  & ŠÀ ŠUKU {d}IŠKUR-da-nu
+#lem:  n;  u;  u;   ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; +Adad-dannu[]PN$ 
+
+12'.	 & 1(EŠE₃) & [...] & [...] &  & ŠÀ ŠUKU ì-lí-ù-{d}UTU
+#lem:  n;  u;  u;   ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; +Ili-u-Šamaš[]PN$ 
+
+13'.	 & [...] & [...] & [...] &2 [ma]-al-ha-tum TUR.RA
+#lem:  u;  u;  u;  Malhatum[1]GN; ṣehirtu[small]AJ 
+
+$ single ruling
+14'.	 & x [...] & [...] & [...] &2 É-IGI.DU₈.BI ù zi-kir-ì-lí-šu
+#lem:  u; u;  u;  u;  Bit-tamartišu[1]SN; u[and]CNJ; Zikir-ilišu[1]PN 
+
+@reverse
+$ double ruling
+1.	 &  &  & 3(GEŠʾU) 4(GEŠ₂) <GUR> 1(BAN₂) &  & ŠÀ UKU.UŠ ša ki-ma EREN₂ UG₇ ZAH₂ it-bu-ú
+#lem:    n; n; kur[unit]N; n;   ina[in]PRP$ina&libbu[interior]N$libbi; rēdî[soldier]N; ša[that]REL; kīma[instead of]PRP; ṣābī[troops]N; mītūtim[dead]AJ; halqūtim[fugitive]AJ; itbû[stand in]V 
+
+2.	 & 3(IKU) 1/2(IKU) & 2(U) <GUR> & 1(AŠ) <GUR> 4(BARIG) 4(BAN₂) 3.1/3 <SILA₃> &  & APIN i-din-{d}SUEN DUMU a-ap-pa-a
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;   mērešti[cultivated field]N; Iddin-Sin[1]PN; mār[son]N; Appaya[1]PN 
+
+3.	 & 3(IKU) & 2(U) <GUR> & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) &  & APIN a-hu-um
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;   mērešti[cultivated field]N; Ahum[1]PN 
+
+4.	 &  &  &3 ŠÀ ha-a-a-ri-šu-nu A.GÀR ma-al-ha-tum TUR.RA
+#lem:    ina[in]PRP$ina&libbu[interior]N$libbi; +hayyāru[(meaning unknown)]N$hayyārišunu; ugār[(communally controlled) meadow]N; Malhatum[1]GN; ṣehirtu[small]AJ 
+
+5.	 & 4(IKU) & 4(U) <GUR> & 4(AŠ) <GUR> 2(BARIG) 1(BAN₂) 3.1/3 <SILA₃> & 2(IKU) & ŠÀ ŠUKU a-bu-wa-qar
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  n;  ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; +Abu-waqar[]PN$ 
+
+6.	 & 4(IKU) & 4(U) <GUR> & 4(AŠ) <GUR> 2(BARIG) 1(BAN₂) 3.1/3 <SILA₃> & 2(IKU) & ŠA₃ ŠUKU $BE $IŠ $KAR $BA $AL
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  n;  ina[in]PRP$ina&libbu[interior]N$libbi; šukūs[subsistence (field)]N; u; u; u; u; u 
+
+7.	 &  &  &3 APIN zi-im-ru-ELAM{ki} A.GÀR nin-in-si
+#lem:    mērešti[cultivated field]N; +Zimru-Elamtim[]PN$; ugār[(communally controlled) meadow]N; +Nin-insi[]GN$ 
+
+8.	 &  &  & 1(U) 2(AŠ) <GUR> 2(BARIG) 3(BAN₂) &  & ŠÀ UKU.UŠ-MEŠ EREN₂ UG₇ ZAH₂
+#lem:    n; n; kur[unit]N; n; n;   ina[in]PRP$ina&libbu[interior]N$libbi; rēdî[soldier]N; ṣābī[troops]N; mītūtim[dead]AJ; halqūtim[fugitive]AJ 
+
+9.	 & [...] & [...] & [...] 4(BARIG)# 3(BAN₂) 5 SÌLA &  & ŠÀ UKU.UŠ
+#lem:  u;  u;  u; n; n; n; qā[unit]N;   ina[in]PRP$ina&libbu[interior]N$libbi; rēdî[soldier]N 
+
+10.	 & [...] & [...] & [...] &  & NÍG.ŠU {d}URAŠ-mu-ba-al-lí-iṭ
+#lem:  u;  u;  u;   būš[property]N; +Uraš-muballiṭ[]PN$ 
+
+11.	 & [...] & [...] & [...] & x x x & [...] x DUMU ha-ab-lum
+#lem:  u;  u;  u;  u; u; u;  u; u; mār[son]N; +Hablum[]PN$ 
+
+$ rest of reverse missing
+
+@translation parallel en project
+@obverse
+$ start of obverse missing
+
+1'.	 @& [...] @& [...] @& [...] @& [...] @& [...] ... [...]
+2'.	 @& [...] @& [...] @& [...] @& [...] @& [...] second time, Iddin-Sin
+3'.	 @& [...] @& [...] @& [...] @& [...] @& [Subsistence field] of Bit-tamartišu and Zikir-ilišu
+$ single ruling
+4'.	 @& [...] @& [...] @& [...] @& [...] @& [...] @?fathers?@ who are instead of his father
+$ single ruling
+5'.	 @& [...] @& [...] @& [...] @& [...] @& @?Little?@ Malhatum
+6'.	 @& [...] @& [...] @& [...] @& [...] @& [...] ... Sin-maṣiam
+7'.	 @& [...] @& [...] @& [...] @& [...] @& [...] ...-liwir
+8'.	 @& 6 @iku @& [...] @& [...] @& [...] @& [...] Sin-iqulam
+9'.	 @& 6 @iku @& [...] @& [...] @& [...] @& [from the] subsistence field of Nuham-ili
+10'.	 @& 6 @iku @& [...] @& [...] @& [...] @& from the subsistence field of Ili-išmeanni
+11'.	 @& 6 @iku @& [...] @& [...] @&  @& from the subsistence field of Adad-dannu
+12'.	 @& 6 @iku @& [...] @& [...] @&  @& from the subsistence field of Ili-u-Šamaš
+13'.	 @& [...] @& [...] @& [...] @&2 @?Little?@ Malhatum
+$ single ruling
+14'.	 @& ... [...] @& [...] @& [...] @& [...] @& Bit-tamartišu and Zikir-ilišu
+@reverse
+$ double ruling
+1.	 @&  @&  @& 34 @gur 10 @sila @&  @& From the soldiers who stood in for the dead and fugitive troops
+2.	 @& 3 1/2 @iku @& 20 @gur @& 1 @gur 283 1/3 @sila @&  @& Cultivated land of Iddin-Sin, son of Appaya
+3.	 @& 3 @iku @& 20 @gur @& 1 @gur 200 @sila @&  @& Cultivated land of Ahum
+4.	 @&  @&  @& from their ..., meadowland of @?Little?@ Malhatum
+5.	 @& 4 @iku @& 40 @gur @& 4 @gur 133 1/3 @& 2 @iku @& from the subsistence field of Abu-waqar
+6.	 @& 4 @iku @& 40 @gur @& 4 @gur 133 1/3 @& 2 @iku @& from the subsistence field of ...
+7.	 @&  @&  @&3 Cultivated land of Zimru-Elamtim, meadows of @?Nininsi?@
+8.	 @&  @&  @& 12 @gur 150 @sila @&  @& from the soldiers (who stood in for) the dead and fugitive troops
+9.	 @& [...] @& [...] @& [...] 275 @sila @&  @& from the soldiers who stood in for the dead and fugitive troops
+10.	 @& [...] @& [...] @& [...] @&  @& Property of Uraš-muballiṭ
+11.	 @& [...] @& [...] @& [...] @& ... @& [...] son of Hablum
+
+

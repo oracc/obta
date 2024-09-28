@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="obta">
+  <name>Old Babylonian Tabular Accounts</name>
+  <abbrev>OBTA</abbrev>
+  <logo type="text">OBTA</logo>
+  <project-type>oracc</project-type>
+  <type>corpus</type>
+  <public>yes</public>
+  <blurb>A catalogue and corpus of Old Babylonian tabular accounts by Eleanor Robson
+  at University College London. Additions and corrections
+  welcome.</blurb>
+  <image>obta-farm.png</image>
+    <image-alt>Photo of southern Iraqi farm by ER</image-alt>
+  <option name="build-approved-policy" value="catalog"/>
+  <option name="build-outlined-policy" value="P"/>
+  <option name="catalog-build-policy" value="custom"/>
+  <option name="cbd-mode" value="mixed"/>
+  <option name="outline-default-select" value="true"/>
+  <option name="outline-default-sort-fields" value="period,genre,provenience"/>
+  <option name="outline-default-sort-labels" value="Time,Genre,Place"/>
+  <option name="render-accents" value="yes"/>
+  <option name="catalog-pleiades" value="yes"/>
+  <option name="%sux" value=". epsd2 epsd2/names"/>
+</project>

@@ -1,0 +1,1006 @@
+@project obta
+@lang akk-x-oldbab
+@name obta, akk-x-oldbab
+
+@letter A
+
+@entry abu [father] N
+@form AD.DA-NI $abišu
+@form a-bi-šu $abišu
+@form AD.DA $abbū
+@form AD.DA $ab
+@form AD.DA-MEŠ $abbū
+@sense N father
+@sense N sheikh
+@end entry
+
+@entry adi [until] PRP
+@form a-di $adi
+@sense PRP as far as
+@end entry
+
+@entry ahītu [side] N
+@form a-hi-a-tim $ahiātim
+@form a-hi-a-tim-ma $ahiātimma
+@sense N additional payment
+@end entry
+
+@entry ahu [side] N
+@form GU₂ $ah
+@sense N bank
+@end entry
+
+@entry akālu [eat] V
+@form i-ku-lu $īkulū
+@sense V have usufruct of
+@end entry
+
+@entry alpu [bull] N
+@form GU₄-HI.A $alpū
+@form GU₄-BI $alpūšu
+@sense N bull
+@end entry
+
+@entry ālu [city] N
+@form IRI{ki} $āl
+@form IRI{ki} $ālim
+@form IRI.DIDLI{ki} $ālū
+@sense N town
+@end entry
+
+@entry ammatu [forearm] N
+@form KUŠ₃ $ammat
+@sense N unit
+@end entry
+
+@entry ana [to] PRP
+@form a-na $ana
+@sense PRP for
+@sense PRP to
+@end entry
+
+@entry annû [this] DP
+@form an-nu-tum $annûtum
+@sense DP this
+@end entry
+
+@entry apālu [pay] V
+@form i-pa-lu $ippalū
+@sense V satisfy
+@end entry
+
+@entry asû [physician] N
+@form A.ZU $asûm
+@sense N physician
+@end entry
+
+@entry ašru [place] N
+@form KI $ašar
+@sense N place
+@end entry
+
+@entry atappu [(small) canal] N
+@form a-ta-pu $atappu
+@sense N (small) canal
+@end entry
+
+@entry aʾû [ferryman] N
+@form a-u₂-a $aʾūa
+@sense N ferryman
+@end entry
+
+@entry awātu [word] N
+@form INIM-TA $(ina) $awāt
+@sense N report
+@end entry
+
+@entry awīlu [man] N
+@form LU₂ $awīlim
+@form LU₂ $awīlī
+@form LU₂ $awīl
+@form LU₂ $awīlum
+@sense N man
+@sense N citizen
+@end entry
+
+@entry ayyābu [enemy] N
+@form a-a-bi $ayyābī
+@sense N enemy
+@end entry
+
+@letter B
+
+@entry bāʾeru [hunter] N
+@form ŠU.HA-MEŠ $bāʾerī
+@form ŠU.HA-MEŠ.TA.AM₃ $bāʾerū
+@sense N fisherman
+@end entry
+
+@entry bārû [diviner] N
+@form MAŠ₂.ŠU.GID₂.GID₂ $bārûm
+@sense N diviner
+@end entry
+
+@entry bâru [appear] V
+@form u₂-bi-ru-u₂ $ubīrū
+@sense V establish
+@end entry
+
+@entry bēru [double-hour] N
+@form DANNA $bēr
+@sense N unit
+@end entry
+
+@entry biltu [load] N
+@form GU₂.UN $bilat
+@form GU₂.UN $biltum
+@sense N rent
+@end entry
+
+@entry bītu [house] N
+@form E₂ $bīt
+@sense N estate
+@sense N temple
+@end entry
+
+@entry būru [calf] N
+@form AMAR $būrū
+@form AMAR-BI $būrūšu
+@sense N calf
+@end entry
+
+@entry būšu [goods] N
+@form NIG₂.ŠU $būš
+@form NIG₂.GAL₂.LA $būšum
+@form NIG₂ $būš
+@sense N property
+@end entry
+
+@letter D
+
+@entry dimtu [tower] N
+@form AN.ZA.GAR₃ $dimti
+@sense N tower
+@end entry
+
+@entry dūru [(city) wall] N
+@form BAD₃ $dūr
+@sense N (city) wall
+@end entry
+
+@letter E
+
+@entry ebertu [bank] N
+@form BAL.RI $eberti
+@sense N other side
+@sense N bank
+@end entry
+
+@entry ēkallu [palace] N
+@form E₂.GAL $ēkallim
+@form E₂.GAL $ēkallam
+@sense N palace
+@end entry
+
+@entry eleppu [boat] N
+@form {giš}MA₂-HI.A $eleppātim
+@sense N boat
+@end entry
+
+@entry elû [go up] V
+@form i-li-a-am $īliam
+@sense V go up
+@end entry
+
+@entry elû [upper] N
+@form AN.NA $elûm
+@sense N upper
+@end entry
+
+@entry eperu [earth] N
+@form SAHAR $eperum
+@form SAHAR $eperam
+@form SAHAR-BI $eperšu
+@form SAHAR-HI.A $eperū
+@form SAHAR-HI.A $eperī
+@sense N earth
+@sense N volume
+@end entry
+
+@entry epšu [made] AJ
+@form AK $epuštum
+@sense AJ made
+@end entry
+
+@entry eqlu [field] N
+@form A.ŠA₃-BI $eqelšu
+@form A.ŠA₃ $eqel
+@form A.ŠA₃ $eqlāt
+@form A.ŠA₃ $eqlum
+@form A.ŠA₃ $eqlētim
+@form A.ŠA₃ $eqlēt
+@form A-ŠA₃-HI.A $eqlētu
+@sense N field
+@sense N area
+@end entry
+
+@entry erbu [entry] N
+@form {d}UTU.KU₄.A $ereb $(šamšim)
+@sense N entry
+@end entry
+
+@entry ereb šamši [sunset] N
+@parts erbu[entry]N šamšu[sun]N
+@form {d}UTU.KU₄.A $ereb $šamšim
+@sense N west
+@end entry
+
+@entry eššu [new] AJ
+@form GIBIL $eššum
+@sense AJ new
+@end entry
+
+@entry ezib [except] PRP
+@form e-zu-ub $ezub
+@sense PRP except
+@end entry
+
+@letter G
+
+@entry gallābu [barber] N
+@form ŠU.I $gallābum
+@sense N barber
+@end entry
+
+@letter H
+
+@entry hallūru [peas] N
+@form GU₂.GAL $hallūrī
+@sense N chick-pea
+@end entry
+
+@entry halqu [lost] AJ
+@form ZAH₂ $halqūtim
+@sense AJ fugitive
+@end entry
+
+@entry harpu [early] AJ
+@form har-pu-um $harpum
+@sense AJ early
+@end entry
+
+@entry harṣu [deducted] AJ
+@form har-ṣu₂ $harṣū
+@sense AJ deducted
+@end entry
+
+@entry hayyāru [(meaning unknown)] N
+@form ha-a-a-ri-šu-nu $hayyārišunu
+@sense N (meaning unknown)
+@end entry
+
+@entry himṣu [torn away material] N
+@form hi-im-ṣa-tum $himṣātum
+@sense N (commercial) profit
+@end entry
+
+@letter I
+
+@entry idi [by] PRP
+@form DA $idi
+@sense PRP next to
+@end entry
+
+@entry idu [arm] N
+@form A₂-BI $idāt
+@sense N wage
+@end entry
+
+@entry ikkaru [farmer] N
+@form ENGAR $ikkarī
+@form {lu₂}ENGAR $ikkar
+@form ENGAR $ikkarim
+@form ENGAR $ikkar
+@sense N farmer
+@end entry
+
+@entry īku [dyke] N
+@form EG₂ $īk
+@form EG₂ $īkim
+@sense N dyke
+@end entry
+
+@entry ilu [god] N
+@form DINGIR-RE.E.NE $ilān
+@form DINGIR-RE.E.NE $ilāni
+@sense N god
+@end entry
+
+@entry imrû [fodder] N
+@form {še}MUR.GU₄ $imrûm
+@sense N fodder
+@end entry
+
+@entry ina [in] PRP
+@form i-na $ina
+@form ŠA₃-BA $ina $(libbišu)
+@form ŠA₃ $ina $(libbi)
+@form INIM-TA $ina $(awāt)
+@sense PRP from
+@sense PRP in
+@sense PRP according to
+@end entry
+
+@entry iškāru [work assignment] N
+@form EŠ₂.GAR₃ $iškār
+@form EŠ₂.GAR₃ $iškārī
+@sense N work assignment
+@end entry
+
+@entry iššiakku [city-ruler] N
+@form ENSI₂ $iššiakkim
+@sense N (a class of farmer)
+@end entry
+
+@entry išti [with] PRP
+@form iš-ti $išti
+@sense PRP with
+@end entry
+
+@entry ištu [from] PRP
+@form iš-tu $ištu
+@sense PRP from
+@end entry
+
+@entry ita [adjacent to] PRP
+@form i-ta $ita
+@sense PRP adjacent to
+@end entry
+
+@letter K
+
+@entry kaspu [silver] N
+@form KU₃.BABBAR $kaspim
+@sense N silver
+@end entry
+
+@entry kīma [like] PRP
+@form ki-ma $kīma
+@sense PRP instead of
+@end entry
+
+@entry kirû [(fruit) plantation] N
+@form {giš}KIRI₆ $kirîm
+@form {giš}KIRI₆ $kiri
+@form {giš}KIRI₆ $kirûm
+@sense N orchard
+@end entry
+
+@entry kullizu [ox-driver] N
+@form ŠA₃.GUD $kullizum
+@sense N ox-driver
+@end entry
+
+@entry kurru [unit] N
+@form GUR $kur
+@sense N unit
+@end entry
+
+@entry kuzillu [ox-driver] N
+@form ŠA₃.GU₄ $kuzillum
+@sense N ox-driver
+@end entry
+
+@letter L
+
+@entry lā [not] MOD
+@form la $lā
+@form NU $lā
+@sense MOD not
+@end entry
+
+@entry labīru [old] AJ
+@form LIBIR-MEŠ $labīrūtum
+@sense AJ old
+@end entry
+
+@entry laputtû [lieutenant] N
+@form NU.BANDA₃ $laputtûm
+@sense N lieutenant
+@end entry
+
+@entry libbū [from out of] AV
+@form li-ib-bu $libbū
+@sense AV from out of
+@end entry
+
+@entry libbu [interior] N
+@form ŠA₃-BA $(ina) $libbišu
+@form ŠA₃ $(ina) $libbi
+@sense N interior
+@end entry
+
+@entry lītu [cow] N
+@form AB₂ $liātum
+@sense N cow
+@end entry
+
+@letter M
+
+@entry madādu [measure (out)] V
+@form im-du-ud $imdud
+@sense V measure (out)
+@end entry
+
+@entry mādu [many] AJ
+@form DIDLI $mādâtim
+@sense AJ various
+@end entry
+
+@entry mala [as much as] PRP
+@form ma-la $mala
+@sense PRP as much as
+@sense SBJ as much as
+@end entry
+
+@entry mārtu [daughter] N
+@form DUMU.MUNUS $mārat
+@sense N daughter
+@end entry
+
+@entry māru [son] N
+@form DUMU $mār
+@form DUMU-MEŠ $mārū
+@sense N son
+@sense N member
+@end entry
+
+@entry mātu [land] N
+@form MA.DA $mātim
+@sense N land
+@end entry
+
+@entry mēreštu [planting] N
+@form APIN $mērešti
+@sense N cultivated field
+@end entry
+
+@entry miksu [tax (on produce)] N
+@form NIG₂.KU₅ $mikis
+@sense N land-owner's share
+@end entry
+
+@entry mišlānū [half (shares)] N
+@form ŠU.RI.A $mišlānī
+@sense N half (shares)
+@end entry
+
+@entry mišlu [half] N
+@form ŠU.RI.A-BI $mišilšu
+@sense N half
+@end entry
+
+@entry mītu [dead] AJ
+@form UG₇ $mītūtum
+@form UG₇ $mītūtim
+@sense AJ dead
+@end entry
+
+@entry muʾerru [leader (of an assembly)] N
+@form A₂.GAL₂-MEŠ.AM₃ $muʾerrī
+@sense N leader (of an assembly)
+@end entry
+
+@entry mūšaru [(flower, vegetable) bed] N
+@form SAR $mūšar
+@sense N unit
+@end entry
+
+@letter N
+
+@entry nadānu [give] V
+@form šu-ud-du-nim $šuddunim
+@sense N collecting
+@end entry
+
+@entry nadnu [given] AJ
+@form na-ad-nu $nadnū
+@form na-ad-nu $nadnu
+@sense AJ given
+@end entry
+
+@entry nadû [throw] V
+@form iš-ta-ad-du $ištaddû
+@form in-nam-di $innamdi
+@sense V record
+@sense V abandon
+@end entry
+
+@entry namkūru [property] N
+@form NIG₂.GA $namkūrim
+@form NIG₂.U₂.RUM $namkūr
+@form NIG₂.GA $namkūr
+@form NIG₂.GA.RA $namkūrim
+@sense N property
+@end entry
+
+@entry napharu [total] N
+@form ŠU.NIGIN₂ $naphar
+@form ŠU.NIGIN₂ $napharum
+@form ŠU.NIGIN $naphar
+@form PAP $napharum
+@sense N total
+@end entry
+
+@entry nāpilu [(an excavator?)] N
+@form na-ap-pi₂-lum $nappilum
+@sense N (an excavator?)
+@end entry
+
+@entry nāru [river] N
+@form ID₂ $nār
+@sense N canal
+@end entry
+
+@entry nasāhu [tear out] V
+@form BA.ZAL $issuh
+@form in-na-as-hu-u₂-ma $innashūma
+@sense V elapse
+@sense V remove
+@end entry
+
+@entry nashu [torn out] AJ
+@form na-as-hu $nashu
+@sense AJ excluded
+@end entry
+
+@entry našpaku [storage vessel] N
+@form E₂.KIŠIB.BA $našpakim
+@sense N storeroom
+@end entry
+
+@entry nidītu [unbuilt plot] N
+@form ni-di-it $nidīt
+@form ni-di-tim $nidītim
+@form ni-di-i-tum $nidītum
+@sense N unbuilt plot
+@end entry
+
+@entry nindanu [unit] N
+@form NINDA $nindan
+@sense N unit
+@end entry
+
+@entry nishu [extract(ion)] N
+@form ZI $nishum
+@sense N stubble
+@end entry
+
+@entry nukaribbu [gardener] N
+@form NU.GIŠ.KIRI₆ $nukaribbum
+@form NU.GIŠ.KIRI₆ $nukaribbim
+@form NU.GIŠ.KIRI₆ $nukarib
+@sense N gardener
+@end entry
+
+@letter P
+
+@entry parsiktu [bushel-measure] N
+@form {giš}BA.RI₂.GA $parsiktim
+@sense N unit
+@end entry
+
+@entry pašīšu [annointed one] N
+@form GUDU₄ $pašīšim
+@form GUDU₄ $pašīš
+@sense N (a priest)
+@end entry
+
+@entry pilku [demarcated zone] N
+@form pil₂-kum $pilkum
+@sense N demarcated zone
+@end entry
+
+@entry piqittu [allocation] N
+@form GURUM₂ $piqittum
+@sense N check
+@end entry
+
+@entry pūtu [forehead] N
+@form SAG $pūtum
+@sense N front (side)
+@end entry
+
+@letter Q
+
+@entry qatû [ended] AJ
+@form TIL $qati
+@sense AJ completed
+@end entry
+
+@entry qātu [hand] N
+@form ŠU $qāt
+@sense N responsibility
+@end entry
+
+@entry qēmu [flour] N
+@form ZID₂ $qēm
+@sense N flour
+@end entry
+
+@entry qerbu [centre] N
+@form ŠA₃ $qereb
+@sense N centre
+@end entry
+
+@entry qû [unit] N
+@form SILA₃ $qā
+@sense N unit
+@end entry
+
+@letter R
+
+@entry rabiānu [mayor] N
+@form ra-bi-an $rabiān
+@form ra-bi-a-nu $rabiānu
+@sense N mayor
+@end entry
+
+@entry rabû [big one] N
+@form GAL $rab
+@sense N chief
+@end entry
+
+@entry rakbu [mounted messenger] N
+@form RA₂.GAB $rakbim
+@sense N mounted messenger
+@end entry
+
+@entry rēdû [soldier] N
+@form UKU.UŠ $rēdû
+@form UKU.UŠ-MEŠ $rēdî
+@form UKU.UŠ $rēdî
+@sense N soldier
+@end entry
+
+@entry rēš namkūri [liquid capital] N
+@parts rēšu[head]N namkūru[property]N
+@form SAG_NIG₂.GA $rēš $namkūrim
+@form SAG_NIG₂.GA $rēš $namkūr
+@form SAG_NIG₂.GA.RA $rēš $namkūrim
+@sense N liquid capital
+@sense N available assets
+@end entry
+
+@entry rēšu [head] N
+@form SAG $rēš
+@sense N head
+@end entry
+
+@entry rēʾû [shepherd] N
+@form SIPA $rēʾîm
+@sense N shepherd
+@end entry
+
+@entry ribbatu [arrears] N
+@form LAL₂.I₃ $ribbatum
+@form LA₂.I₃ $ribbatum
+@form LAL₂ $ribbatum
+@sense N arrears
+@end entry
+
+@entry rību [replacement] N
+@form ri-bi $rībī
+@sense N replacement
+@end entry
+
+@letter Ṣ
+
+@entry ṣabtu [captured] AJ
+@form ṣa-ab-tu $ṣabtu
+@sense AJ captured
+@end entry
+
+@entry ṣābu [people] N
+@form EREN₂-HI.A $ṣābī
+@form EREN₂ $ṣābum
+@form EREN₂ $ṣābū
+@form EREN₂ $ṣābī
+@sense N troops
+@end entry
+
+@entry ṣehru [small] AJ
+@form TUR.RA $ṣehirtu
+@sense AJ small
+@end entry
+
+@entry ṣibtu [seizure] N
+@form ṣi-bi-it $ṣibit
+@form I₃.DAB₅ $ṣibtū
+@sense N holding (of land)
+@end entry
+
+@entry ṣīt šamši [sunrise] N
+@parts ṣītu[exit]N šamšu[sun]N
+@form {d}UTU.E₃.A $ṣīt $šamšim
+@sense N sunrise
+@sense N east
+@end entry
+
+@entry ṣītu [exit] N
+@form {d}UTU.E₃.A $ṣīt $(šamšim)
+@sense N exit
+@end entry
+
+@letter Š
+
+@entry ša [of] DET
+@form ša $ša
+@sense DET of
+@end entry
+
+@entry ša [that] REL
+@form ša $ša
+@sense REL that
+@sense REL who
+@end entry
+
+@entry šāʾilu [asker] N
+@form ENSI $šāʾilum
+@sense N dream interpreter
+@end entry
+
+@entry šakkanakku [(military) governor] N
+@form GIR₃.NITA₂ $šakkanakki
+@form GIR₃.NITA₂ $šakkanakkim
+@sense N (military) governor
+@end entry
+
+@entry šaknu [placed] AJ
+@form ša-ak-nu $šaknu
+@sense AJ set
+@end entry
+
+@entry šammu [plant(s)] N
+@form U₂-HI.A $šammī
+@sense N grass
+@end entry
+
+@entry šamšu [sun] N
+@form {d}UTU.E₃.A $(ṣīt) $šamšim
+@form {d}UTU.KU₄.A $(ereb) $šamšim
+@sense N sun
+@end entry
+
+@entry šarru [king] N
+@form LUGAL $šarrim
+@sense N king
+@end entry
+
+@entry šatammu [administrator] N
+@form ŠA₃.TAM-MEŠ $šatammū
+@form ŠA₃.TAM-MEŠ $šatammī
+@sense N government auditor
+@end entry
+
+@entry šattu [year] N
+@form MU $šanat
+@sense N year
+@end entry
+
+@entry šaṭru [written] AJ
+@form ša-aṭ-ru₃ $šaṭrū
+@form ša-ṭi-ir $šaṭir
+@form ša-aṭ-ru-ma $šaṭrūma
+@sense AJ written
+@end entry
+
+@entry šēpu [foot] N
+@form GIR₃ $šēp
+@sense N responsibility
+@end entry
+
+@entry šerʾānu [vein] N
+@form še-we-er-a-nu-um $šewerānum
+@form še-er-ha-nu-um $šerhānum
+@sense N allocation of work
+@end entry
+
+@entry šerʾu [furrow] N
+@form AB.SIN₂ $šerʾātim
+@form AB.SIN₂ $šerʾātum
+@sense N furrow
+@end entry
+
+@entry šeʾu [barley] N
+@form ŠE.GUR $še
+@form ŠE.GUR $šeʾim
+@form ŠE-BI $šeʾšu
+@form ŠE $šeʾum
+@sense N grain
+@end entry
+
+@entry šību [old person] N
+@form ši-bu-tum $šībūtum
+@sense N witness
+@end entry
+
+@entry šiddu [(longer) side] N
+@form UŠ $šiddim
+@form UŠ $šiddum
+@sense N (longer) side
+@end entry
+
+@entry šiqlu [unit] N
+@form GIN₂ $šiqil
+@sense N unit
+@end entry
+
+@entry šukudu [arrow] N
+@form GAG.SI.SA₂ $šukudim
+@sense N arrow
+@end entry
+
+@entry šukunnû [estimated yield] N
+@form šu-ku-un-na $šukunnā
+@form NIG₂.GAR $šukunnûm
+@sense N estimated yield
+@end entry
+
+@entry šukūsu [subsistence (field)] N
+@form A.ŠA₃.ŠUKU-MEŠ $šukūsī
+@form ŠUKU $šukūs
+@form A.ŠA₃.ŠUKU $šukūs
+@sense N subsistence (field)
+@end entry
+
+@entry šumu [name] N
+@form MU-BI.IM $šumšu
+@sense N name
+@end entry
+
+@entry šunu [they] IP
+@form šu-nu $šunu
+@sense IP those
+@end entry
+
+@entry šuplu [depth] N
+@form GAM $šuplum
+@sense N depth
+@end entry
+
+@entry šūrubtu [bringing in] N
+@form MU.TUM₂ $šūrubti
+@sense N bringing in
+@end entry
+
+@entry šūši [sixty] NU
+@form šu-ši $šūši
+@sense NU sixty
+@end entry
+
+@letter T
+
+@entry tāmartu [view(ing)] N
+@form IGI.DU₈.A $tāmarti
+@sense N inspection
+@end entry
+
+@entry tamkāru [merchant] N
+@form DAM.GAR₃ $tamkārum
+@form DAM.GAR₃ $tamkārim
+@sense N merchant
+@end entry
+
+@entry tebû [get up] V
+@form it-bu-u₂ $itbû
+@sense V stand in
+@end entry
+
+@entry tiāmtu [sea] N
+@form A.AB.BA $tiāmtim
+@sense N marsh
+@end entry
+
+@entry tibnu [straw] N
+@form IN.NU.DA $tibnum
+@sense N straw
+@end entry
+
+@entry tuhhu [residue] N
+@form DUH-HI.A $tuhhū
+@form DUH $tuhhum
+@sense N bran
+@end entry
+
+@letter Ṭ
+
+@entry ṭuppu [(clay) tablet] N
+@form ṭup-pi $ṭuppī
+@sense N (clay) tablet
+@end entry
+
+@entry ṭupšarru [scribe] N
+@form DUB.SAR $ṭupšarrum
+@sense N scribe
+@end entry
+
+@letter U
+
+@entry u [and] CNJ
+@form u₃ $u
+@sense CNJ and
+@end entry
+
+@entry ugāru [(communally controlled) meadow] N
+@form A.GAR₃ $ugār
+@form A.GAR₃-MEŠ $ugārātim
+@sense N (communally controlled) meadow
+@end entry
+
+@entry ummatu [main body] N
+@form um-ma-tum $ummatu
+@sense N main army
+@end entry
+
+@entry ūmu [day] N
+@form U₄ $ūm
+@form U₄-HI.A $ūmū
+@sense N day
+@end entry
+
+@entry usandû [bird-catcher] N
+@form MUŠEN.DU₃-MEŠ $usandû
+@form MUŠEN.DU₃ $usandî
+@sense N bird-catcher
+@end entry
+
+@entry utullu [chief herdsman] N
+@form U₂.TUL₂ $utullum
+@form U₂.TUL₂ $utul
+@sense N chief herdsman
+@end entry
+
+@letter W
+
+@entry wabālu [carry] V
+@form ub-lu-nim $ublūnim
+@form uš-ta-bi-lu $uštābilū
+@form uš-ta-bi-lu $uštābilū
+@form ub-lam $ublam
+@sense V send
+@end entry
+
+@entry waklu [overseer] N
+@form UGULA $waklum
+@form UGULA $wakil
+@form UGULA $waklī
+@sense N overseer
+@end entry
+
+@entry warhu [moon] N
+@form ITI $warah
+@sense N month
+@end entry
+
+@entry wēdû [prominent] AJ
+@form DIDLI $wēdûtim
+@sense AJ prominent
+@end entry
+
+@letter Y
+
+@entry yāʾu [my] PP
+@form ia-u₂ $yāʾu
+@form a-u₂-mi $yāʾumi
+@sense PP my
+@sense PP mine
+@end entry
+
+@letter Z
+
+@entry zittu [share] N
+@form HA.LA $zitti
+@sense N share
+@end entry
+

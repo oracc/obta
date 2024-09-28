@@ -1,0 +1,113 @@
+&P412462 = BM 013934
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & SAG NÍG.GA.RA ub-lam & MU.TÚM É.KIŠIB.BA & LÁL.Ì & MU-BI.IM
+#lem:  +rēšu[head+=available assets]N$rēš; +namkūru[property]N$namkūrim; +wabālu[carry//send]V'V$ublam; +šūrubtu[bringing in]N$šūrubti; +našpaku[storage vessel//storeroom]N'N$našpakim;  +ribbatu[arrears]N$ribbatum;  +šumu[name]N$šumšu 
+#note: I am grateful to Zsombor Földi for help with reading this line.
+# psu: rēš namkūri [available funds] N
+$ single ruling
+2.	 & 1(GEŠ₂) 8(AŠ) <GUR> 1(BARIG) & 1(GEŠ₂) 4(AŠ) <GUR> 3(BARIG) & 3(AŠ) <GUR> 3(BARIG) & {iti!(U₄)}BARÁ.ZAG.⸢GAR⸣ [...] ; É [a-wi-...]
+#lem:  n; n; +kurru[unit]N$kur; n;  n; n; kur[unit]N; n;  n; kur[unit]N; n;  +Nisannu[]MN$Nisannum; u; +bītu[house//estate]N'N$bīt; u 
+
+$ single ruling
+3.	 & 1(GEŠ₂) 1(U) 5(AŠ) <GUR> & 4(U) 8(AŠ) <GUR> 4(BAN₂) & 2(AŠ) <GUR> 3(BARIG) 4(BAN₂) & U₄ 12-⸢KAM⸣ [E₂ a-wi-...]
+#lem:  n; n; n; kur[unit]N;  n; n; kur[unit]N; n;  n; kur[unit]N; n; n;  +ūmu[day]N$ūm; n; bīt[estate]N; +Awi-xxx[]PN$ 
+
+4.	 & ša 3 DANNA!(KASKAL) & 2(U) 4(AŠ) <GUR> 4(BAN₂) &  & ⸢É⸣ [{d}EN.KI-...]
+#lem:  +ša[of]DET$; n; +bēru[double-hour//unit]N'N$bēr;  n; n; kur[unit]N; n;   bīt[estate]N; +Ea-xxx[]PN$ 
+
+$ single ruling
+5.	 & 5(AŠ) <GUR> & 4(AŠ) <GUR> 4(BARIG) 2(BAN₂) & 4(BAN₂) & [E₂ {d}EN.KI-...]
+#lem:  n; kur[unit]N;  n; kur[unit]N; n; n;  n;  bīt[estate]N; +Ea-xxx[]PN$ 
+
+$ single ruling
+6.	 & 5(AŠ) <GUR> & 3(AŠ) <GUR> 4(BARIG) 4(BAN₂) & 1(AŠ) <GUR> 2(BAN₂) & [E₂ {d}EN.KI-...]
+#lem:  n; kur[unit]N;  n; kur[unit]N; n; n;  n; kur[unit]N; n;  bīt[estate]N; +Ea-xxx[]PN$ 
+
+$ single ruling
+7.	 & 2(U) 5(AŠ) <GUR> & 2(U) 4(AŠ) <GUR> 2(BARIG) & 3(BARIG) & [E₂ {d}EN.KI-...]
+#lem:  n; n; kur[unit]N;  n; n; kur[unit]N; n;  n;  bīt[estate]N; +Ea-xxx[]PN$ 
+
+$ single ruling
+8.	 & 5(AŠ)# <GUR> & 4(AŠ) <GUR> 4(BARIG) 1(BAN₂) & 5(BAN₂) & ⸢U₄ 22-KAM⸣ É# [{d}EN.KI-...]
+#lem:  n; kur[unit]N;  n; kur[unit]N; n; n;  n;  ūm[day]N; n; bīt[estate]N; +Ea-xxx[]PN$ 
+
+$ single ruling
+@reverse
+1.	 & 3(AŠ) <GUR> 1(BARIG) & 3(AŠ) <GUR> 4(BAN₂) & 2(BAN₂) & U₄ 26-KAM É a-wi-[...]
+#lem:  n; kur[unit]N; n;  n; kur[unit]N; n;  n;  ūm[day]N; n; bīt[estate]N; +Awi-xxx[]PN$ 
+
+$ single ruling
+2.	 & 9(AŠ) <GUR> 1(BARIG) 4(BAN₂) & 8(AŠ) <GUR> 4(BARIG) 5(BAN₂) & 1(BARIG) 5(BAN₂) & U₄ 25-KAM É {d}EN.KI-[...]
+#lem:  n; kur[unit]N; n; n;  n; kur[unit]N; n; n;  n; n;  ūm[day]N; n; bīt[estate]N; +Ea-xxx[]PN$ 
+
+$ single ruling
+3.	 &2 4(AŠ) <GUR> 3(BARIG) ZÍD {d}UTU  &  & 1(GEŠ₂) 5(U) 5(AŠ) <GUR> 4(BARIG) 2(BAN₂)# ŠE#.GUR É a-[wi-...]
+#lem:  n; kur[unit]N; n; +qēmu[flour]N$qēm; +Šamaš[]DN$;   n; n; n; kur[unit]N; n; n; +šeʾu[barley//grain]N'N$šeʾim; bīt[estate]N; Awi-xxx[1]PN 
+
+4.	 &2 1(AŠ) <GUR> 2(BARIG) GÚ.GAL  &  & 1(GEŠ₂) 1(U) 1(AŠ) <GUR> 4(BAN₂) ŠE.GUR É {d}EN.[KI-...]
+#lem:  n; kur[unit]N; n; +hallūru[peas//chick-pea]N'N$hallūrī;   n; n; n; kur[unit]N; n; +šeʾu[barley//grain]N'N$šeʾim; bīt[estate]N; Ea-xxx[1]PN 
+
+5.	 &2 1(BARIG) 5(BAN₂) GÚ.NÍG.ÀR.RA {giš}BA.RÍ.GA &  & ŠU.NIGIN₂ 3(GEŠ₂) 7(AŠ) ŠE.GUR {giš}BA.[RÍ.GA]
+#lem:  n; n; X; +parsiktu[bushel-measure//unit]N'N$parsiktim;   +napharu[total]N$naphar; n; n; +šeʾu[barley//grain]N'N$še; parsiktim[unit]N 
+
+$ single ruling
+6.	 & 3(GEŠ₂) 1(U) 5(AŠ) <GUR> 3(BARIG) 4(BAN₂) & 3(GEŠ₂) 7(AŠ) <GUR> & 8(AŠ) <GUR> 3(BARIG) 4(BAN₂) & ŠE.GUR 
+#lem:  n; n; n; kur[unit]N; n; n;  n; n; kur[unit]N;  n; kur[unit]N; n; n;  +šeʾu[barley//grain]N'N$šeʾim 
+
+7.	 &  &3 ša A₂-BI {giš}MA₂-HI.A ù ERÉN-HI.A ; la har-ṣú
+#lem:   +ša[that]REL$; +idu[arm//wage]N'N$idāt; +eleppu[boat]N$eleppātim; +u[and]CNJ$; +ṣābu[people//troops]N'N$ṣābī; +lā[not]MOD$; +harṣu[deducted]AJ$harṣū 
+
+@top
+1.	 &4 {iti}BARÁ.ZAG.GAR U₄ 25-KAM
+#lem:  Nisannum[1]MN; ūm[day]N; n 
+
+2.	 &4 %s mu sa-am-su-i-lu-na lugal
+#lem:  mu[year]; Samsu-iluna[]RN; lugal[king] 
+
+3.	 &4 %s bàd unug{ki} urim₂{ki} mu-un-gul-la
+#lem:  bad[wall]; Uruk[]SN; Ur[]SN; gul[destroy] 
+
+@translation parallel en project
+@obverse
+1.	 @& @?He sent?@ available assets @& Income of the storeroom @& Arrears @& Its name
+$ single ruling
+2.	 @& 68 @gur 60 @sila @& 64 @gur 180 @sila @& 3 @gur 180 @sila @& Nisannum (Month I ) [day ...], estate of [Awi…]
+$ single ruling
+3.	 @& 75 @gur @& 48 @gur 40 @sila @& 2 @gur 220 @sila @& Day 12, [estate of Awi…]
+4.	 @& Of 3 @bēru @& 24 @gur 40 @sila @&  @& Estate of [Ea-…]
+$ single ruling
+5.	 @& 5 @gur @& 4 @gur 260 @sila @& 40 @sila @& [Day …, estate of Ea-...]
+$ single ruling
+6.	 @& 5 @gur @& 3 @gur 280 @sila @& 1 @gur 20 @sila @& [Day …, estate of Ea-...]
+$ single ruling
+7.	 @& 25 @gur @& 24 @gur 120 @sila @& 180 @sila @& [Day …, estate of Ea-...]
+$ single ruling
+8.	 @& 5 @gur @& 4 @gur 250 @sila @& 50 @sila @& Day 22, estate of [Ea-…]
+$ single ruling
+
+@reverse
+1.	 @& 3 @gur 60 @sila @& 3 @gur 40 @sila @& 20 @sila @& Day 26, estate of Awi[...]
+$ single ruling
+2.	 @& 9 @gur 100 @sila @& 8 @gur 290 @sila @& 110 @sila @& Day 25, estate of Ea-[...]
+$ single ruling
+3.	 @&2 4 @gur 180 @sila, flour of Šamaš @&2 115 @gur 260 @sila grain, estate of Awi[...]
+4.	 @&2 1 @gur 120 @sila chickpeas @&2 71 @gur 40 @sila grain, estate of Ea-[...]
+5.	 @&2 110 @sila @?vetch?@, by the @parsiktum-measure @&2 Total 187 @gur grain by the @parsiktum-measure
+$ single ruling
+6.	 @& 195 @gur 220 @sila @& 187 @gur @& 8 @gur 220 @sila  @& grain
+7.	 @&  @&3 That (relating to) the costs of the boats and troops were not deducted.
+
+@top
+1.	 @&4 Nisannum (Month I ), day 25, 
+2.	 @&4 Year: Samsu-iluna the king destroyed the walls of Uruk and Ur (Si 11 ).
+
+

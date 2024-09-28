@@ -1,0 +1,67 @@
+&P412470 = CULC 424
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & [GU₄-HI.A] & {[še]}MUR.[GU₄] & LAL₂ & DUH-⸢HI⸣.[A] & LAL₂# & ⸢IN⸣.NU.DA & LAL₂ & MU-BI.IM
+#lem:  +alpu[bull]N$alpū;  +imrû[fodder]N$imrûm;  ribbatum[arrears]N;  +tuhhu[residue//bran]N'N$tuhhū;  ribbatum[arrears]N;  +tibnu[straw]N$tibnum;  ribbatum[arrears]N;  šumšu[name]N 
+
+#note: I thank Gertrud and Walter Farber for the reading of ŠE.MUR.GU₄ in this line.
+$ single ruling
+2.	 & [...] & 1(BARIG) &  &  &  &  &  & u-bar-{d}UTU
+#lem:  u;  n;       +Ubar-Šamaš[]PN$ 
+
+3.	 & [26?] & 1(BARIG) &  &  &  &  &  & {d}SUEN-⸢i-din⸣-nam
+#lem:  n;  n;       +Sin-iddinam[]PN$ 
+
+4.	 & [27?] & 1(BARIG) &  &  &  &  &  & {d}⸢SUEN⸣-[SIPA]
+#lem:  n;  n;       +Sin-reʾum[]PN$ 
+
+5.	 & [25?] & 4(BAN₂) &  &  &  &  &  & ia-ú
+#lem:  n;  n;       +yāʾu[my//mine]PP'PP$ 
+
+$ 1 blank line
+7.	| [NÍG.Ú.RUM] {d#}NANNA ŠA₃ URIM₂{ki!}-MA
+#lem:  +namkūru[property]N$namkūr; +Nanna[]DN$; qereb[centre]N; +Ur[]SN$ 
+
+$ 1 blank line
+@reverse
+$ several blank lines
+$ single ruling
+1.	| [{iti}DU₆.KÙ? KI]-⸢3? U₄⸣ 28-KAM
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+2.	| %s [mu ki-2] {ŋeš}tukul mah an {d}en-líl {d}en-ki-ga-ta 
+#lem:  mu[year]; n; tukul[weapon]N; mah[great]; An[1]; Enlil[1]; Enki[1] 
+
+3.	| %s [ì-si-in]-na iri nam-lugal-la
+#lem:  Isin[]SN; iri[city]; namlugal[kingship] 
+
+4.	| %s [ù á]-dam didli a-na-me-a-bi
+#lem:  u[and]; adam[habitation]; didli[several]; anamea[everything] 
+
+@translation parallel en project
+@obverse
+1.	 @& [Bulls] @& Fodder @& Arrears @& Bran @& Arrears @& Straw @& Arrears @& Its name
+$ single ruling
+2.	 @& [...] @& 60 @sila @&  @&  @&  @&  @&  @& Ubar-Šamaš
+3.	 @& [@?26?@] @& 60 @sila @&  @&  @&  @&  @&  @& Sin-iddinam
+4.	 @& [@?27?@] @& 60 @sila @&  @&  @&  @&  @&  @& Sin-reʾum
+5.	 @& [@?25?@] @& 40 @sila @&  @&  @&  @&  @&  @& Mine
+$ 1 blank line
+7.	 @&8 Property of Nanna of Ur
+$ 1 blank line
+@reverse
+$ several blank lines
+$ single ruling
+1.	 @&8 @?[Tašritum (Month VI)], third?@, day 28, 
+2.	 @&8 [Year: the second after which] with the great weapon of An, Enlil and Enki
+3.	 @&8 (he seized) Isin, city of kingship, 
+4.	 @&8 [and] all its various habitations.
+
+

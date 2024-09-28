@@ -1,0 +1,104 @@
+&P412471 = CULC 425
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & ÁB AMAR & GU₄!-HI.A & ŠU.NIGIN₂ & {še}MUR.GU₄ & DUH-HI.A & IN.NU.DA & MU-BI.IM
+#lem:  +lītu[cow]N$liātum; +būru[calf]N$būrū;  alpū[bull]N;  +napharu[total]N$napharum;  imrûm[fodder]N;  tuhhū[bran]N;  tibnum[straw]N;  šumšu[name]N 
+
+#note: I thank Gertrud and Walter Farber for the reading of ŠE.MUR.GU₄ in this line.
+$ single ruling
+2.	 & 1.25 & 1.19 & 2.44 &  &  &  & Ú.TÚL é-a-ma-lik
+#lem:  n;  n;  n;     +utullu[chief herdsman]N$utul; +Ea-malik[]PN$ 
+
+$ 1 blank line
+4.	 & NÍG.Ú.RUM &  &  &  &  &  & {d}EN.LÍL
+#lem:  namkūr[property]N;       +Enlil[]DN$ 
+
+5.	 & 1.40 & 1.42 & 2.22 &  &  &  & Ú.TÚL i-din-⸢{d}UTU⸣
+#lem:  n;  n;  n;     utul[chief herdsman]N; +Iddin-Šamaš[]PN$ 
+
+6.	 & 13 & 15 & 28 &  &  &  & a-ú-a i-din-⸢{d}UTU⸣
+#lem:  n;  n;  n;     +aʾû[ferryman]N$aʾūa; Iddin-Šamaš[1]PN 
+
+$ 1 blank line
+8.	 & NÍG.Ú.RUM &  &  &  &  &  & {d}UTU
+#lem:  namkūr[property]N;       Šamaš[1]DN 
+
+9.	 & 9 & 7 & 16 &  &  &  & Ú.TÚL ia-ú
+#lem:  n;  n;  n;     +utullu[chief herdsman]$utullum; +yāʾu[my]PP$ 
+
+$ 1 blank line
+11.	 & NÍG.Ú.RUM &  &  &  &  &  & {d}SUEN
+#lem:  namkūr[property]N;       Sin[1]DN 
+
+@bottom
+1.	 &  &  &  &  &  &  & 6.50
+#lem:        n 
+
+@reverse
+$ single ruling
+1.	| ŠU.NIGIN 6.50
+#lem:  +napharu[total]N$naphar; n 
+
+$ single ruling
+$ several blank lines
+2.	 & NÍG.Ú.RUM &  &  &  &  &  & DINGIR-RE.E.NE ; 
+#lem:  namkūr[property]N;       +ilu[god]N$ilān 
+
+3.	 & [(...)] &  &  &  &  &  & LARSA{ki!}.⸢MA⸣
+#lem:  u;       +Larsa[]SN$ 
+$ single ruling
+4.	 &7 {iti}DU₆.⸢KÙ KI-3?⸣ U₄ 7-KAM
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+$ single ruling
+5.	 &7 %s mu ki-2 {ŋeš}tukul ⸢mah an {d}en-líl {d}en-ki⸣-ga-ta 
+#lem:  mu[year]; n; tukul[weapon]N; mah[great]; An[1]; Enlil[1]; Enki[1] 
+
+6.	 &7 %s ì-si-in-na iri nam-lugal-la ù á-dam didli a-na-me-a-bi
+#lem:  Isin[1]; iri[city]; namlugal[kingship]; u[and]; adam[habitation]; didli[several]; anamea[everything] 
+
+7.	 &7 %s sipad zid {d}ri-im-{d}suen in-dab-ba 
+#lem:  sipad[shepherd]N; zid[true]; Rim-Sin[1]; dab[seize] 
+
+8.	 & %s ugu uŋ₃ daŋal-la-<<DI?>>-bé-eš bí-gi
+#lem:  ugu[on]; uŋ[people]; daŋal[wide]; gi[return] 
+
+@translation parallel en project
+@obverse
+1.	 @& Cows and calves @& Bulls @& Total @& Fodder @& Bran @& Straw @& Its name
+$ single ruling
+2.	 @& 1 25 @& 1 19 @& 2 44 @&  @&  @&  @& Ea-malik’s chief herdsman
+$ 1 blank line
+4.	 @&7 Property of Enlil
+5.	 @& 1 40 @& 1 42 @& 2 22 @&  @&  @&  @& Iddin-Šamaš’s chief herdsman
+6.	 @& 13 @& 15 @& 28 @&  @&  @&  @& Iddin-Šamaš’s ferryman
+$ 1 blank line
+8.	 @&7 Property of Šamaš
+9.	 @& 9 @& 7 @& 16 @&  @&  @&  @& My chief herdsman
+$ 1 blank line
+11.	 @&7 Property of Sin
+@bottom
+1.	 @&  @&  @&  @&  @&  @&  @& 6 50
+@reverse
+$ single ruling
+1.	 @&7 Total: 6 50
+$ single ruling
+$ several blank lines
+2.	 @&7 Property of the gods of Larsa
+3.	 @&7 
+$ single ruling
+4.	 @&7 Tašritum (Month VI), third, day 7
+$ single ruling
+5.	 @&7 Year: the second after which with the great weapon of An, Enlil and Enki
+6.	 @&7 Isin, city of kingship, and all its various habitations
+7.	 @&7 the true shepherd, Rim-Sin, seized
+8.	 @&7 (but) returned its wide people.
+
+

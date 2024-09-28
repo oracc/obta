@@ -1,0 +1,113 @@
+&P412628 = SVJAD 117
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & [ERÉN SAG NÍG.GA] & ša# [i-na EG₂ {d}SUEN] uš-ta-bi-lu & [SAHAR ÉŠ.GÀR 1 LÚ] & [SAHAR-BI] & GURUM₂# AK# & [LÁ.Ì] & [MU-BI.IM]
+#lem:  ṣābum[troops]N; rēš[head]N; namkūrim[property]N;  ša[who]REL; ina[from]PRP; īk[dyke]N; Sin[1]DN; +wabālu[carry//send]V'V$uštābilū; eperam[earth]N; iškār[work assignment]N; n; awīlim[man]N;  eperšu[earth]N;  piqittum[check]N; epuštum[made]AJ;  ribbatum[arrears]N;  šumšu[name]N 
+
+$ single ruling
+2.	 & [15] & 10 & [1/3 GÍN] & [3].1/3 GÍN  & 10 & 5 & i-gi-gi
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  Igigi[1]PN 
+
+3.	 & 10 & 10 & [1/3 GÍN] & [3].1/3 GÍN & 10 &  & INIM-{d}UTU 
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   +Awat-Šamaš[1]PN$ 
+
+4.	 & 3 & ⸢3⸣ & [1/3 GÍN] & 1 GÍN & 3 &  & ni-di-it-⸢tum⸣
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   Nidittum[1]PN 
+
+5.	 & 3 & 2 & 1/3 GÍN  & 2/3 GÍN  & 2 & 1 & DUMU-MEŠ ì-lí-SUM!.MA 
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  mārū[son]N; Ili-iddinam[1]PN 
+
+6.	 & 2 & 2 & 1/3 GÍN & ⸢2/3⸣ GÍN & 2 &  & DUMU-MEŠ a-hu-ni
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   mārū[son]N; Ahuni[1]PN 
+
+7.	 & 2 & 2 & 1/3 GÍN & 2/3!(1/3) GÍN & 2 &  & DUMU-MEŠ {d}SUEN-ša-mu-uh 
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   mārū[son]N; Sin-šamuh[1]PN 
+
+8.	 & 3 & 2 & 1/3 GÍN & 2/3 [GÍN] & 2 & 1 & i-ṣi-da-re-⸢e⸣
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  +Iṣi-dare[]PN$ 
+
+9.	 & 2 & 2 & 1/3 GÍN & 2/3 GÍN & 2 &  & DUMU im-gur-rum
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   mār[son]N; Imgurrum[1]PN 
+
+10.	 & 2 & 1 & 1/3 GÍN & 1/3 GÍN & 1 & 1 & za-a-lum
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  Zayyalum[1]PN 
+
+11.	 & 4# & 2 & 1/3 GÍN & 2/3 GÍN & 2 & 2 & ṣi-lí-{d}INNIN#
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  Ṣilli-Ištar[1]PN 
+
+@reverse
+1.	 & 4!(2) & 2 & 1/3 GÍN & [2/3 GÍN] & 2 & 2 & pa-qà-ti-[ia]
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  Paqatiya[1]PN 
+
+2.	 & 3.1/3 & 2 & 1/3 GÍN & [2/3 GÍN] & 2 & 1.1/3 & pe-er-hu-um
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  Perhum[1]PN 
+
+3.	 & 3.1/3 & 2 & 1/3 GÍN & 2/3# GÍN & 2 & 1.1/3 & a-bu-um-DINGIR
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n;  Abum-ili[1]PN 
+
+4.	 & 2 & 2 & 1/3 [GÍN] & 2/3 GÍN & 2 &  & {d}SUEN-a-ša-re-da
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   Sin-ašareda[1]PN 
+
+5.	 & 1 & 1 & 1/3 GÍN & 1/3 GÍN & 1 &  & ap-lum
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;   +Aplum[]PN$ 
+
+$ single ruling
+6.	 & 57.2/3 & 45 & 1/3 GÍN & [15] GÍN & 45 & 12.2/3 & 
+#lem:  n;  n;  n; šiqil[unit]N;  n; šiqil[unit]N;  n;  n  
+
+$ single ruling
+7.	 &7 ERÉN ⸢še-er⸣-ha-nu-um
+#lem:  ṣābum[troops]N; šerhānum[allocation of work]N 
+
+$ single ruling
+8.	 &7 ITI 28 KI!(U₄)-4 U₄ 25 U₄-HI.A
+#lem:  warah[month]N; n; n; ūm[day]N; n; +ūmu[day]N$ūmū 
+
+9.	 &7 %s mu ki-2 {ŋeš}tukul an# {d}en-lil₂; {d}en-ki-ga-ta#
+#lem:  mu[year]; n; tukul[weapon]; An[1]; Enlil[1]; Enki[1] 
+
+10.	 &7 %s i₃-si-in{ki#}
+#lem:  Isin[1] 
+
+11.	 &7 %s in-dab₅-ba#
+#lem:  dab[seize] 
+
+@translation parallel en project
+@obverse
+1.	 @& [Troops, available assets] @& Those who were sent [@?from?@ Sin's dyke] @& [Earth, the (daily) work assignment of 1 man] @& [Its earth] @& Check made @& [Arrears] @& [Its name]
+$ single ruling
+2.	 @& [15] @& 10 @& [1/3 shekel] @& [3] 1/3 shekels @& 10 @& 5 @& Igigi
+3.	 @& 10 @& 10 @& [1/3 shekel] @& [3] 1/3 shekels @& 10 @&  @& Awat-Šamaš
+4.	 @& 3 @& 3 @& [1/3 shekel] @& 1 shekel @& 3 @&  @& Nidittum
+5.	 @& 3 @& 2 @& 1/3 shekel @& 2/3 shekel @& 2 @& 1 @& The sons of Ili-iddinam
+6.	 @& 2 @& 2 @& 1/3 shekel @& 2/3 shekel @& 2 @&  @& The sons of Ahuni
+7.	 @& 2 @& 2 @& 1/3 shekel @& 2/3 shekel @& 2 @&  @& The sons of Sin-šamuh
+8.	 @& 3 @& 2 @& 1/3 shekel @& 2/3 [shekel] @& 2 @& 1 @& Iṣi-dare
+9.	 @& 2 @& 2 @& 1/3 shekel @& 2/3 shekel @& 2 @&  @& The son of Imgurrum
+10.	 @& 2 @& 1 @& 1/3 shekel @& 1/3 shekel @& 1 @& 1 @& Zayyalum
+11.	 @& 4 @& 2 @& 1/3 shekel @& 2/3 shekel @& 2 @& 2 @& Ṣilli-Ištar
+@reverse
+1.	 @& 2 @& 2 @& 1/3 shekel @& [2/3 shekel] @& 2 @& 2 @& Paqatiya
+2.	 @& 3 1/3 @& 2 @& 1/3 shekel @& [2/3 shekel] @& 2 @& 1 1/3 @& Perhum
+3.	 @& 3 1/3 @& 2 @& 1/3 shekel @& 2/3 shekel @& 2 @& 1 1/3 @& Abum-ili
+4.	 @& 2 @& 2 @& 1/3 [shekel] @& 2/3 shekel @& 2 @&  @& Sin-ašareda
+5.	 @& 1 @& 1 @& 1/3 shekel @& 1/3 shekel @& 1 @&  @& Aplum
+$ single ruling
+6.	 @& 57 2/3 @& 45 @& 1/3 shekel @& [15] shekels @& 45 @& 12 2/3
+$ single ruling
+7.	 @&7 Troops, allocation of work
+$ single ruling
+8.	 @&7 Month 28, fourth, day 25, days
+9.	 @&7 Year: second one after which with the weapon of An, Enlil and Enki
+10.	 @&7 Isin
+11.	 @&7 he seized.
+
+

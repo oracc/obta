@@ -1,0 +1,65 @@
+&P412478 = CULC 432
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-HI.A & {še}MUR.GU₄ & ⸢DUH⸣ & IN.NU.DA & MU-BI.IM
+#lem:  alpū[bull]N;  imrûm[fodder]N;  tuhhum[bran]N;  tibnum[straw]N;  šumšu[name]N 
+
+#note: I thank Gertrud and Walter Farber for the reading of ŠE.MUR.GU₄ in this line.
+$ single ruling
+2.	 & 2.44 & 1(AŠ) <GUR> 2(BARIG) 1(BAN₂) & 1(AŠ) <GUR> 2(BARIG) & 6(AŠ) <GUR> & {d}EN.KI-ma-lik
+#lem:  n;  n; kur[unit]N; n; n; n; kur[unit]N; n;  n; kur[unit]N;  Ea-malik[1]PN 
+
+$ 1 line blank
+4.	 & NÍG.Ú.RUM &  &  &  & {d}EN.LÍL
+#lem:  namkūr[property]N;     Enlil[1]DN 
+
+5.	 & 3!.50 & 1(AŠ) <GUR> 2(BARIG) 1 (BAN₂) X & 2(AŠ) <GUR> & 6(AŠ) <GUR> & i-din-{d}UTU
+#lem:  n;  n; kur[unit]N; n; n; X; X;  n; kur[unit]N;  n; kur[unit]N;  Iddin-Šamaš[1]PN 
+
+$ 1 line blank
+7.	 & NÍG.Ú.RUM &  &  &  & {d}UTU
+#lem:  namkūr[property]N;     Šamaš[1]DN 
+
+8.	 & 16 & 3(BAN₂) & 3(BAN₂) & 1(AŠ) <GUR> & ia-ú
+#lem:  n;  n;  n;  n; kur[unit]N;  yāʾu[mine]PP 
+
+@reverse
+1.	 & NÍG.Ú.RUM &  &  &  & {d}NANNA
+#lem:  namkūr[property]N;     Nanna[]DN 
+
+$ single ruling
+2.	| ŠU É.GAL
+#lem:  +qātu[hand//responsibility]N'N$qāt; +ēkallu[palace]N$ēkallim 
+
+3.	| {iti}DU₆!.KÙ! U₄ 23-KAM BA.ZAL
+#lem:  Tašritu[1]MN; ūm[day]N; n; +nasāhu[tear out//elapse]V'V$issuh 
+
+4.	| %s mu ús-sa 5-kam ì-si-in;-na ì-dab
+#lem:  mu[year]; us[follow]; n; Isin[1]; dab[seize] 
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @& Bran @& Straw @& Its name
+$ single ruling
+2.	 @& 2 44 @& 1 @gur 130 @sila @& 1 @gur 120 @sila @& 6 @gur @& Ea-malik
+$ 1 line blank
+4.	 @&5 Property of Enlil
+5.	 @& 3 50 @& 1 @gur 130 @sila @& 12 @gur @& 6 @gur @& Iddin-Šamaš
+$ 1 line blank
+7.	 @&5 Property of Šamaš
+8.	 @& 16 @& 30 @sila @& 30 @sila @& 1 @gur @& Mine
+@reverse
+1.	 @&5 Property of Nanna
+$ single ruling
+2.	 @&5 Responsibility of the palace
+3.	 @&5 Tašritu (Month VI), day 23 has elapsed
+4.	 @&5 Year: the fifth following that in which he seized Isin.
+
+

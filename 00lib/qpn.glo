@@ -1,0 +1,1771 @@
+@project obta
+@lang qpn
+@name obta, qpn
+
+@letter A
+
+@entry Abiyatum [1] PN
+@form a-bi-ia-tum %akk-x-oldbab $Abiyatum
+@sense PN 1
+@end entry
+
+@entry Abum-ili [1] PN
+@form a-bu-um-DINGIR %akk-x-oldbab $Abum-ili
+@sense PN 1
+@end entry
+
+@entry Abu-waqar [1] PN
+@form a-bu-wa-qar %akk-x-oldbab $Abu-waqar
+@sense PN 1
+@end entry
+
+@entry Adad-dannu [1] PN
+@form {d}IŠKUR-da-nu %akk-x-oldbab $Adad-dannu
+@sense PN 1
+@end entry
+
+@entry Adanniam [1] PN
+@form a-da-an-ni-a-am %akk-x-oldbab $Adanniam
+@sense PN 1
+@end entry
+
+@entry Addaru [1] MN
+@form {iti}ŠE.KIN.KU₅ %akk-x-oldbab $Addarum
+@sense MN 1
+@end entry
+
+@entry Adur-Šulgi [1] SN
+@form E₂.DURU₅-{d}ŠUL.GI{ki} %akk-x-oldbab $Adur-Šulgi
+@sense SN 1
+@end entry
+
+@entry Aha-nirši [1] PN
+@form a-ha-nir-ši %akk-x-oldbab $Aha-nirši
+@sense PN 1
+@end entry
+
+@entry Aha-nuta [1] PN
+@form a-ha-nu-ta %akk-x-oldbab $Aha-nuta
+@sense PN 1
+@end entry
+
+@entry Ahi-abal [1] PN
+@form a-hi-a-ba-al %akk-x-oldbab $Ahi-abal
+@sense PN 1
+@end entry
+
+@entry Ahi-lumur [1] PN
+@form {m}a-hi-lu-mur %akk-x-oldbab $Ahi-lumur
+@sense PN 1
+@end entry
+
+@entry Ahi-ṭabum [1] PN
+@form a-hi-ṭa₃-bu-um %akk-x-oldbab $Ahi-ṭabum
+@sense PN 1
+@end entry
+
+@entry Ahi-wedum [1] PN
+@form a-hi-we-du-um %akk-x-oldbab $Ahi-wedum
+@form a-hi-we-du %akk-x-oldbab $Ahi-wedu
+@sense PN 1
+@end entry
+
+@entry Ahum [1] PN
+@form {m}a-hu-um %akk-x-oldbab $Ahum
+@form a-hu-um %akk-x-oldbab $Ahum
+@sense PN 1
+@end entry
+
+@entry Ahuni [1] PN
+@form a-hu-ni %akk-x-oldbab $Ahuni
+@sense PN 1
+@end entry
+
+@entry Ahušunu [1] PN
+@form a-hu-šu-nu %akk-x-oldbab $Ahušunu
+@sense PN 1
+@end entry
+
+@entry Ahu-waqar [1] PN
+@form a-hu-wa-qar %akk-x-oldbab $Ahu-waqar
+@sense PN 1
+@end entry
+
+@entry Albana [1] GN
+@form al-ba-na %akk-x-oldbab $Albana
+@sense GN 1
+@end entry
+
+@entry Albianna [1] WN
+@form {id₂}al-bi-an-na %akk-x-oldbab $Albianna
+@sense WN 1
+@end entry
+
+@entry Ali-damqum [1] PN
+@form {m}a-li₂-dam-qum %akk-x-oldbab $Ali-damqum
+@form a-li₂-dam-qum %akk-x-oldbab $Ali-damqum
+@sense PN 1
+@end entry
+
+@entry Ali-waqar [1] PN
+@form {m}a-li₂-wa-qar{+qar₃} %akk-x-oldbab $Ali-waqar
+@sense PN 1
+@end entry
+
+@entry Ali-waqrum [1] PN
+@form a-li₂-wa-aq-rum %akk-x-oldbab $Ali-waqrum
+@sense PN 1
+@end entry
+
+@entry Amurru [1] PN
+@form a-mu-ru %akk-x-oldbab $Amurru
+@sense PN 1
+@end entry
+
+@entry Amurru [Amorite] EN
+@form MAR.TU-MEŠ %akk-x-oldbab $Amurrim
+@form MAR.TU %akk-x-oldbab $Amurrim
+@sense EN Amorite
+@end entry
+
+@entry An [1] DN
+@bases an
+@form an %sux /an #~
+@form an-ke₄ %sux /an #~,ak.e
+@sense DN 1
+@end entry
+
+@entry Ana-pani-andullim [1] PN
+@form a-na-pa-ni-AN.DUL₇ %akk-x-oldbab $Ana-pani-andullim
+@sense PN 1
+@end entry
+
+@entry Ana-Sin-taklaku [1] PN
+@form a-na-{d}SUEN-ta-ak-la-ku %akk-x-oldbab $Ana-Sin-taklaku
+@sense PN 1
+@end entry
+
+@entry Andul-Šamaš [1] PN
+@form AN.DUL₇-{d}UTU %akk-x-oldbab $Andul-Šamaš
+@sense PN 1
+@end entry
+
+@entry Anna-ilum [1] PN
+@form an-na-DINGIR %akk-x-oldbab $Anna-ilum
+@sense PN 1
+@end entry
+
+@entry Apiatum [1] PN
+@form a-pi₂-ia-tum %akk-x-oldbab $Apiatum
+@sense PN 1
+@end entry
+
+@entry Apilša [1] PN
+@form a-pil₂-ša %akk-x-oldbab $Apilša
+@sense PN 1
+@end entry
+
+@entry Apil-Amurrim [1] PN
+@form {d}a-pil₂-{d}MAR.TU %akk-x-oldbab $Apil-Amurrim
+@form a-pil₂-{d}MAR.TU %akk-x-oldbab $Apil-Amurrim
+@sense PN 1
+@end entry
+
+@entry Apil-Damu [1] PN
+@form a-pil₂-{d}da-mu %akk-x-oldbab $Apil-Damu
+@sense PN 1
+@end entry
+
+@entry Apil-ilim [1] PN
+@form a-pil₂-DINGIR %akk-x-oldbab $Apil-ilim
+@sense PN 1
+@end entry
+
+@entry Apil-ilišu [1] PN
+@form a-pil₂-i₃-li₂-šu %akk-x-oldbab $Apil-ilišu
+@sense PN 1
+@end entry
+
+@entry Apil-kubi [1] PN
+@form a-pil-ku-bi %akk-x-oldbab $Apil-kubi
+@sense PN 1
+@end entry
+
+@entry Apil-Sin [1] PN
+@form a-pil₂-{d}SUEN %akk-x-oldbab $Apil-Sin
+@sense PN 1
+@end entry
+
+@entry Aplum [1] PN
+@form ap-lum %akk-x-oldbab $Aplum
+@sense PN 1
+@end entry
+
+@entry Appaya [1] PN
+@form a-ap-pa-a %akk-x-oldbab $Appaya
+@form a-pa-a %akk-x-oldbab $Appaya
+@sense PN 1
+@end entry
+
+@entry Apsatum [1] GN
+@form ap-sa-tim %akk-x-oldbab $Apsatim
+@sense GN 1
+@end entry
+
+@entry Arahsamnu [1] MN
+@form {iti}APIN.DU₈.A %akk-x-oldbab $Arahsamnum
+@sense MN 1
+@end entry
+
+@entry Atta-xxx [1] PN
+@form at-ta-x %akk-x-oldbab $Atta-xxx
+@sense PN 1
+@end entry
+
+@entry Awat-Šamaš [1] PN
+@form INIM-{d}UTU %akk-x-oldbab $Awat-Šamaš
+@form INIM-{d}UTU %akk-x-oldbab $Awat-Šamaš
+@sense PN 1
+@end entry
+
+@entry Awil-Adad [1] PN
+@form a-wi-il-{d}IŠKUR %akk-x-oldbab $Awil-Adad
+@sense PN 1
+@end entry
+
+@entry Awil-Ea [1] PN
+@form LU₂-{d}EN.KI.KA %akk-x-oldbab $Awil-Ea
+@sense PN 1
+@end entry
+
+@entry Awil-Ilabrat [1] PN
+@form LU₂-{d}NIN.ŠUBUR %akk-x-oldbab $Awil-Ilabrat
+@sense PN 1
+@end entry
+
+@entry Awil-Nammu [1] PN
+@form LU₂-{d}NAMMA %akk-x-oldbab $Awil-Nammu
+@sense PN 1
+@end entry
+
+@entry Awi-xxx [1] PN
+@form a-wi-x %akk-x-oldbab $Awi-xxx
+@sense PN 1
+@end entry
+
+@entry Ayyaniatum [1] GN
+@form a-a-ni-a-tum{ki} %akk-x-oldbab $Ayyaniatum
+@form a-a-ni-a-tim %akk-x-oldbab $Ayyaniatim
+@sense GN 1
+@end entry
+
+@entry Ayyaru [1] MN
+@form {iti}GU₄.SI.SA₂ %akk-x-oldbab $Ayyarum
+@sense MN 1
+@end entry
+
+@letter B
+
+@entry Bad-Tibira [1] SN
+@form BAD₃.TIBIRA{ki} %akk-x-oldbab $Bad-Tibira
+@form {iri}BAD₃-TIBIRA{ki} %akk-x-oldbab $Bad-Tibira
+@sense SN 1
+@end entry
+
+@entry Balliṭu-taru [1] PN
+@form ba-li-ṭu₃-GI₄ %akk-x-oldbab $Balliṭu-taru
+@sense PN 1
+@end entry
+
+@entry Beliš-xxx [1] PN
+@form be-li₂-iš-di-ka-x %akk-x-oldbab $Beliš-xxx
+@sense PN 1
+@end entry
+
+@entry Beliya [1] PN
+@form be-li₂-ia %akk-x-oldbab $Beliya
+@sense PN 1
+@end entry
+
+@entry Belšunu [1] PN
+@form {m}be-el-šu-nu %akk-x-oldbab $Belšunu
+@sense PN 1
+@end entry
+
+@entry Betaya [1] PN
+@form be₂-e-ta-a %akk-x-oldbab $Betaya
+@sense PN 1
+@end entry
+
+@entry Biri-xxx-sum [1] GN
+@form bi-ri-x-su-um %akk-x-oldbab $Biri-xxx-sum
+@sense GN 1
+@end entry
+
+@entry Bit-tamartišu [1] SN
+@form E₂-IGI.DU₈.BI %akk-x-oldbab $Bit-tamartišu
+@form E₂.IGI.DU₈.BI %akk-x-oldbab $Bit-tamartišu
+@form E₂-IGI.DU₈-ŠUM{ki} %akk-x-oldbab $Bit-tamartišum
+@sense SN 1
+@end entry
+
+@entry Bulum [1] SN
+@form {iri}bu-u₂-lum{ki} %akk-x-oldbab $Bulum
+@sense SN 1
+@end entry
+
+@entry Buni-abni [1] PN
+@form bu-ni-ab-ni %akk-x-oldbab $Buni-abni
+@sense PN 1
+@end entry
+
+@letter D
+
+@entry Dak-xxx [1] PN
+@form da-ak-x %akk-x-oldbab $Dak-xxx
+@sense PN 1
+@end entry
+
+@entry Damqi-ilišu [1] PN
+@form dam-qi₂-DINGIR-šu %akk-x-oldbab $Damqi-ilišu
+@sense PN 1
+@end entry
+
+@entry Damua [1] PN
+@form {d}da-mu-u₂-a %akk-x-oldbab $Damua
+@sense PN 1
+@end entry
+
+@entry Dam-laganum [1] GN
+@form DAM-la-ga-nu %akk-x-oldbab $Dam-laganu
+@form DAM-la-ga-nu-um %akk-x-oldbab $Dam-laganum
+@sense GN 1
+@end entry
+
+@entry Der [1] SN
+@form BAD₃{ki} %akk-x-oldbab $Der
+@sense SN 1
+@end entry
+
+@entry Diqqum [1] PN
+@form di-iq-qum %akk-x-oldbab $Diqqum
+@sense PN 1
+@end entry
+
+@entry Dur-Simmugri [1] SN
+@form BAD₃-si-im-mu-ug-ri %akk-x-oldbab $Dur-Simmugri
+@sense SN 1
+@end entry
+
+@letter E
+
+@entry Ea-iddinam [1] PN
+@form {d}EN.KI-i-din-nam %akk-x-oldbab $Ea-idinnam
+@sense PN 1
+@end entry
+
+@entry Ea-iribam [1] PN
+@form e₂-a-i-ri-ba-am %akk-x-oldbab $Ea-iribam
+@sense PN 1
+@end entry
+
+@entry Ea-malik [1] PN
+@form e₂-a-ma-lik %akk-x-oldbab $Ea-malik
+@form {d}EN.KI-ma-lik %akk-x-oldbab $Ea-malik
+@sense PN 1
+@end entry
+
+@entry Ea-puṭuri [1] PN
+@form e₂-a-pu-ṭu₂-ri %akk-x-oldbab $Ea-puṭuri
+@sense PN 1
+@end entry
+
+@entry Ea-ṣilli [1] PN
+@form e₂-a-ṣi-li₂ %akk-x-oldbab $Ea-ṣilli
+@sense PN 1
+@end entry
+
+@entry Ea-xxx [1] PN
+@form {d}EN.KI-x %akk-x-oldbab $Ea-xxx
+@sense PN 1
+@end entry
+
+@entry Elalia [1] SN
+@form {iri}e-la-li-ia{ki} %akk-x-oldbab $Elalia
+@sense SN 1
+@end entry
+
+@entry Elmešum [1] PN
+@form el-me-šum %akk-x-oldbab $Elmešum
+@sense PN 1
+@end entry
+
+@entry Enki [1] DN
+@bases {d}en-ki
+@form {d}en-ki-ga-ta %sux /{d}en-ki #~,ak.ta
+@sense DN 1
+@end entry
+
+@entry Enlil [1] DN
+@bases {d}en-lil₂
+@form {d}en-lil₂ %sux /{d}en-lil₂ #~
+@form {d}EN.LIL₂ %akk-x-oldbab $Enlil
+@form {d}EN.LIL₂-LA₂ %akk-x-oldbab $Enlil
+@form {d}en-lil₂-la₂-ta %sux  /{d}en-lil₂ +-la₂=l.a #~,ak.ta
+@sense DN 1
+@end entry
+
+@entry Enlil-mudammiq [1] PN
+@form {d}EN.LIL₂-mu-da-mi-iq %akk-x-oldbab $Enlil-mudammiq
+@sense PN 1
+@end entry
+
+@entry Enlil-nišišu [1] PN
+@form {d}EN₂.LIL₂-ZI.GA.A.NI %akk-x-oldbab $Enlil-nišišu
+@sense PN 1
+@end entry
+
+@entry Eridu-liwir [1] PN
+@form ERIDU{ki}-li-wi-ir %akk-x-oldbab $Eridu-liwir
+@sense PN 1
+@end entry
+
+@entry Erṣetum-abi [1] PN
+@form er-ṣe-tum-a-bi %akk-x-oldbab $Erṣetum-abi
+@sense PN 1
+@end entry
+
+@entry Eteyatum [1] PN
+@form e-te-ia-tum %akk-x-oldbab $Eteyatum
+@sense PN 1
+@end entry
+
+@entry E-igidu-bi [1] PN
+@form E₂-IGI.DU₈-BI %akk-x-oldbab $E-igidu-bi
+@sense PN 1
+@end entry
+
+@letter G
+
+@entry Gabu [1] WN
+@form {id₂}ga-bu-u₂ %akk-x-oldbab $Gabu
+@sense WN 1
+@end entry
+
+@entry Gimillum [1] PN
+@form gi-mil-lum %akk-x-oldbab $Gimillum
+@sense PN 1
+@end entry
+
+@entry Gimil-Marduk [1] PN
+@form gi-mil-{d}AMAR.UTU %akk-x-oldbab $Gimil-Marduk
+@sense PN 1
+@end entry
+
+@entry Gimil-Šamaš [1] PN
+@form gi-mil-{d}UTU %akk-x-oldbab $Gimil-Šamaš
+@sense PN 1
+@end entry
+
+@entry Gurrudum [1] PN
+@form gur-ru-du-um %akk-x-oldbab $Gurrudum
+@sense PN 1
+@end entry
+
+@letter H
+
+@entry Habil-abi [1] PN
+@form ha-bi-il-a-bi %akk-x-oldbab $Habil-abi
+@sense PN 1
+@end entry
+
+@entry Habil-kinu [1] PN
+@form ha-bil-ki-nu %akk-x-oldbab $Habil-kinu
+@sense PN 1
+@end entry
+
+@entry Hablum [1] PN
+@form ha-ab-lum %akk-x-oldbab $Hablum
+@sense PN 1
+@end entry
+
+@entry Hammurabi [1] RN
+@bases ha-am-mu-ra-bi
+@form ha-am-mu-ra-bi %sux /ha-am-mu-ra-bi #~
+@sense RN 1
+@end entry
+
+@entry Hammurabi-nuhuš-niši [1] WN
+@form {id₂}ha-am-mu-ra-bi-nu-hu-uš-ni-ši %akk-x-oldbab $Hammurabi-nuhuš-niši
+@sense WN 1
+@end entry
+
+@entry Harab-xxx [1] SN
+@form ha-ra-ab-x-x-x %akk-x-oldbab $Harab-xxx
+@sense SN 1
+@end entry
+
+@entry Hašurrum [1] GN
+@form ha-šu-ur-rum %akk-x-oldbab $Hašurrum
+@sense GN 1
+@end entry
+
+@entry Haṭimu-abim [1] PN
+@form ha-ṭi-mu-a-bi-im %akk-x-oldbab $Haṭimu-abim
+@sense PN 1
+@end entry
+
+@entry Huppu [1] PN
+@form hu-up-pu-u₂ %akk-x-oldbab $Huppu
+@sense PN 1
+@end entry
+
+@entry Huwatum [1] PN
+@form hu-wa-a-tum %akk-x-oldbab $Huwatum
+@sense PN 1
+@end entry
+
+@entry Huzalum [1] PN
+@form hu-za-lum %akk-x-oldbab $Huzalum
+@sense PN 1
+@end entry
+
+@letter I
+
+@entry Ibbi-Ilabrat [1] PN
+@form i-bi-{d}NIN.ŠUBUR %akk-x-oldbab $Ibbi-Ilabrat
+@sense PN 1
+@end entry
+
+@entry Ibni-Adad [1] PN
+@form ib-ni-{d}IŠKUR %akk-x-oldbab $Ibni-Adad
+@sense PN 1
+@end entry
+
+@entry Iddiniatum [1] PN
+@form i-din-ia-tum %akk-x-oldbab $Iddiniatum
+@sense PN 1
+@end entry
+
+@entry Iddin-Lagamal [1] PN
+@form i-din-{d}la-ga-ma-al %akk-x-oldbab $Iddin-Lagamal
+@sense PN 1
+@end entry
+
+@entry Iddin-Sin [1] PN
+@form i-din-{d}SUEN %akk-x-oldbab $Iddin-Sin
+@sense PN 1
+@end entry
+
+@entry Iddin-Šamaš [1] PN
+@form i-din-{d}UTU %akk-x-oldbab $Iddin-Šamaš
+@sense PN 1
+@end entry
+
+@entry Iddin-xxx [1] PN
+@form i-din-{d}x %akk-x-oldbab $Iddin-xxx
+@sense PN 1
+@end entry
+
+@entry Igigi [1] PN
+@form i-gi-gi %akk-x-oldbab $Igigi
+@sense PN 1
+@end entry
+
+@entry Igmil-Sin [1] PN
+@form ig-mil-{d}SUEN %akk-x-oldbab $Igmil-Sin
+@form {m}ig-mil-{d}SUEN %akk-x-oldbab $Igmil-Sin
+@sense PN 1
+@end entry
+
+@entry Igmil-xxx [1] PN
+@form ig-mil-x %akk-x-oldbab $Igmil-xxx
+@sense PN 1
+@end entry
+
+@entry Ilam-dugul [1] PN
+@form {m}DINGIR{+lam}-du-gu-ul %akk-x-oldbab $Ilam-dugul
+@sense PN 1
+@end entry
+
+@entry Ilam-lumur [1] PN
+@form DINGIR{+lam}-lu-mur %akk-x-oldbab $Ilam-lumur
+@sense PN 1
+@end entry
+
+@entry Ilan-šemeya [1] PN
+@form DINGIR{+an}-še-me-a %akk-x-oldbab $Ilanu-iddinam
+@form DINGIR{+an}-še-me-a %akk-x-oldbab $Ilan-šemeya
+@sense PN 1
+@end entry
+
+@entry Ilaya [1] PN
+@form i-la-a-a %akk-x-oldbab $Ilaya
+@sense PN 1
+@end entry
+
+@entry Ilima-xxx [1] PN
+@form i₃-li₂-ma-x %akk-x-oldbab $Ilima-xxx
+@sense PN 1
+@end entry
+
+@entry Iliš-tikal [1] SN
+@form {iri}i₃-li₂-iš-ti-kal{ki} %akk-x-oldbab $Iliš-tikal
+@sense SN 1
+@end entry
+
+@entry Ili-awilim [1] PN
+@form i₃-li₂-a-wi-lim %akk-x-oldbab $Ili-awilim
+@sense PN 1
+@end entry
+
+@entry Ili-ereš [1] PN
+@form i₃-li₂-URU₄ %akk-x-oldbab $Ili-ereš
+@sense PN 1
+@end entry
+
+@entry Ili-iddinam [1] PN
+@form i₃-li₂-SUM.MA %akk-x-oldbab $Ili-iddinam
+@form i₃-li₂-i-din-nam %akk-x-oldbab $Ili-idinnam
+@sense PN 1
+@end entry
+
+@entry Ili-ippalsam [1] PN
+@form i₃-li₂-ip-pa-al-sa₃-am %akk-x-oldbab $Ili-ippalsam
+@sense PN 1
+@end entry
+
+@entry Ili-išmeanni [1] PN
+@form i₃-li₂-iš-me-a-ni %akk-x-oldbab $Ili-išmeanni
+@sense PN 1
+@end entry
+
+@entry Ili-tukulti [1] PN
+@form i₃-li₂-tu-kul₂-ti %akk-x-oldbab $Ili-tukulti
+@sense PN 1
+@end entry
+
+@entry Ili-turam [1] PN
+@form {m}i₃-li₂-tu-ra-am %akk-x-oldbab $Ili-turam
+@sense PN 1
+@end entry
+
+@entry Ili-u-Šamaš [1] PN
+@form i₃-li₂-u₃-{d}UTU %akk-x-oldbab $Ili-u-Šamaš
+@sense PN 1
+@end entry
+
+@entry Ili-zanini [1] PN
+@form I₃-li₂-za-ni-ni %akk-x-oldbab $Ili-zanini
+@sense PN 1
+@end entry
+
+@entry Ilšu-bani [1] PN
+@form DINGIR-šu-ba-ni %akk-x-oldbab $Ilšu-bani
+@sense PN 1
+@end entry
+
+@entry Ilšu-ibnišu [1] PN
+@form DINGIR-šu-ib-ni-šu %akk-x-oldbab $Ilšu-ibnišu
+@sense PN 1
+@end entry
+
+@entry Ilum-gamil [1] PN
+@form DINGIR-ga-mil %akk-x-oldbab $Ilum-gamil
+@sense PN 1
+@end entry
+
+@entry Ilum-rabi [1] PN
+@form DINGIR-ra-bi %akk-x-oldbab $Ilum-rabi
+@sense PN 1
+@end entry
+
+@entry Imdilum [1] PN
+@form {m}im-di-i-lum %akk-x-oldbab $Imdilum
+@sense PN 1
+@end entry
+
+@entry Imgua [1] PN
+@form {m}im-gu-u₂-a %akk-x-oldbab $Imgua
+@sense PN 1
+@end entry
+
+@entry Imgurrum [1] PN
+@form im-gur-rum %akk-x-oldbab $Imgurrum
+@sense PN 1
+@end entry
+
+@entry Imtani [1] PN
+@form im-ta-ni %akk-x-oldbab $Imtani
+@sense PN 1
+@end entry
+
+@entry Im-xxx [1] PN
+@form im-x %akk-x-oldbab $Im-xxx
+@sense PN 1
+@end entry
+
+@entry Inana [1] DN
+@bases {d}inana
+@form {d}innin %sux /{d}inana #~
+@sense DN 1
+@end entry
+
+@entry Inbuša [1] PN
+@form in-bu-ša %akk-x-oldbab $Inbuša
+@sense PN 1
+@end entry
+
+@entry Ipquatum [1] PN
+@form ip-qu₂-u₂-a-tum %akk-x-oldbab $Ipquatum
+@sense PN 1
+@end entry
+
+@entry Ipquša [1] PN
+@form ip-qu₂-ša %akk-x-oldbab $Ipquša
+@sense PN 1
+@end entry
+
+@entry Ipqu-erṣetim [1] PN
+@form ip-qu₂-er-ṣe-tim %akk-x-oldbab $Ipqu-erṣetim
+@sense PN 1
+@end entry
+
+@entry Ipqu-Irra [1] PN
+@form ip-qu₂-{d}IR₃.RA %akk-x-oldbab $Ipqu-Irra
+@sense PN 1
+@end entry
+
+@entry Iqišum [1] PN
+@form i-qi₂-šum %akk-x-oldbab $Iqišum
+@sense PN 1
+@end entry
+
+@entry Isin [1] SN
+@bases i₃-si-in{ki}; i₃-si-in
+@form i₃-si-in{ki} %sux /i₃-si-in{ki} #~
+@form i₃-si-in-na %sux /i₃-si-in +-na=n.a #~,a
+@sense SN 1
+@end entry
+
+@entry Iṣi-dare [1] PN
+@form i-ṣi₂-da-re-e %akk-x-oldbab $Iṣi-dare
+@form i-ṣi-da-re-e %akk-x-oldbab $Iṣi-dare
+@sense PN 1
+@end entry
+
+@entry Išar-Lim [1] PN
+@form i-šar-li-im %akk-x-oldbab $Išar-Lim
+@sense PN 1
+@end entry
+
+@entry Išime-šihhašu [1] PN
+@form i-ši-me-ši-ha-šu %akk-x-oldbab $Išime-šihhašu
+@sense PN 1
+@end entry
+
+@entry Ittita-xxx-qu [1] PN
+@form it-ti-ta-x-qu %akk-x-oldbab $Ittita-xxx-qu
+@sense PN 1
+@end entry
+
+@entry I-xxx [1] PN
+@form i-x-x %akk-x-oldbab $I-xxx
+@sense PN 1
+@end entry
+
+@letter K
+
+@entry Kabta-illassu [1] PN
+@form {d}kab-ta-ILLAT-su %akk-x-oldbab $Kabta-illassu
+@sense PN 1
+@end entry
+
+@entry Kardaha [1] SN
+@form {iri}kar-da-ha{ki} %akk-x-oldbab $Kardaha
+@sense SN 1
+@end entry
+
+@entry Kipram [1] SN
+@form ki-ip-ra-am{ki} %akk-x-oldbab $Kipram
+@form {iri}ki-ip-ra-am{ki} %akk-x-oldbab $Kipram
+@sense SN 1
+@end entry
+
+@entry Kubul [1] GN
+@form ku-bu-ul %akk-x-oldbab $Kubul
+@sense GN 1
+@end entry
+
+@entry Kurkanu [1] SN
+@form {iri}kur-kar-nu{ki} %akk-x-oldbab $Kurkanu
+@form {iri}kur-kar-nu-um{ki} %akk-x-oldbab $Kurkanum
+@sense SN 1
+@end entry
+
+@entry Kurritum [1] GN
+@form kur-ri-tum %akk-x-oldbab $Kurritum
+@sense GN 1
+@end entry
+
+@entry Kutha [1] GN
+@bases gu₂-du₃-a
+@form gu₂-du₃-a %sux /gu₂-du₃-a #~
+@sense GN 1
+@end entry
+
+@letter L
+
+@entry Lagaš [1] SN
+@form LAGAŠ{ki} %akk-x-oldbab $Lagaš
+@sense SN 1
+@end entry
+
+@entry Lalu [1] PN
+@form la-lu-u₂ %akk-x-oldbab $Lalu
+@sense PN 1
+@end entry
+
+@entry Larsa [1] SN
+@form LARSA{ki}.MA %akk-x-oldbab $Larsa
+@form {iri}LARSA{ki} %akk-x-oldbab $Larsa
+@sense SN 1
+@end entry
+
+@entry Libbitum [1] WN
+@form {id₂}lib₃-bi-tum %akk-x-oldbab $Libbitum
+@sense WN 1
+@end entry
+
+@entry Libluṭ [1] PN
+@form li-ib-lu-uṭ %akk-x-oldbab $Libluṭ
+@sense PN 1
+@end entry
+
+@entry Lilum [1] PN
+@form li-lum %akk-x-oldbab $Lilum
+@sense PN 1
+@end entry
+
+@entry Lipit-Ištar [1] PN
+@form li-pi₂-it-EŠ₈.TAR₂ %akk-x-oldbab $Lipit-Ištar
+@sense PN 1
+@end entry
+
+@entry Lipit-Sin [1] PN
+@form li-pi₂-it-{d}SUEN %akk-x-oldbab $Lipit-Sin
+@sense PN 1
+@end entry
+
+@entry Lišim-ilišu [1] PN
+@form li-ši-im-DINGIR-šu %akk-x-oldbab $Lišim-ilišu
+@sense PN 1
+@end entry
+
+@entry Lišim-ilum [1] PN
+@form li-ši-im-DINGIR %akk-x-oldbab $Lišim-ilum
+@sense PN 1
+@end entry
+
+@entry Lištašim-ilum [1] PN
+@form li-iš-ta-ši-im-DINGIR %akk-x-oldbab $Lištašim-ilum
+@sense PN 1
+@end entry
+
+@letter M
+
+@entry Malgium [1] SN
+@bases ma-al-gi₄-a{ki}; ma₃-al-gi₄-a{ki}; ma-al-gi-a{ki}
+@form ma-al-gi₄-a{ki} %sux /ma-al-gi₄-a{ki} #~
+@form ma₃-al-gi₄-a{ki} %sux /ma₃-al-gi₄-a{ki} #~
+@form ma-al-gi-a{ki} %sux /ma-al-gi-a{ki} #~
+@sense SN 1
+@end entry
+
+@entry Malhatum [1] GN
+@form ma-al-ha-tum %akk-x-oldbab $Malhatum
+@sense GN 1
+@end entry
+
+@entry Mannašu [1] PN
+@form ma-an-na-šu %akk-x-oldbab $Mannašu
+@sense PN 1
+@end entry
+
+@entry Mannum-kima-Sin [1] PN
+@form ma-an-nu-um-ki-ma-{d}SUEN %akk-x-oldbab $Mannum-kima-Sin
+@sense PN 1
+@end entry
+
+@entry Marat-šarrim [1] SN
+@form {iri}DUMU.MUNUS-LUGAL{ki} %akk-x-oldbab $Marat-šarrim
+@sense SN 1
+@end entry
+
+@entry Marduk-mušallim [1] PN
+@form {d}AMAR.UTU-mu-ša-lim %akk-x-oldbab $Marduk-mušallim
+@sense PN 1
+@end entry
+
+@entry Marduk-naṣir [1] PN
+@form {m}{d}AMAR.UTU-na-ṣi-ir %akk-x-oldbab $Marduk-naṣir
+@form {d}AMAR.UTU-na-ṣir %akk-x-oldbab $Marduk-naṣir
+@sense PN 1
+@end entry
+
+@entry Mari [1] SN
+@bases ma-ri₂{ki}; ma-ri{ki}; ma₂-ri₂{ki}
+@form ma₂-ri₂{ki} %akk-x-oldbab $Mari
+@form ma-ri₂{ki} %sux /ma-ri₂{ki} #~
+@form ma₂-ri₂{ki} %sux /ma₂-ri₂{ki} #~
+@form ma-ri{ki} %sux /ma-ri{ki} #~
+@sense SN 1
+@end entry
+
+@entry Mar-Amurrim [1] PN
+@form DUMU-{d}MAR.TU %akk-x-oldbab $Mar-Amurrim
+@sense PN 1
+@end entry
+
+@entry Mar-erṣetim [1] PN
+@form DUMU-er-ṣe-tim %akk-x-oldbab $Mar-erṣetim
+@sense PN 1
+@end entry
+
+@entry Mar-Ištar [1] PN
+@form DUMU-EŠ₈.TAR₂ %akk-x-oldbab $Mar-Ištar
+@sense PN 1
+@end entry
+
+@entry Maṣiam-ili [1] PN
+@form ma-ṣi-a-am-i₃-li₂ %akk-x-oldbab $Maṣiam-ili
+@sense PN 1
+@end entry
+
+@entry Mašmašene [1] SN
+@form {iri}maš-maš-e-ne{ki} %akk-x-oldbab $Mašmašene
+@form maš-maš-e-ne %akk-x-oldbab $Mašmašene
+@sense SN 1
+@end entry
+
+@entry Mayyamarum [1] WN
+@form {id₂}ma-a-ma-rum %akk-x-oldbab $Mayyamarum
+@sense WN 1
+@end entry
+
+@entry Mayyašum [1] PN
+@form ma-a-šum %akk-x-oldbab $Mayyašum
+@sense PN 1
+@end entry
+
+@entry Me-xxx [1] PN
+@form me-e-{d}NIN %akk-x-oldbab $Me-xxx
+@sense PN 1
+@end entry
+
+@entry Muhaddum [1] PN
+@form mu-ha-du-um %akk-x-oldbab $Muhaddum
+@form mu-ha-ad-di-im %akk-x-oldbab $Muhaddim
+@form mu-ha-ad-di %akk-x-oldbab $Muhaddi
+@sense PN 1
+@end entry
+
+@entry Munawwirum [1] PN
+@form {m}mu-na-wi-rum %akk-x-oldbab $Munawwirum
+@sense PN 1
+@end entry
+
+@entry Mu-xxx [1] PN
+@form mu-x %akk-x-oldbab $Mu-xxx
+@sense PN 1
+@end entry
+
+@letter N
+
+@entry Nabahu [1] GN
+@form na-ba-hu %akk-x-oldbab $Nabahu
+@sense GN 1
+@end entry
+
+@entry Nabi-Enlil [1] PN
+@form na-bi-{d}EN.LIL₂ %akk-x-oldbab $Nabi-Enlil
+@sense PN 1
+@end entry
+
+@entry Nakkamtum [1] GN
+@form na-kam-tum %akk-x-oldbab $Nakkamtum
+@sense GN 1
+@end entry
+
+@entry Nanaya [1] DN
+@bases {d}na-na-a-a
+@form {d}na-na-a-a %sux /{d}na-na-a-a #~
+@sense DN 1
+@end entry
+
+@entry Nanna [1] DN
+@form {d}NANNA %akk-x-oldbab $Nanna
+@sense DN 1
+@end entry
+
+@entry Nanna-parṣi-šuluk [1] PN
+@form {d}NANNA-ME-TUM₂ %akk-x-oldbab $Nanna-parṣi-šuluk
+@sense PN 1
+@end entry
+
+@entry Naram-Adad [1] PN
+@form na-ra-am-{d}IŠKUR %akk-x-oldbab $Naram-Adad
+@sense PN 1
+@end entry
+
+@entry Naram-ilim [1] PN
+@form na-ra-am-DINGIR %akk-x-oldbab $Naram-ilim
+@sense PN 1
+@end entry
+
+@entry Na-xxx [1] PN
+@form na-x %akk-x-oldbab $Na-xxx
+@sense PN 1
+@end entry
+
+@entry Nemelum [1] PN
+@form ne₂-me-lu-um %akk-x-oldbab $Nemelum
+@sense PN 1
+@end entry
+
+@entry Nidittum [1] PN
+@form ni-di-it-tum %akk-x-oldbab $Nidittum
+@form ni-di-tum %akk-x-oldbab $Nidittum
+@sense PN 1
+@end entry
+
+@entry Nidnuša [1] PN
+@form ni-id-nu-ša %akk-x-oldbab $Nidnuša
+@sense PN 1
+@end entry
+
+@entry Nikissataya [1] GN
+@form ni-ki-is-sa₃-ta-a %akk-x-oldbab $Nikissataya
+@sense GN 1
+@end entry
+
+@entry Ninnutum [1] PN
+@form ni-in-nu-tum %akk-x-oldbab $Ninnutum
+@sense PN 1
+@end entry
+
+@entry Ninurta-abi [1] PN
+@form {d}NIN.URTA-a-bi %akk-x-oldbab $Ninurta-abi
+@sense PN 1
+@end entry
+
+@entry Ninurta-illassu [1] PN
+@form {d}NIN.URTA-ILLAT-su %akk-x-oldbab $Ninurta-illassu
+@sense PN 1
+@end entry
+
+@entry Ninurta-xxx [1] PN
+@form {d}NIN.URTA-x %akk-x-oldbab $Ninurta-xxx
+@sense PN 1
+@end entry
+
+@entry Nin-insi [1] GN
+@form nin-in-si %akk-x-oldbab $Nin-insi
+@sense GN 1
+@end entry
+
+@entry Nirda [1] SN
+@form nir-da{ki} %akk-x-oldbab $Nirda
+@sense SN 1
+@end entry
+
+@entry Nisannu [1] MN
+@form {iti}BARA₂.ZAG.GAR %akk-x-oldbab $Nisannum
+@sense MN 1
+@end entry
+
+@entry Nuham-ili [1] PN
+@form nu-ha-am-i₃-li₂ %akk-x-oldbab $Nuham-ili
+@sense PN 1
+@end entry
+
+@entry Nuratum [1] PN
+@form nu-ra-tum %akk-x-oldbab $Nuratum
+@sense PN 1
+@end entry
+
+@entry Nurum-liṣi [1] PN
+@form nu-rum-li-ṣi %akk-x-oldbab $Nurum-liṣi
+@sense PN 1
+@end entry
+
+@entry Nur-Adad [1] SN
+@form {iri}nu-ur₂-{d}IŠKUR{ki} %akk-x-oldbab $Nur-Adad
+@sense SN 1
+@end entry
+
+@entry Nur-Amurrim [1] PN
+@form nu-ur₂-{d}MAR.TU %akk-x-oldbab $Nur-Amurrim
+@sense PN 1
+@end entry
+
+@entry Nur-Belet-ili [1] PN
+@form nu-ur₂-DINGIR.MAH %akk-x-oldbab $Nur-Belet-ili
+@sense PN 1
+@end entry
+
+@entry Nur-ilim [1] PN
+@form nu-ur₂-DINGIR %akk-x-oldbab $Nur-ilim
+@sense PN 1
+@end entry
+
+@entry Nur-ilišu [1] PN
+@form nu-ur₂-i₃-li₂-šu %akk-x-oldbab $Nur-ilišu
+@sense PN 1
+@end entry
+
+@entry Nur-Kabta [1] PN
+@form nu-ur-{d}kab-ta %akk-x-oldbab $Nur-Kabta
+@sense PN 1
+@end entry
+
+@entry Nur-Šamaš [1] PN
+@form nu-ur₂-{d}UTU %akk-x-oldbab $Nur-Šamaš
+@sense PN 1
+@end entry
+
+@letter P
+
+@entry Paqatiya [1] PN
+@form pa-qa₃-ti-ia %akk-x-oldbab $Paqatiya
+@sense PN 1
+@end entry
+
+@entry Perhum [1] PN
+@form pe-er-hu-um %akk-x-oldbab $Perhum
+@form per-hu-um %akk-x-oldbab $Perhum
+@sense PN 1
+@end entry
+
+@letter R
+
+@entry Rabut-Sin [1] PN
+@form ra-bu-ut-{d}SUEN %akk-x-oldbab $Rabut-Sin
+@sense PN 1
+@end entry
+
+@entry Rahabum [1] GN
+@form ra-ha-bu-um %akk-x-oldbab $Rahabum
+@sense GN 1
+@end entry
+
+@entry Razama [1] SN
+@form {iri}ra-za-ma{ki} %akk-x-oldbab $Razama
+@sense SN 1
+@end entry
+
+@entry Rim-Adad [1] PN
+@form ri-im-{d}IŠKUR %akk-x-oldbab $Rim-Adad
+@sense PN 1
+@end entry
+
+@entry Rim-Sin [1] RN
+@bases {d}ri-im-{d}suen
+@form {d}ri-im-{d}suen %sux /{d}ri-im-{d}suen #~
+@sense RN 1
+@end entry
+
+@entry Rim-xxx [1] PN
+@form ri-im-x %akk-x-oldbab $Rim-xxx
+@sense PN 1
+@end entry
+
+@entry Rišatum [1] PN
+@form ri-ša-tum %akk-x-oldbab $Rišatum
+@sense PN 1
+@end entry
+
+@letter S
+
+@entry Sadditum [1] PN
+@form sa-di-tum %akk-x-oldbab $Sadditum
+@sense PN 1
+@end entry
+
+@entry Samsu-iluna [1] RN
+@bases sa-am-su-i-lu-na
+@form sa-am-su-i-lu-na %sux /sa-am-su-i-lu-na #~
+@sense RN 1
+@end entry
+
+@entry Sanqum [1] PN
+@form sa₃-an-qum %akk-x-oldbab $Sanqum
+@sense PN 1
+@end entry
+
+@entry Simanu [1] MN
+@form {iti}SIG₄.A %akk-x-oldbab $Simanum
+@sense MN 1
+@end entry
+
+@entry Sin [1] DN
+@form {d}SUEN %akk-x-oldbab $Sin
+@sense DN 1
+@end entry
+
+@entry Sinni [1] PN
+@form {d}SUEN-ni-i %akk-x-oldbab $Sinni
+@sense PN 1
+@end entry
+
+@entry Sin-ašareda [1] PN
+@form {d}SUEN-a-ša-re-da %akk-x-oldbab $Sin-ašareda
+@form {d}SUEN-a-ša-re-ed %akk-x-oldbab $Sin-ašared
+@sense PN 1
+@end entry
+
+@entry Sin-ayyabaš [1] PN
+@form {d}SUEN-a-a-ba-aš %akk-x-oldbab $Sin-ayyabaš
+@sense PN 1
+@end entry
+
+@entry Sin-bani [1] PN
+@form {d}SUEN-ba-ni %akk-x-oldbab $Sin-bani
+@sense PN 1
+@end entry
+
+@entry Sin-ereš [1] PN
+@form {d}SUEN-URU₄ %akk-x-oldbab $Sin-ereš
+@sense PN 1
+@end entry
+
+@entry Sin-eriba [1] SN
+@form {iri}{d}SUEN-eri-ba{ki} %akk-x-oldbab $Sin-eriba
+@sense SN 1
+@end entry
+
+@entry Sin-gamil [1] PN
+@form {d}SUEN-ga-mil %akk-x-oldbab $Sin-gamil
+@sense PN 1
+@end entry
+
+@entry Sin-iddinam [1] PN
+@form {d}SUEN-i-din-nam %akk-x-oldbab $Sin-iddinam
+@form 30-i-din-nam %akk-x-oldbab $Sin-iddinam
+@sense PN 1
+@end entry
+
+@entry Sin-ili [1] PN
+@form {d}SUEN-i₃-li₂ %akk-x-oldbab $Sin-ili
+@sense PN 1
+@end entry
+
+@entry Sin-ilum [1] PN
+@form {d}SUEN-DINGIR %akk-x-oldbab $Sin-ilum
+@sense PN 1
+@end entry
+
+@entry Sin-imguranni [1] PN
+@form {d}SUEN-im-gur-an-ni %akk-x-oldbab $Sin-imguranni
+@sense PN 1
+@end entry
+
+@entry Sin-ippalsam [1] PN
+@form {d}SUEN-ip-pa-al-sa₃-am %akk-x-oldbab $Sin-ippalsam
+@sense PN 1
+@end entry
+
+@entry Sin-iqišam [1] PN
+@form {d}SUEN-i-qi₂-ša-am %akk-x-oldbab $Sin-iqišam
+@sense PN 1
+@end entry
+
+@entry Sin-iqulam [1] PN
+@form {d}SUEN-i-qu₂-lam %akk-x-oldbab $Sin-iqulam
+@sense PN 1
+@end entry
+
+@entry Sin-kašid [1] PN
+@form {d}SUEN-ka-ši-id %akk-x-oldbab $Sin-kašid
+@sense PN 1
+@end entry
+
+@entry Sin-magir [1] PN
+@form {d}SUEN-ma-gir %akk-x-oldbab $Sin-magir
+@sense PN 1
+@end entry
+
+@entry Sin-maṣiam [1] PN
+@form {d}SUEN-ma-ṣi-a-am %akk-x-oldbab $Sin-maṣiam
+@sense PN 1
+@end entry
+
+@entry Sin-muštešer [1] PN
+@form 30-mu-uš-te-še-er %akk-x-oldbab $Sin-muštešer
+@sense PN 1
+@end entry
+
+@entry Sin-pater [1] PN
+@form {d}SUEN-pa-te-er %akk-x-oldbab $Sin-pater
+@sense PN 1
+@end entry
+
+@entry Sin-remeni [1] PN
+@form {d}SUEN-re-me-ni %akk-x-oldbab $Sin-remeni
+@sense PN 1
+@end entry
+
+@entry Sin-reʾum [1] PN
+@form {d}SUEN-SIPA %akk-x-oldbab $Sin-reʾum
+@sense PN 1
+@end entry
+
+@entry Sin-šamuh [1] PN
+@form {d}SUEN-ša-mu-uh %akk-x-oldbab $Sin-šamuh
+@sense PN 1
+@end entry
+
+@entry Sin-šeme [1] PN
+@form {d}SUEN-še-me-e %akk-x-oldbab $Sin-šeme
+@sense PN 1
+@end entry
+
+@entry Sin-tamkari [1] PN
+@form {d}SUEN-tam₂-ka₃-ri %akk-x-oldbab $Sin-tamkari
+@sense PN 1
+@end entry
+
+@entry Sin-tayyar [1] PN
+@form {d}SUEN-ta-ia-ar %akk-x-oldbab $Sin-tayyar
+@sense PN 1
+@end entry
+
+@entry Sin-uselli [1] PN
+@form {d}SUEN-u₂-se₂-li %akk-x-oldbab $Sin-uselli
+@form {m}{d}SUEN-u₂-se₂-li %akk-x-oldbab $Sin-uselli
+@sense PN 1
+@end entry
+
+@entry Sin-wedu [1] PN
+@form {m}{d}SUEN-we-du %akk-x-oldbab $Sin-wedu
+@sense PN 1
+@end entry
+
+@entry Sin-xxx [1] PN
+@form {d}SUEN-x %akk-x-oldbab $Sin-xxx
+@sense PN 1
+@end entry
+
+@entry Siyyatum [1] PN
+@form si₂-ia-tum %akk-x-oldbab $Siyyatum
+@sense PN 1
+@end entry
+
+@entry Subir [1] GN
+@bases su-bir₄
+@form su-bir₄-ke₄ %sux /su-bir₄ #~
+@sense GN 1
+@end entry
+
+@letter Ṣ
+
+@entry Ṣiatum [1] PN
+@form ṣi-ia-tum %akk-x-oldbab $Ṣiatum
+@sense PN 1
+@end entry
+
+@entry Ṣilli-ili [1] PN
+@form ṣi-li₂-i₃-li₂ %akk-x-oldbab $Ṣilli-ili
+@sense PN 1
+@end entry
+
+@entry Ṣilli-Ištar [1] PN
+@form ṣi-li₂-{d}INNIN %akk-x-oldbab $Ṣilli-Ištar
+@sense PN 1
+@end entry
+
+@entry Ṣilli-Ninurta [1] PN
+@form ṣi-li₂-{d}NIN.URTA %akk-x-oldbab $Ṣilli-Ninurta
+@sense PN 1
+@end entry
+
+@entry Ṣilli-xxx [1] PN
+@form ṣi-li₂-{d}x %akk-x-oldbab $Ṣilli-xxx
+@sense PN 1
+@end entry
+
+@letter Š
+
+@entry Šahanu [1] SN
+@form {iri}ša-ha-nu{ki} %akk-x-oldbab $Šahanu
+@sense SN 1
+@end entry
+
+@entry Šamaš [1] DN
+@form {d}UTU %akk-x-oldbab $Šamaš
+@sense DN 1
+@end entry
+
+@entry Šamaš-abi [1] PN
+@form {d}UTU-a-bi %akk-x-oldbab $Šamaš-abi
+@sense PN 1
+@end entry
+
+@entry Šamaš-bani [1] PN
+@form {d}UTU-ba-ni %akk-x-oldbab $Šamaš-bani
+@sense PN 1
+@end entry
+
+@entry Šamaš-hazir [1] PN
+@form {d}UTU-ha-zi-ir %akk-x-oldbab $Šamaš-hazir
+@sense PN 1
+@end entry
+
+@entry Šamaš-ilum [1] PN
+@form {d}UTU-DINGIR %akk-x-oldbab $Šamaš-ilum
+@sense PN 1
+@end entry
+
+@entry Šamaš-liwir [1] PN
+@form {d}UTU-li-wi-ir %akk-x-oldbab $Šamaš-liwir
+@sense PN 1
+@end entry
+
+@entry Šamaš-magir [1] PN
+@form {m}{d}UTU-ma-gir %akk-x-oldbab $Šamaš-magir
+@sense PN 1
+@end entry
+
+@entry Šamaš-mušallim [1] PN
+@form {d}UTU-mu-ša-lim %akk-x-oldbab $Šamaš-mušallim
+@sense PN 1
+@end entry
+
+@entry Šatallišu [1] PN
+@form ša-ta-li-šu %akk-x-oldbab $Šatallišu
+@sense PN 1
+@end entry
+
+@entry Ši-xxx-millim [1] PN
+@form ši-x-mil-lim %akk-x-oldbab $Ši-xxx-millim
+@sense PN 1
+@end entry
+
+@entry Šubultum [1] PN
+@form šu-bu-ul-tum %akk-x-oldbab $Šubultum
+@sense PN 1
+@end entry
+
+@entry Šulgi [1] RN
+@form {d}ŠUL.GI %akk-x-oldbab $Šulgi
+@sense RN 1
+@end entry
+
+@entry Šumma-ilum [1] PN
+@form šum-ma-DINGIR %akk-x-oldbab $Šumma-ilum
+@sense PN 1
+@end entry
+
+@entry Šumum-libši [1] PN
+@form šu-mu-um-li-ib-ši %akk-x-oldbab $Šumum-libši
+@sense PN 1
+@end entry
+
+@entry Šunnamundim [1] SN
+@form {iri}šu-un-na-mu-un-dim₂{ki} %akk-x-oldbab $Šunnamundim
+@form šu-na-mu-un-dim₂{ki} %akk-x-oldbab $Šunnamundim
+@sense SN 1
+@end entry
+
+@entry Šu-xxx-šum [1] PN
+@form šu-x-šum %akk-x-oldbab $Šu-xxx-šum
+@sense PN 1
+@end entry
+
+@letter T
+
+@entry Talimum [1] PN
+@form ta-li-mu-um %akk-x-oldbab $Talimum
+@form ta-li-mu %akk-x-oldbab $Talimu
+@sense PN 1
+@end entry
+
+@entry Tamrayyatum [1] PN
+@form tam-ra-a-a-tum %akk-x-oldbab $Tamrayyatum
+@sense PN 1
+@end entry
+
+@entry Taribatum [1] PN
+@form ta-ri-ba-tum %akk-x-oldbab $Taribatum
+@sense PN 1
+@end entry
+
+@entry Taribum [1] PN
+@form ta-ri-bu-um %akk-x-oldbab $Taribum
+@sense PN 1
+@end entry
+
+@entry Tašritu [1] MN
+@form {iti}DU₆.KU₃ %akk-x-oldbab $Tašritum
+@sense MN 1
+@end entry
+
+@entry Tigris [1] WN
+@form {id₂}IDIGNA %akk-x-oldbab $Tigris
+@sense WN 1
+@end entry
+
+@entry Tišqar [1] PN
+@form ti-iš-qar₃ %akk-x-oldbab $Tišqar
+@sense PN 1
+@end entry
+
+@letter U
+
+@entry Ubarrum [1] PN
+@form u-bar-rum %akk-x-oldbab $Ubarrum
+@sense PN 1
+@end entry
+
+@entry Ubar-Nanše [1] PN
+@form {m}u-bar-{d}NANŠE %akk-x-oldbab $Ubar-Nanše
+@sense PN 1
+@end entry
+
+@entry Ubar-Sin [1] PN
+@form u-bar-{d}SUEN %akk-x-oldbab $Ubar-Sin
+@sense PN 1
+@end entry
+
+@entry Ubar-Šamaš [1] PN
+@form u-bar-{d}UTU %akk-x-oldbab $Ubar-Šamaš
+@sense PN 1
+@end entry
+
+@entry Ubar-xxx [1] PN
+@form u-bar-{id₂}AL-$NA %akk-x-oldbab $Ubar-xxx
+@form u-bar-{id₂}LIŠ-$NA %akk-x-oldbab $Ubar-xxx
+@sense PN 1
+@end entry
+
+@entry Ubayyatum [1] PN
+@form u₂-ba-a-a-tum %akk-x-oldbab $Ubayyatum
+@sense PN 1
+@end entry
+
+@entry Ukua [1] SN
+@form {iri}u₂-ku-u₂-a{ki} %akk-x-oldbab $Ukua
+@sense SN 1
+@end entry
+
+@entry Ululum [1] MN
+@form {iti}KIN.{d}INNIN %akk-x-oldbab $Ululum
+@sense MN 1
+@end entry
+
+@entry Umum [1] GN
+@form u₄-mu-um %akk-x-oldbab $Umum
+@sense GN 1
+@end entry
+
+@entry Ur [1] SN
+@bases urim₂{ki}
+@form urim₂{ki} %sux /urim₂{ki} #~
+@form URIM₂{ki}-MA %akk-x-oldbab $Ur
+@form URIM₂{ki} %akk-x-oldbab $Ur
+@form URIM₅{ki} %akk-x-oldbab $Ur
+@sense SN 1
+@end entry
+
+@entry Uraš-muballiṭ [1] PN
+@form {d}URAŠ-mu-ba-li₂-iṭ %akk-x-oldbab $Uraš-muballiṭ
+@form {d}URAŠ-mu-ba-al-li₂-iṭ %akk-x-oldbab $Uraš-muballiṭ
+@sense PN 1
+@end entry
+
+@entry Uruk [1] SN
+@bases unug{ki}
+@form unug{ki} %sux /unug{ki} #~
+@sense SN 1
+@end entry
+
+@letter W
+
+@entry Walilum [1] PN
+@form wa-li-lum %akk-x-oldbab $Walilum
+@sense PN 1
+@end entry
+
+@entry Waqrum [1] PN
+@form wa-aq-rum %akk-x-oldbab $Waqrum
+@sense PN 1
+@end entry
+
+@entry Warad-Amurrim [1] PN
+@form ARAD-{d}MAR.TU %akk-x-oldbab $Warad-Amurrim
+@sense PN 1
+@end entry
+
+@entry Warad-ilišu [1] PN
+@form ARAD-i₃-li₂-šu %akk-x-oldbab $Warad-ilišu
+@sense PN 1
+@end entry
+
+@entry Warad-Ištar [1] PN
+@form ARAD-EŠ₈.TAR₂ %akk-x-oldbab $Warad-Ištar
+@sense PN 1
+@end entry
+
+@entry Warad-Sin [1] PN
+@form ARAD-{d}SUEN %akk-x-oldbab $Warad-Sin
+@form {iri}ARAD-{d}SUEN{ki} %akk-x-oldbab $Warad-Sin
+@sense PN 1
+@end entry
+
+@entry Warad-Šamaš [1] PN
+@form ARAD-{d}UTU %akk-x-oldbab $Warad-Šamaš
+@sense PN 1
+@end entry
+
+@entry Wardum [1] PN
+@form {m}wa-ar-du-um %akk-x-oldbab $Wardum
+@sense PN 1
+@end entry
+
+@letter X
+
+@entry xxx-a-Ea [1] PN
+@form x-a-e₂-a %akk-x-oldbab $xxx-a-Ea
+@sense PN 1
+@end entry
+
+@entry Xxx-belšunu [1] PN
+@form x-be-el-šu-nu %akk-x-oldbab $Xxx-belšunu
+@sense PN 1
+@end entry
+
+@entry xxx-bu [1] PN
+@form x-bu %akk-x-oldbab $xxx-bu
+@sense PN 1
+@end entry
+
+@entry Xxx-Ea [1] PN
+@form x-e₂-a %akk-x-oldbab $Xxx-Ea
+@sense PN 1
+@end entry
+
+@entry xxx-ia [1] PN
+@form x-ia %akk-x-oldbab $xxx-ia
+@sense PN 1
+@end entry
+
+@entry xxx-Ištar [1] PN
+@form x-{d}INNIN %akk-x-oldbab $xxx-Ištar
+@sense PN 1
+@end entry
+
+@entry xxx-liwir [1] PN
+@form li-wi-ir %akk-x-oldbab $xxx-liwir
+@sense PN 1
+@end entry
+
+@entry xxx-li-Anšan [1] PN
+@form x-li-an-ša-an %akk-x-oldbab $xxx-li-Anšan
+@sense PN 1
+@end entry
+
+@entry xxx-lum [1] PN
+@form x-lum %akk-x-oldbab $xxx-lum
+@sense PN 1
+@end entry
+
+@entry xxx-miṣum [1] GN
+@form x-mi-ṣum %akk-x-oldbab $xxx-miṣum
+@sense GN 1
+@end entry
+
+@entry xxx-ni [1] PN
+@form x-ni %akk-x-oldbab $xxx-ni
+@sense PN 1
+@end entry
+
+@entry xxx-um [1] PN
+@form x-x-um %akk-x-oldbab $xxx-um
+@sense PN 1
+@end entry
+
+@letter Y
+
+@entry Yaʾenkum [1] SN
+@form {iri}ia-en-ku-u₂{ki} %akk-x-oldbab $Yaʾenku
+@sense SN 1
+@end entry
+
+@entry Yakʾenkum [1] SN
+@form {iri}ia-kin-ku-u₂{ki} %akk-x-oldbab $Yaʾenku
+@sense SN 1
+@end entry
+
+@entry Yaʾutinum [1] PN
+@form ia-u₂-ti-nu-um %akk-x-oldbab $Yaʾutinum
+@sense PN 1
+@end entry
+
+@entry Yazilum [1] SN
+@form {iri}ia-zi-lum{ki} %akk-x-oldbab $Yazilum
+@sense SN 1
+@end entry
+
+@entry Ya-xxx [1] PN
+@form ia-x %akk-x-oldbab $Ya-xxx
+@sense PN 1
+@end entry
+
+@entry Ya-xxx-ri [1] PN
+@form ia-x-ra-x-ri %akk-x-oldbab $Ya-xxx-ri
+@sense PN 1
+@end entry
+
+@letter Z
+
+@entry Zababa-naṣir [1] PN
+@form {d}za-ba₄-ba₄-na-ṣir %akk-x-oldbab $Zababa-naṣir
+@sense PN 1
+@end entry
+
+@entry Zannapu [1] PN
+@form za-an-na-pu %akk-x-oldbab $Zannapu
+@sense PN 1
+@end entry
+
+@entry Zayyalum [1] PN
+@form za-a-lum %akk-x-oldbab $Zayyalum
+@sense PN 1
+@end entry
+
+@entry Zikir-ilišu [1] PN
+@form zi-kir-i₃-li₂-šu %akk-x-oldbab $Zikir-ilišu
+@form zi-kir-DINGIR-šu %akk-x-oldbab $Zikir-ilišu
+@sense PN 1
+@end entry
+
+@entry Zimru-Elamtim [1] PN
+@form zi-im-ru-ELAM{ki} %akk-x-oldbab $Zimru-Elamtim
+@sense PN 1
+@end entry
+
+@entry Zinatum [1] PN
+@form zi-na-tum %akk-x-oldbab $Zinatum
+@sense PN 1
+@end entry
+
+@entry Ziyatum [1] PN
+@form zi-ia-tum %akk-x-oldbab $Ziyatum
+@sense PN 1
+@end entry
+
+@entry Zi-xxx [1] SN
+@form {iri}zi-x %akk-x-oldbab $Zi-xxx
+@sense SN 1
+@end entry
+

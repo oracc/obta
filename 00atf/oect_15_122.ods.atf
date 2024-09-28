@@ -1,0 +1,227 @@
+&P347465 = OECT 15, 122
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+# Ashmolean 1923.341
+
+@tablet
+@obverse
+
+
+$ start of obverse missing
+1'.	 & [...] & [...] & [...] & [...] & APIN x [...]
+#lem:  u;  u;  u;  u;  mērešti[cultivated field]N; u; u 
+
+2'.	 & [...] & [...] & [...] 3.1/3 <SILA₃> & x & APIN $ŠEŠ [...]
+#lem:  u;  u;  u; n; qā[unit]N;  u;  mērešti[cultivated field]N; u; u 
+
+3'.	 & [...] & [...] & [...] 3.1/3 <SILA₃> &  & APIN $LUGAL x [...]
+#lem:  u;  u;  u; n; qā[unit]N;   mērešti[cultivated field]N; u; u; u 
+
+4'.	 & [...] & [...] &  &  & APIN ARAD-ì-⸢lí⸣-[šu]
+#lem:  u;  u;    mērešti[cultivated field]N; +Warad-ilišu[]PN$ 
+
+5'.	 & [...] & [...] & 1(U) 3(AŠ) <GUR> 3(BARIG) 4(BAN₂) 5 <SILA₃> &  & APIN {d}SUEN-⸢ì-lí⸣ [...] 
+#lem:  u;  u;  n; n; kur[unit]N; n; n; n; qā[unit]N;   mērešti[cultivated field]N; +Sin-ili[]PN$; u 
+
+6'.	 & [...]  &2 [e]-⸢zu-ub⸣ 1(BUR₂) 1(EŠE₃){gana₂} &  & ⸢A.ŠÀ? DINGIR#-šu-ba-ni ša a-na ap-lum x x
+#lem:  u;  +ezib[except]PRP$ezub; n; n;   eqel[field]N; +Ilšu-bani[]PN$; ša[that]REL; ana[for]PRP; Aplum[1]PN; u; u 
+
+7'.	 & [...] &  &  &  & ⸢ša⸣ hi-im-<<x>>-ṣa-tum na-as-hu
+#lem:  u;     ša[that]REL; +himṣu[torn away material//(commercial) profit]N'N$himṣātum; +nashu[torn out//excluded]AJ'AJ$ 
+
+8'.	 & [...] & 3(U) <GUR> & 1(U) 5(AŠ) GUR &  & APIN ia-x-ra-x-ri LÚ {iri}{d}SUEN-eri-ba{ki}
+#lem:  u;  n; kur[unit]N;  n; n; kur[unit]N;   mērešti[cultivated field]N; +Ya-xxx-ri[]PN$; awīl[citizen]N; +Sin-eriba[]SN$ 
+
+9'.	 &  &4 ŠA₃ ni-di-i-tum ṣi-bi-it EREN₂ UG₇ ša um-ma-tum NÍG.ŠU DUMU-EŠ₈.TÁR
+#lem:   ina[in]PRP$ina&libbu[interior]N$libbi; +nidītu[unbuilt plot]N$nidītum; +ṣibtu[seizure//holding (of land)]N'N$ṣibit; ṣābī[troops]N; mītūtim[dead]AJ; ša[of]DET; +ummatu[main body//main army]N'N$; būš[property]N; +Mar-Ištar[]PN$ 
+
+10'.	 &  &  &3 A.GAR₃# ha-šu-ur-rum BAL.RI KI {d}UTU.KU₄?.A
+#lem:    ugār[(communally controlled) meadow]N; +Hašurrum[]GN$; +ebertu[bank]N$eberti; +ašru[place]N$ašar; +erbu[entry+=west]N$ereb&+šamšu[sun]N$šamšim 
+
+11'.	 & 5(IKU) 1/2(IKU) & 2(U) <GUR> & 2(AŠ) <GUR> 3(BARIG) 5(BAN₂) 3.1/3 <SILA₃> &  & ša DUMU-MEŠ tam-ra-a-a-tum DAM.GÀR i-ku-lu
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;   ša[that]REL; mārū[son]N; +Tamrayyatum[]PN$; tamkārim[merchant]N; +akālu[eat//have usufruct of]V'V$īkulū 
+
+12'.	 &  &  & ù šu-nu &  & ša UKU.UŠ-MEŠ LÚ {iri}kar-da-ha{ki}
+#lem:    u[and]CNJ; +šunu[they//those]IP'IP$;   ša[of]DET; rēdî[soldier]N; +awīlu[man//citizen]N'N$awīlī; +Kardaha[]SN$ 
+
+13'.	 &  &  &3 A.GÀR al-ba-na BAL.RI KI {d}UTU.È.A
+#lem:    ugār[(communally controlled) meadow]N; +Albana[]GN$; eberti[other side]N; ašar[place]N; +ṣītu[exit+=east]N$ṣīt&+šamšu[sun]N$šamšim 
+
+$ single ruling
+14'.	 &  &  &3 7(BUR₃) 1(EŠE₃) 5(IKU){gana₂} A.ŠÀ AB.SÍN
+#lem:    n; n; n; eqel[area]N; šerʾātim[furrow]N 
+
+15'.	 &5 ŠE-BI 1(GEŠ₂) 1(U) 3(AŠ) <GUR> 4(BAN₂) 7.1/2 SÌLA ŠE.GUR
+#lem:  šeʾšu[grain]N; n; n; n; kur[unit]N; n; n; qā[unit]N; šeʾim[grain]N 
+
+16'.	 &  &  & NÍG.ŠU &  & DUMU-EŠ₈.TÁR ša a-na EREN₂ $HU x $DA x na-ad-nu#
+#lem:    būš[property]N;   Mar-Ištar[1]PN; ša[that]REL; ana[to]PRP; ṣābī[troops]N; u; u; u; u; +nadnu[given]AJ$ 
+
+$ single ruling
+17'.	 & 1(BUR₃) 1(EŠE₃) & 2(U) <GUR> & 1(U) 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & $BE {d}SUEN-[ú]-se₂#-li
+#lem:  n; n;  n; kur[unit]N;  n; n; kur[unit]N; n; n;   u; +Sin-uselli[]PN$ 
+
+18'.	 &  & PAP &3 GIBIL ṣi-bi-it [...-be]-el-šu-nu
+#lem:   napharum[total]N;  +eššu[new]AJ$eššum; ṣibit[holding (of land)]N; +Xxx-belšunu[]PN$ 
+
+19'.	 &  &  &  &3 NÍG.ŠU LÚ DIDLI {iri}[x].KAM
+#lem:     būš[property]N; awīlī[citizen]N; wēdûtim[prominent]AJ; u 
+
+20'.	 &  &  &3 A.GÀR ku-bu-ul na-ad#-[nu? ...]
+#lem:    ugār[(communally controlled) meadow]N; +Kubul[]GN$; nadnu[given]AJ; u 
+
+21'.	 &  &  &3 {iri}bu-ú-lum{ki} [...] $IGI x $NU
+#lem:    +Bulum[]SN$; u; u; u; u 
+
+$ single ruling
+22'.	 & 1(BUR₃) & 1(U) <GUR> & 5(AŠ) GUR &  & $BE $ŠU? $DA? $Ú [...] x-da-tim
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N;   u; u; u; u; u; u 
+
+23'.	 &  & PAP &3 GIBIL ṣi-bi-it a-bu-wa-qar [DUMU nu]-ur-{d}kab-ta
+#lem:   napharum[total]N;  eššum[new]AJ; ṣibit[holding (of land)]N; Abu-waqar[1]PN; mār[son]N; +Nur-Kabta[]PN$ 
+
+24'.	 &  &  &3 APIN li-pí-it-EŠ₈.TÁR LÚ {iri}[ša]-ha-nu{ki}
+#lem:    mērešti[cultivated field]N; +Lipit-Ištar[]PN$; awīl[citizen]N; +Šahanu[]SN$ 
+
+@bottom
+1.	| A.GÀR al-ba-na
+#lem:  ugār[(communally controlled) meadow]N; Albana[1]GN    
+
+2.	| NÍG.ŠU {d}SUEN-im-gur-an-ni DUMU DUMU-EŠ₈.TÁR
+#lem:  būš[property]N; +Sin-imguranni[]PN$; mār[son]N; +Mar-Ištar[]PN$     
+
+@reverse
+1.	 & 5(IKU) 1/2(IKU) & 2(U) <GUR> & 3(AŠ) <GUR> 1(BAN₂) 6.2/3 <SILA₃> &  & ta-ri-bu-um ERÍN $KA $BÀD $TUR $TUR $NI $BU $KI
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; qā[unit]N;   X; X; u; u; u; u; u; u; u 
+
+2.	 &3 a-na EREN₂ ri-bi &  & e-zu-ub KI-1 KI-2 ṣa-ab-tu
+#lem:  ana[for]PRP; ṣābī[troops]N; +rību[replacement]N$rībī;   ezub[except]PRP; n; n; +ṣabtu[captured]AJ$ 
+
+3.	 &  &  &3 a-na UKU.UŠ-MEŠ NÍG.ŠU zi-kir-ì-lí-šu ša a-na EREN₂ ri-bi
+#lem:    ana[for]PRP; rēdî[soldier]N; būš[property]N; Zikir-ilišu[1]PN; ša[that]REL; ana[for]PRP; ṣābī[troops]N; rībī[replacement]N 
+
+4.	 &  &  &3 A.GÀR al-ba-na ṣi-bi-it LÚ {iri}kar-da-ha{ki}
+#lem:    ugār[(communally controlled) meadow]N; Albana[1]GN; ṣibit[holding (of land)]N; awīlī[citizen]N; Kardaha[1]SN 
+
+$ single ruling
+5.	 & 1(BUR₃) & 2(U) <GUR> & 1(U) GUR &  & APIN hu-wa-a-tum SIPA
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N;   mērešti[cultivated field]N; +Huwatum[]PN$; +rēʾû[shepherd]N$rēʾîm 
+
+6.	 & 1(BUR₃) & 2(U) <GUR> & 1(U) GUR &  & APIN ib-ni-{d}IŠKUR
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N;   mērešti[cultivated field]N; +Ibni-Adad[]PN$ 
+
+7.	 &  &  &  &2 ŠÀ $NA $BE mu-tum-DINGIR DUMU ṣi-ia-tum
+#lem:     ina[in]PRP$ina&libbu[interior]N$libbi; u; u; X; mār[son]N; +Ṣiatum[]PN$ 
+
+8.	 &  &  & ṣi-bi-it &  & ra-bi-an BAD₃{ki} EREN₂ [...]
+#lem:    ṣibit[holding (of land)]N;   +rabiānu[mayor]N$rabiān; +Der[]SN$; ṣābum[troops]N; u 
+
+9.	 & 1(BUR₃) & 3(U) <GUR> & 1(U) 5(AŠ) GUR &  & APIN ip-qú-ú-a-[tum ra-bi-a-nu]
+#lem:  n;  n; kur[unit]N;  n; n; kur[unit]N;   mērešti[cultivated field]N; +Ipquatum[]PN$; +rabiānu[mayor]N$rabiānu 
+
+10.	 & 1(BUR₃) & 3(U) <GUR> & 1(U) 5(AŠ) GUR &  & APIN {d}SUEN-a-a-ba-[aš]
+#lem:  n;  n; kur[unit]N;  n; n; kur[unit]N;   mērešti[cultivated field]N; +Sin-ayyabaš[]PN$ 
+
+11.	 & 1(EŠE₃) 3(IKU) & 2(U) <GUR> & 5(AŠ) GUR &  & APIN ṣi-lí-ì-lí ù [...]
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N;   mērešti[cultivated field]N; +Ṣilli-ili[]PN$; u[and]CNJ; u 
+
+12.	 &  &  &3 ṣi-bi-it {d}SUEN-i-qí-ša-am EREN₂ $KA [...]
+#lem:    ṣibit[holding (of land)]N; +Sin-iqišam[]PN$; ṣābum[troops]N; u; u 
+
+13.	 &  &  &3 e-zu-ub 1(U) 5(AŠ) GUR ša be-lí-iš-di-ka-x [...]
+#lem:    ezub[except]PRP; n; n; kur[unit]N; ša[that]REL; +Beliš-xxx[]PN$; u 
+
+14.	 &  &  &3 {m}ì-lí-tu#-ra-am# UKU.UŠ $GAR $AN DUMU-EŠ₈.TÁR x [...] $RI
+#lem:    +Ili-turam[]PN$; rēdû[soldier]N; u; u; Mar-Ištar[1]PN; u; u; u 
+
+15.	 & 1(BUR₃) & 3(U) <GUR> & 1(U) 5(AŠ) GUR &  & $BE {d}SUEN-ma-gir DUMU {d}SUEN-re-me-ni
+#lem:  n;  n; kur[unit]N;  n; n; kur[unit]N;   u; Sin-magir[1]PN; mār[son]N; +Sin-remeni[]PN$ 
+
+16.	 &  &  &  &  & APIN ip-qú-ú-a-tum ra-bi-a-nu
+#lem:      mērešti[cultivated field]N; Ipquatum[1]PN; rabiānu[mayor]N 
+
+17.	 &  &4 li-ib-bu 1(BURʾU) 4(BUR₃) 2(EŠE₃){gana₂} ŠU.NIGÍN LÚ {iri}ki-ip-ra-am{ki}
+#lem:   +libbū[from out of]AV$; n; n; n; naphar[total]N; awīlī[citizen]N; +Kipram[]SN$ 
+
+18.	 &  &  &  &2 GÚ {íd}IDIGNA
+#lem:     ah[bank]N; +Tigris[]WN$ 
+
+19.	 &  &  &  &2 NIG₂.ŠU {m}[im]-di-i-lum ša a-na ta-ri-bu-um iš-ti
+#lem:     būš[property]N; +Imdilum[]PN$; ša[that]REL; ana[to]PRP; +Taribum[]PN$; +išti[with]PRP$ 
+
+20.	 &  &  & A.GÀR-MEŠ?# &  & [(...)] na-ad-nu
+#lem:    +ugāru[(communally controlled) meadow]N$ugārātim;   u; nadnū[given]AJ 
+
+$ single ruling
+21.	 & [...] &2 5(BUR) 1(EŠE₃) 3(IKU) 1.10 [SAR] & $BI & [...]
+#lem:  u;  n; n; n; n; mūšar[unit]N;  u;  u 
+
+$ rest of reverse missing
+
+@translation parallel en project
+@obverse
+$ start of obverse missing
+
+1'.	 @& [...] @& [...] @& [...] @& [...] @& Cultivated land of ... [...]
+2'.	 @& [...] @& [...] @& [...] 3 1/3 @sila @& ... @& Cultivated land of ... [...]
+3'.	 @& [...] @& [...] @& [...] 3 1/3 @sila @&  @& Cultivated land of ... [...]
+4'.	 @& [...] @& [...] @&  @&  @& Cultivated land of Warad-ilišu
+5'.	 @& [...] @& [...] @& 13 @gur 225 @sila @&  @& Cultivated land of Sin-ili [...]
+6'.	 @& [...] @&4 except for 24 @iku, Ilšu-bani's field that was ... to Aplum
+7'.	 @& [...] @&  @&  @&  @& that was was @?excluded (from) the profits?@
+8'.	 @& [...] @& 30 @gur @& 15 @gur @&  @& Cultivated land of Ya...ri, citizen of Sin-eriba town
+9'.	 @&  @&4 From the unbuilt land, holdings of the dead troops from the main army, property of Mar-Ištar
+10'.	 @&  @&  @&3 Meadowland of Hašurrum, on the west bank (of the river) 
+11'.	 @& 5 1/2 @iku @& 20 @gur @& 2 @gur 213 1/3 @sila @&  @& that the sons of Tamrayatum the merchant have usufruct of
+12'.	 @&  @&  @&3 and those of the soldiers, citizens of Kardaha town
+13'.	 @&  @&  @&3 Meadowland of Albana, on the east bank (of the river)
+$ single ruling
+14'.	 @&  @&  @&3 137 @iku, cultivated area
+15'.	 @&5 Its grain is 73 @gur, 47 1/2 @sila
+16'.	 @&  @&  @&3 Property of Mar-Ištar which was given to the troops ...
+$ single ruling
+17'.	 @& 24 @iku @& 20 @gur @& 13 @gur 100 @sila @&  @& ... Sin-ušelli
+18'.	 @&  @&4 @?New total?@ for the holding of [...]-belšunu
+19'.	 @&  @&  @&  @&2 Property of prominent citizens of .... town
+20'.	 @&  @&  @&3 Meadlowand of Kubul @?given?@ [...]
+21'.	 @&  @&  @&3 Bulum town [...] ...
+$ single ruling
+22'.	 @& 18 @iku @& 10 @gur @& 5 @gur @&  @& ... [...] ...
+23'.	 @&  @&4 @?New total?@ for the holding of Abu-waqar, [@?son?@] of Nur-Kabta
+24'.	 @&  @&4 Cultivated land of Lipit-Ištar, citizen of Šahanu town
+@bottom
+1.	| Meadowland of Albana
+2.	| Property of Sin-imguranni, son of Mar-Ištar
+@reverse
+1.	 @& 5 1/2 @iku @& 20 @gur @& 3 @gur 16 2/3 sila @&  @& Taribum ...
+2.	 @&5 for the replacement troops, except first, second @?are captured?@
+3.	 @&  @&  @&3 For the soldiers, property of Zikir-ilišu, that (are) for the replacement troops
+4.	 @&  @&  @&3 Meadowland of Albana, holdings of the citizens of Karhada town
+$ single ruling
+5.	 @& 18 @iku @& 20 @gur @& 10 @gur @&  @& Cultivated land of Huwatum, shepherd
+6.	 @& 18 @iku @& 20 @gur @& 10 @gur @&  @& Cultivated land of Ibni-Adad
+7.	 @&  @&  @&  @&2 @?from?@ ..., son of Ṣiatum
+8.	 @&  @&  @&3 Holding of the major of Der, troops [...]
+9.	 @& 18 @iku @& 30 @gur @& 15 @gur @&  @& Cultivated land of Ipquatum, [mayor]
+10.	 @& 18 @iku @& 30 @gur @& 15 @gur @&  @& Cultivated land of Sin-ayyabaš
+11.	 @& 9 @iku @& 20 @gur @& 5 @gur @&  @& Cultivated land of Ṣilli-ili and [...]
+12.	 @&  @&  @&3 Holding of Sin-iqišam, troops ... [...]
+13.	 @&  @&  @&3 Except for 15 @gur that @?Beliš-...?@ [...]
+14.	 @&  @&  @&3 Ili-turam, soldier(s) ... Mar-Ištar ... [...] ....
+15.	 @& 18 @iku @& 30 @gur @& 15 @gur @&  @& ... Sin-magir, son of Sin-remeni
+16.	 @&  @&  @&  @&  @& Cultivated land of Ipquatum, mayor
+17.	 @&  @&4 From out of which, 264@iku total of the citizens of Kipram
+18.	 @&  @&  @&  @&2 On theTigris
+19.	 @&  @&  @&  @&2 Property of Imdilum which was given to Taribum
+20.	 @&  @&  @&3 together with the [(...)] meadowlands
+$ single ruling
+21.	 @&  @& 99 @iku 70@sar @&  @& ... @& [..]
+$ rest of reverse missing
+
+

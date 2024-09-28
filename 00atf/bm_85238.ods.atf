@@ -1,0 +1,175 @@
+&P412467 = BM 085238
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & UŠ & SAG AN.<NA> & SAG & GAM & SAHAR & SAHAR-HI.[A] & 
+#lem:  šiddum[(longer) side]N;  pūtum[front (side)]N; elûm[upper]N;  pūtum[front (side)]N;  šuplum[depth]N;  eperum[volume]N;  eperū[volume]N  
+#note: I am indebted to Zsombor Földi for many improvements in the reading of this text.
+$ single ruling
+2.	 & 40 & 15 &  & 30 <KUŠ₃> & 7.30 & 5 SAR SAHAR?-[HI?.A?] & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; mūšar[unit]N; eperī[volume]N  
+
+3.	 &  &  &  &4 iš-tu ša DUMU.MUNUS i-šar-li-im a-di x [...] 
+#lem:     ištu[from]PRP; ša[that]REL; mārat[daughter]N; Išar-Lim[1]PN; adi[as far as]PRP; u; u 
+
+$ single ruling
+4.	 & 3.35 & 20 &  & 1 KÙŠ & 20 & 1(IKU){gana₂} 11.2/3 SAR SAHAR#-[HI.A] & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; n; mūšar[unit]N; eperī[volume]N  
+
+5.	 &  &  &  &  &  & a-di EG₂ ša mu-ha-ad-di & 
+#lem:       adi[as far as]PRP; +īku[dyke]N$īkim; ša[of]DET; +Muhaddum[]PN$Muhaddi  
+
+$ single ruling
+6.	 & 2.30 & 20 & 15 & 1.30 KÙŠ  & 26.15 & 1(IKU){gana₂} 5.2/3 SAR 1-KAM & 
+#lem:  n;  n;  n;  n; ammat[unit]N;  n;  n; n; mūšar[unit]N; n  
+
+$ single ruling
+7.	 & 30 & 20 &  & 1 KÙŠ & 20 & 10 SAR 2-KAM & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; mūšar[unit]N; n  
+
+$ single ruling
+8.	 & 10 & 20 & 15 & 2 KÙŠ & 35 & 5.5/6 SAR 3-KAM & 
+#lem:  n;  n;  n;  n; ammat[unit]N;  n;  n; mūšar[unit]N; n  
+
+$ single ruling
+9.	 &  &5 7.25 NINDA UŠ 1(IKU) 1/2(IKU){gana₂} 6.5/6 SAR 2.1/2 GÍN a-di na-ba#-hu#
+#lem:   n; nindan[unit]N; šiddim[(longer) side]N; n; n; n; mūšar[unit]N; n; šiqil[unit]N; adi[as far as]PRP; Nabahu[1]GN 
+
+$ single ruling
+10.	 & 3.15  & 20 & 15 & 2 KUŠ₃ & 35 & 1(IKU){gana₂} 13.2/3 SAR 5 GIN₂ & 
+#lem:  n;  n;  n;  n; ammat[unit]N;  n;  n; n; mūšar[unit]N; n; šiqil[unit]N  
+
+11.	 &  &  &  &  &  & ša# {d}AMAR.UTU-mu-ša-lim# & 
+#lem:       ša[of]DET; Marduk-mušallim[1]PN  
+
+$ single ruling
+12.	 & 1.40 & x [...] & x [...] & x KUŠ₃ & 35# [(...)] & [...] SAR & 
+#lem:  n;  u; u;  u; u;  u; ammat[unit]N;  n; u;  u; mūšar[unit]N  
+
+$ rest of obverse missing
+@reverse
+$ start of reverse missing
+1'.	 & 1.40 & 20 &  & ⸢1 KÙŠ⸣ & [...] & [...] & 
+#lem:  n;  n;   n; ammat[unit]N;  u;  u  
+
+$ single ruling
+2'.	 &  &5 5.15 NINDA UŠ 1(ŋeš₂) 2(BURʾU){gana₂} [...] 
+#lem:   n; nindan[unit]N; šiddim[(longer) side]N; n; n; u 
+
+3'.	 &  &  &  &  &2 a-di A.ŠÀ ri-im-[...]
+#lem:      adi[as far as]PRP; eqel[field]N; +Rim-xxx[]PN$ 
+
+$ single ruling
+4'.	 & 1.15 & 15 &  & 1 KÙŠ & 15 & 19.2/3 SAR 5 ⸢GÍN⸣ & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; mūšar[unit]N; n; šiqil[unit]N  
+
+5'.	 &  &  &  &  &3 UŠ i-ta A.ŠÀ DINGIR{+lam}-lu-mur? 
+#lem:      šiddum[(longer) side]N; +ita[adjacent to]PRP$; eqel[field]N; +Ilam-lumur[]PN$ 
+
+$ single ruling
+6'.	 & 2.22.20 & 15 &  & 1 KÙŠ & 15 & 1.35.1/2 SAR 7.1/2 GÍN & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; mūšar[unit]N; n; šiqil[unit]N  
+
+
+7'.	 &  &  &  &  &  & a-di na-ba-hu & 
+#lem:       adi[as far as]PRP; Nabahu[1]GN  
+
+$ single ruling
+8'.	 & 1.20 & 15 & 10 & 1.30 <KUŠ₃> & 18.45 & 25 SAR SAHAR-HI.A# & 
+#lem:  n;  n;  n;  n; ammat[unit]N;  n;  n; mūšar[unit]N; eperī[volume]N  
+
+$ single ruling
+9'.	 & 4.35 & 15 &  & 1 KÙŠ & 15 & 1(IKU){gana₂} 8.2/3 SAR 5 GÍN# & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; n; mūšar[unit]N; n; šiqil[unit]N  
+
+10'.	 &  &  &  &  &  & a-di ap-sa-tim & 
+#lem:       adi[as far as]PRP; Apsatim[1]GN  
+
+$ single ruling
+11'.	 & 5 & 15 &  & 1 KÙŠ & 15 & 1(IKU){gana₂} 15 SAR a-di A.ŠÀ {d}AMAR.UTU-mu-ša-lim & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n; n; mūšar[unit]N; adi[as far as]PRP; eqel[field]N; +Marduk-mušallim[]PN$  
+
+$ single ruling
+12'.	 & 40 & 20 & 15 & 2 KÙŠ & 35 & 1.21.2/3 SAR  & 
+#lem:  n;  n;  n;  n; ammat[unit]N;  n;  n; mūšar[unit]N  
+
+$ single ruling
+13'.	 &  &5 15.12.30 2(IKU){gana₂} 44 SAR 10 GIN₂ & 
+#lem:   n; n; n; mūšar[unit]N; n; šiqil[unit]N  
+
+$ single ruling
+14'.	 &6 ŠU.NIGÍN 1/2 DANNA!(KASKAL) 4.47.30 NINDA# UŠ#
+#lem:  napharum[total]N; n; bēr[unit]N; n; nindan[unit]N; šiddim[(longer) side]N 
+
+@top
+1.	 &  &  &4 1(EŠE₃) 3(IKU) 1/2(IKU){gana₂} 8 SAR#? SAHAR-HI.A
+#lem:    n; n; n; n; mūšar[unit]N; eperī[volume]N 
+
+2.	 &  &  &  &  &2 SAHAR-HI.A [...]
+#lem:      eperū[volume]N; u 
+
+3.	 &  &5 {iti}APIN.DU₈.A U₄ 17-KAM %s mu {ŋeš#}tukul# šu#-[nir ...]
+#lem:   Arahsamnum[1]MN; ūm[day]N; n; mu[year]; tukul[weapon]; šunir[emblem]; u 
+
+
+@translation parallel en project
+@obverse
+1.	 @& Length @& Upper width @& Width @& Depth @& Volume @& Volume
+$ single ruling
+2.	 @& 40 @& 0;15 @&  @& 0;30 cubits @& 0;07 30 @& 5 @sar @?volume?@
+3.	 @&  @&  @&  @&3 From that of Itulum's daughter as far as ... [....]
+$ single ruling
+4.	 @& 215 @& 0;20 @&  @& 1 cubit @& 0;20 @& 1 @iku 11 2/3 @sar volume
+5.	 @&  @&  @&  @&  @&  @& As far as Muhaddum's dyke
+$ single ruling
+6.	 @& 150 @& 0;20 @& 0;15 @& 1;30 cubits @& 0;26 15 @& 1 @iku 5 2/3 @sar, first time
+$ single ruling
+7.	 @& 30 @& 0;20 @&  @& 1 cubit @& 0;20 @& 10 @sar, second time
+$ single ruling
+8.	 @& 10 @& 0;20 @& 0;15 @& 2 cubits @& 0;35 @& 5 5/6 @sar, third time
+$ single ruling
+9.	 @&  @&5 445 rods length, 1 1/2 @iku, 6 5/6 @sar 2 1/2 shekels, as far as Nabahu
+$ single ruling
+10.	 @& 195 @& 0;20 @& 0;15 @& 2 cubits @& 0;35 @& 1 @iku 13 2/3 @sar 5 shekels
+11.	 @&  @&  @&  @&  @&  @& That of Marduk-mušallim
+$ single ruling
+12.	 @& 100 @& ... @& ... @& ... cubit(s) @& 0;35 @& [...] @sar
+$ rest of obverse missing
+@reverse
+$ start of reverse missing
+1'.	 @& 100 @& 0;20 @&  @& 1 cubit  @& [...] @& [...]
+$ single ruling
+2'.	 @&  @&5 315 rods length, 62 @iku [...]
+3'.	 @&  @&  @&  @&  @& As far as Rim-[...]'s field
+$ single ruling
+4'.	 @& 75 @& 0;15 @&  @& 1 cubit @& 0;15 @& 19 2/3 @sar 5 shekels
+5'.	 @&  @&  @&  @&  @&2 Length adjacent to Ilam-lumur’s field
+$ single ruling
+6'.	 @& 82;20 @& 0;15 @&  @& 1 cubit @& 0;15 @& 95 1/2 @sar 7 1/2 shekels
+7'.	 @&  @&  @&  @&  @&  @& As far as Nabahu
+$ single ruling
+8'.	 @& 80 @& 0;15 @& 0;10 @& 1;30 cubits @& 0;18 45 @& 25 @sar volume
+$ single ruling
+9'.	 @& 275 @& 0;15 @&  @& 1 cubit @& 0;15 @& 1 @iku 8 2/3 @sar 5 shekels
+10'.	 @&  @&  @&  @&  @&  @& As far as Apsatum
+$ single ruling
+11'.	 @& 5 @& 0;15 @&  @& 1 cubit @& 0;15 @& 1 @iku 15 @sar as far as Marduk-mušallim's field
+$ single ruling
+12'.	 @& 40 @& 0;20 @& 0;15 @& 2 @cubits @& 0;35 @& 81 2/3 @sar
+$ single ruling
+13'.	 @&  @&5 912 (rods length), 2 @iku 44 @sar 10 shekels
+$ single ruling
+14'.	 @&6 Total: 1/2 league 287;30 rods length
+@top
+1.	 @&  @&  @&4 9 1/2 @iku 8 @sar volume
+2.	 @&  @&  @&  @&  @&2 Volume [...]
+3.	 @&  @&5 Arahsamnum, day 17, year: weapon-emblem [...]
+
+

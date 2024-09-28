@@ -1,0 +1,219 @@
+&P386966 = TCL 11, 151
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	| A.ŠÀ at-ta-[...]
+#lem:  eqel[field]N; +Atta-xxx[]PN$     
+#note: I am indebted to Zsombor Földi for many improvements in the reading of this text.
+2.	| ⸢ša⸣ [...]-ma
+#lem:  ša[that]REL; u     
+
+3.	| i-⸢na⸣ [...] x-e₂-a DUB?.SAR?
+#lem:  ina[from]PRP; u; +Xxx-Ea[]PN; ṭupšarrum[scribe]N     
+
+$ double ruling
+4.	 & A.ŠÀ & ⸢NÍG⸣.GAR  & ŠE-[BI] & [ŠU.RI].A-BI & 
+#lem:  +eqlu[field//area]N'N$eqlum;  šukunnûm[estimated yield]N;  šeʾšu[grain]N;  mišilšu[half]N  
+
+$ single ruling
+5.	 & 2(EŠE₃) 3(IKU) & 1(U) 5(AŠ)!(6(AŠ)) <GUR> & 6(AŠ) <GUR> 1(BARIG) 1(BAN₂) 5 <SILA₃> & ⸢šu-x⸣-šum DUMU gi-mil-lum & 
+#lem:  n; n;  n; n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  +Šu-xxx-šum[]PN$; mār[son]N; +Gimillum[]PN$  
+
+6.	 &  &  & APIN & ig-mil-{d}SUEN & 
+#lem:    mērešti[cultivated field]N;  +Igmil-Sin[]PN$  
+
+$ single ruling
+7.	 & 1(EŠE₃) [(x)] & 1(U) [(...)] <GUR> & [...] & {d}SUEN-ma-gir DUMU a-ha-nu-ta & 
+#lem:  n; u;  n; u; kur[unit]N;  u;  Sin-magir[1]PN; mār[son]N; +Aha-nuta[]PN$  
+
+8.	 &  &  & APIN & {d}SUEN-ta-ia-ar & 
+#lem:    mērešti[cultivated field]N;  +Sin-tayyar[]PN$  
+
+$ single ruling
+9.	 & [...] & ⸢1(U) 5(AŠ)? <GUR>⸣ & 4(AŠ) <GUR> 2(BARIG) 5(BAN₂) 2.1/2 <SILA₃>  & ARAD-{d}MAR.TU DUMU DINGIR{+an}-še-me-a & 
+#lem:  u;  n; n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  +Warad-Amurrim[]PN$; mār[son]N; +Ilan-šemeya[]PN$  
+
+10.	 &  &  & APIN & u-bar-{d}SUEN & 
+#lem:    mērešti[cultivated field]N;  +Ubar-Sin[]PN$  
+
+$ single ruling
+11.	 & 1(BUR₃) [1(IKU){gana₂}] & ⸢1(U) 5(AŠ)? <GUR>⸣ & 8(AŠ) <GUR> 3(BARIG) 4(BAN₂) 5 <SILA₃> & DINGIR-ga-mil DUMU {d}UTU-a-bi APIN? {d}[...] & 
+#lem:  n; n;  n; n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  +Ilum-gamil[]PN$; mār[son]N; +Šamaš-abi[]PN$; mērešti[cultivated field]N; u  
+
+12.	 & 1(BUR₃) & 1(U) <GUR> & 5(AŠ) GUR & ha-bil-ki-nu DUMU a-pil-ku-bi & 
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N;  +Habil-kinu[]PN$; mār[son]N; +Apil-kubi[]PN$  
+
+$ single ruling
+13.	 & 1(BUR₃) 1(IKU) 1/2(IKU) & 1(U) <GUR> & 5(AŠ) <GUR> 2(BARIG) 5 <SILA₃> & ri-ša-tum DUMU {d}SUEN-[...] & 
+#lem:  n; n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; qā[unit]N;  +Rišatum[]PN$; mār[son]N; +Sin-xxx[]PN$  
+
+14.	 &  &  & APIN & li-ši-im-DINGIR-šu [...] & 
+#lem:    mērešti[cultivated field]N;  +Lišim-ilišu[]PN$; u  
+
+$ single ruling
+15.	 & 1(EŠE₃) & 1(U) <GUR> & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) <<GUR>> & gur-ru-du-um DUMU {d}[...] & 
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;  +Gurrudum[]PN$; mār[son]N; u  
+
+16.	 &  &  & APIN & ig-mil-{d}SUEN & 
+#lem:    mērešti[cultivated field]N;  Igmil-Sin[1]PN  
+
+$ single ruling
+17.	 & 2(EŠE₃) & 1(U) 5(AŠ) <GUR> & 5(AŠ) GUR & šum-ma-DINGIR DUMU hu-za-[lum?] & 
+#lem:  n;  n; n; kur[unit]N;  n; kur[unit]N;  +Šumma-ilum[]PN$; mār[son]N; +Huzalum[]PN$  
+
+$ single ruling
+18.	 & 2(EŠE₃) 1(IKU) 1/2(IKU) & 1(U) <GUR> & 3(AŠ) <GUR> 3(BARIG) 4(BAN₂) 5 <SILA₃> & a-hu-šu-nu DUMU mu-[...] & 
+#lem:  n; n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  +Ahušunu[]PN$; mār[son]N; +Mu-xxx[]PN$  
+
+19.	 &  &  & APIN & li-ši-im-DINGIR-šu [...] & 
+#lem:    mērešti[cultivated field]N;  Lišim-ilišu[1]PN; u  
+
+$ single ruling
+20.	 & 4(IKU) & 1(U) <GUR> & 1(AŠ) <GUR> 3(BAN₂) 3.1/3 <SILA₃> & APIN sa₃-an-qum LÚ {iri}[...] & 
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n; qā[unit]N;  mērešti[cultivated field]N; +Sanqum[]PN$; awīl[citizen]N; u  
+
+21.	 & 3(IKU) & 2(U) <GUR> & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) & APIN za-an-na-pu LÚ {iri!?}[...] & 
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;  mērešti[cultivated field]N; +Zannapu[]PN$; awīl[citizen]N; u  
+
+22.	 & 1(EŠE₃) & 1(U) <GUR> & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) <<GUR>> & APIN u-bar-{d}SUEN LÚ {iri#}zi-[...] & 
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;  mērešti[cultivated field]N; +Ubar-Sin[]PN$; awīlī[man]N; +Zi-xxx[]SN$  
+
+$ single ruling
+23. 	 &  &3 [A].ŠA₃#.ŠUKU la-lu-u₂ DUMU a-pil-ku-bi & 
+#lem:   +šukūsu[subsistence (field)]N$šukūs; +Lalu[]PN$; mār[son]N; +Apil-kubi[]PN$  
+
+24.	| ŠÀ? $KA $BAD₃? LUGAL
+#lem:  ina[in]PRP$ina&libbu[interior]N$libbi; u; u; šarrim[king]N     
+
+25.	| A.GÀR {iri}e-la-li-ia{ki}
+#lem:  ugār[(communally controlled) meadow]N; +Elalia[]SN$     
+
+@reverse
+1.	 & 1(BUR₃) 1(EŠE₃) & 2(U) <GUR>  & 1(U) 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) & ŠÀ $ÉŠ $GAL UKU.UŠ LÚ {iri}ú-ku-ú-a{ki} & 
+#lem:  n; n;  n; kur[unit]N;  n; n; kur[unit]N; n; n;  ina[in]PRP$ina&libbu[interior]N$libbi; u; u; +rēdû[soldier]N$rēdî; awīlī[man]N; +Ukua[]SN$  
+
+2.	 &  &  & APIN & li-ši-im-DINGIR DUMU ì-lí-a-wi-lim & 
+#lem:    mērešti[cultivated field]N;  +Lišim-ilum[]PN$; mār[son]N; +Ili-awilim[]PN$  
+
+$ single ruling
+3.	 & 2(EŠE₃) 4(IKU) & 2(U) <GUR> & 8(AŠ) <GUR> 4(BARIG) 2(BAN₂) 6.2/3 <SILA₃> & dam-qi₂-DINGIR-šu DUMU a-píl-DINGIR & 
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;  +Damqi-ilišu[]PN$; mār[son]N; +Apil-ilim[]PN$  
+
+4.	 &  &  & [APIN] & si-i-ri-šu [...] & 
+#lem:    mērešti[cultivated field]N;  u; u  
+
+$ single ruling
+5.	 & [...] & [...] & [...] 3.1/3 <SILA₃> & ì-lí-ma-[...] & 
+#lem:  u;  u;  u; n; qā[unit]N;  +Ilima-xxx[]PN$  
+
+6.	 &  &  & [APIN] & [x] i-ri-⸢šu⸣-ma [...] & 
+#lem:    mērešti[cultivated field]N;  u; u; u  
+
+$ single ruling
+7.	 & [...] & [...] & [...] & x [...] & 
+#lem:  u;  u;  u;  u; u  
+
+$ single ruling
+8.	| [A].⸢GÀR {iri}⸣ú-ku-ú-a[{ki}]
+#lem:  ugār[(communally controlled) meadow]N; +Ukua[]SN$     
+
+$ single ruling
+$ 1 line blank
+9.	| 1(BURʾU) 2(EŠE₃) 2(IKU) 1/2(IKU){gana₂} A.ŠÀ AB.SÍN
+#lem:  n; n; n; n; eqel[field]N; šerʾātim[furrow]N     
+
+10.	| ŠE-BI 1(GEŠ₂) 2(U) <GUR> 2(BARIG) 2(BAN₂) 5.5/6 SÌLA ⸢GUR⸣ ; LÚ {iri}ú-ku-ú-a{ki}
+#lem:  šeʾšu[grain]N; n; n; kur[unit]N; n; n; n; qā[unit]N; kur[unit]N; awīlī[man]N; +Ukua[]SN$     
+
+$ single ruling
+11.	| GÚ {íd}ga-bu-ú
+#lem:  ah[bank]N; +Gabu[]WN$     
+
+$ 1 line blank
+12.	| {iti}GU₄.SI.SÁ U₄ 20-KAM
+#lem:  +Ayyaru[]MN$Ayyarum; ūm[day]N; n     
+
+13.	| %s mu ha-am-mu-ra-bi lugal-e 
+#lem:  mu[year]; Hammurabi[1]RN; lugal[king]     
+
+14.	| %s inim an {d}en-líl-la₂#-ta 
+#lem:  inim[word]; An[1]; Enlil[]DN     
+
+15.	| %s bàd ma₂-rí{ki} ù [ma]-⸢al⸣-gi₄-a{ki} 
+#lem:  bad[wall]; Mari[1]; u[and]; Malgium[1]     
+
+16.	| %s mu-un-gul-lá
+#lem:  gul[destroy]     
+
+
+@translation parallel en project
+@obverse
+1.	 @&4 Atta-[...](‘s) field [...]
+2. 	 @&4 That [...] and
+3.	| From [....] ...-Ea the scribe.
+$ double ruling
+4.	 @& Area @& Estimated yield @& Its grain @& Its [half]
+$ single ruling
+5.	 @& 15 @iku @& 15 @gur @& 6 @gur 75 @sila @& @?Šu-...-šum?@, son of Gimillum
+6.	 @&  @&  @&2 Cultivated land of Igmil-Sin
+$ single ruling
+7.	 @& 6+ @iku @& 10+ @gur @& [...] @& Sin-magir, son of Aha-nuta
+8.	 @&  @&  @&2 Cultivated land of Sin-tayyar
+$ single ruling
+9.	 @& [...] @& @?15?@ @gur @& 4 @gur 172 1/2 @sila @& Warad-Amurrim, son of Ilanu-iddinam
+10.	 @&  @&  @&2 Cultivated land of Ubar-Sin
+$ single ruling
+11.	 @& 18+ @iku @& @?15?@ @gur @& 8 @gur 185+ @sila @& Ilum-gamil, son of Šamaš-abi, @?cultivated land?@ of [...]
+12.	 @& 18 @iku @& 10 @gur @& 5 @gur  @& Habil-kinu, son of Apil-kubi
+$ single ruling
+13.	 @& 24 @iku @& 10 @gur @& 5 @gur 125 @sila @& Rišatum, son of Sin-[...]
+14.	 @&  @&  @&2 Cultivated land of Lišim-ilišu [...]
+$ single ruling
+15.	 @& 6 @iku @& 10 @gur @& 1 @gur 200 @sila @& Gurrudum, son of [...]
+16.	 @&  @&  @&2 Cultivated land of Igmil-Sin
+$ single ruling
+17.	 @& 12 @iku @& 15 @gur @& 5 @gur  @& Šumma-ilum, son of @?Huzalum?@
+$ single ruling
+18.	 @& 13 1/2 @iku @& 10 @gur @& 3 @gur 225 @sila @& Ahušunu, son of Mu-[...]
+19.	 @&  @&  @&2 Cultivated land of Lišim-ilišu [...]
+$ single ruling
+20.	 @& 4 @iku @& 10 @gur @& 1 @gur 33 1/2 @sila @& Cultivated land of Sanqum, citizen of [...] town
+21.	 @& 3 @iku @& 20 @gur @& 1 @gur 200 @sila @& Cultivated land of Zannapu, citizen of [...] @?town?@
+22.	 @& 6 @iku @& 10 @gur @& 1 @gur 200 @sila @& Cultivated land of Ubar-Sin, citizen of Zi-[...] town
+$ single ruling
+23.	| Subsistence field of Lalu, son of Apil-kubi
+24.	| From the king's ...
+25.	| Meadows of Elalia town
+@reverse
+1.	 @& 24 @iku @& 20 @gur @& 13 @gur 100 @sila @& From the ... of the soldiers, citizens of Ukua
+2.	 @&  @&  @&2 Cultivated land of Lišim-ilum, son of Ili-awilim
+$ single ruling
+3.	 @& 16 @iku @& 20 @gur @& 8 @gur 226 2/3 @sila @& Damqi-ilišu son of Apil-ilim
+4.	 @&  @&  @&2 [Cultivated land of] Sirišu [...]
+$ single ruling
+5.	 @& [...] @& [...] @& [...] 3 1/3 @sila @& Ilima-[...]
+6.	 @&  @&  @&2 [Cultivated land of] Sirišu [...]
+$ single ruling
+7.	 @& [...] @& [...] @& [...] @& ... [...]
+$ single ruling
+8.	| Meadows of Ukua town
+$ single ruling
+$ 1 line blank
+9.	| 194 1/2 @iku, furrowed fields
+10.	| Its grain is 80 @gur, 145 5/6 @sila, citizens of Ukua town
+$ single ruling
+11.	| By the Gabu canal
+$ 1 line blank
+12.	| Ayyarum (Month II), day 20
+13.	| Year: Hammurabi the king
+14.	| by the word of An and Enlil
+15.	| destroyed the walls of Mari and Malgium
+
+

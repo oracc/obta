@@ -1,0 +1,48 @@
+&P412481 = CULC 462
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-BI & ÁB AMAR-BI & ŠU.NIGIN₂ & MU-BI.IM
+#lem:  +alpu[bull]N$alpūšu; liātum[cow]N; +būru[calf]N$būrūšu;  napharum[total]N;  šumšu[name]N 
+$ single ruling
+2.	 & 1.15 & 1.14 & 2.29 & u-bar-{d}UTU
+#lem:  n;  n;  n;  Ubar-Šamaš[1]PN 
+
+3.	 & 26 & 26 & 52 & {d}SUEN-i-din-nam
+#lem:  n;  n;  n;  Sin-iddinam[1]PN 
+
+4.	 & 28 & 27 & 55 & {d}SUEN-SIPA
+#lem:  n;  n;  n;  Sin-reʾum[1]PN 
+
+5.	 & 25 & 25 & 50 & {d}EN.KI-i-din-nam
+#lem:  n;  n;  n;  +Ea-iddinam[]PN$Ea-idinnam 
+
+6.	 & 2!(1).34 & 2.32 & 5.06
+#lem:  n;  n;  n 
+
+7.	| A.ŠÀ {d}ŠUL.GI {d}NANNA
+#lem:  +eqlu[field]N$eqel; +Šulgi[]RN$; Nanna[1]DN 
+
+@reverse
+$ reverse blank
+
+@translation parallel en project
+@obverse
+1.	 @& Its bulls @& Its cows and calves @& Total @& Its name
+$ single ruling
+2.	 @& 1 15 @& 1 14 @& 2 29 @& Ubar-Šamaš
+3.	 @& 26 @& 26 @& 52 @& Sin-iddinam
+4.	 @& 28 @& 27 @& 55 @& Sin-reʾum
+5.	 @& 25 @& 25 @& 50 @& Ea-iddinam
+6.	 @& 2 34 @& 2 32 @& 5 06
+7.	 @&4 Field of Šulgi and Nanna
+@reverse
+$ reverse blank
+
+

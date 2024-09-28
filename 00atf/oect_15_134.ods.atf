@@ -1,0 +1,550 @@
+&P347477 = OECT 15 134
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+@column 1
+$ start of column missing
+
+
+
+1'.	 & [...] & [...] & [...] & 2(IKU) & a-hi-we-du-um ENGAR {d}UTU-ba-ni
+#lem:  u;  u;  u;  n;  +Ahi-wedum[]PN$; +ikkaru[farmer]N$ikkar; +Šamaš-bani[]PN$ 
+
+2'.	 & [...] & ⸢5(AŠ) <GUR>⸣ & 5 <SILA₃> & 1(IKU) 1/2(IKU) & ni-id-nu-ša ENGAR an-na-DINGIR
+#lem:  u;  n; kur[unit]N;  n; qā[unit]N;  n; n;  Nidnuša[1]PN; ikkar[farmer]N; +Anna-ilum[]PN$ 
+
+3'.	 & [...] & 5(AŠ) <GUR> & 1(BAN₂) & 2(IKU) & i-bi-{d}NIN.ŠUBUR ENGAR {d}UTU-ba-ni
+#lem:  u;  n; kur[unit]N;  n;  n;  +Ibbi-Ilabrat[]PN$; ikkar[farmer]N; Šamaš-bani[1]PN 
+
+4'.	 & 1(EŠE₃) & 1(U) <GUR> & 1(BARIG) 4(BAN₂) & 3(IKU) & APIN LU₂-{d}NAMMA
+#lem:  n;  n; kur[unit]N;  n; n;  n;  mērešti[cultivated field]N; +Awil-Nammu[]PN$ 
+#note: The first sign of the final column should perhaps be read ENGAR = ikkarum "farmer" instead of APIN, here and throughout this tablet.
+5'.	 & 1(EŠE₃) & 1(U) <GUR> & 1(BARIG) 4(BAN₂) & 2(EŠE₃) & APIN gi-mil-{d}AMAR.UTU
+#lem:  n;  n; kur[unit]N;  n; n;  n;  mērešti[cultivated field]N; +Gimil-Marduk[]PN$ 
+
+6'.	 & 1/2(IKU){gana₂} & 6(AŠ) <GUR> & 1 SÌLA & 1(BUR₃) & APIN DUMU-{d}MAR.TU
+#lem:  n;  n; kur[unit]N;  n; qā[unit]N;  n;  mērešti[cultivated field]N; +Mar-Amurrim[]PN$ 
+
+7'.	 & 3(BUR₃) 1(IKU) 15 <SAR> & 6(AŠ) <GUR> & 3 SÌLA &  & APIN LU₂-{d}NIN.ŠUBUR DUMU?!(SAG) ; a-na-{d}SUEN-ta-<ak>-la-ku
+#lem:  n; n; n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +Awil-Ilabrat[]PN$; mār[son]N; +Ana-Sin-taklaku[]PN$ 
+
+8'.	 & 1(IKU) & 5(AŠ) <GUR> & 8.1/3 <SILA₃> & 1(BUR₃) & er-ṣe-tum-a-bi?
+#lem:  n;  n; kur[unit]N;  n; qā[unit]N;  n;  +Erṣetum-abi[]PN$ 
+
+9'.	 & 30 SAR & 6(AŠ) <GUR> & 3 SÌLA & 1(BUR₃) & {d}SUEN-a-a-ba-aš
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;  n;  Sin-ayyabaš[1]PN 
+
+10'.	 & 2(IKU) & 6(AŠ) <GUR> & 2(BAN₂) & 1(BUR₃) & x-{d}INNIN
+#lem:  n;  n; kur[unit]N;  n;  n;  xxx-Ištar[1]PN 
+
+11'.	 & 2(IKU) 1.20 SAR & 2(U) <GUR> & 1(BARIG) 3(BAN₂) 3.1/3 & 3(BUR₃) & ha-bi-il-a-bi
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n; n; n;  n;  +Habil-abi[]PN$ 
+
+12'.	 & 1.25 SAR & 2(U) <GUR> & 2(BAN₂) 8.1/3 <SILA₃> &  & i-din-{d}SUEN {lu₂}ENGAR {d}SUEN-a-ša-re-da
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; n; qā[unit]N;   Iddin-Sin[1]PN; +ikkaru[farmer]N$ikkar; +Sin-ašareda[]PN$Sin-ašareda 
+
+$ single ruling
+13'.	 & 3(BUR₃) 2(EŠE₃) [...] SAR &  & 3(BARIG) 2(BAN₂) 1/2 SÌLA & 3(BUR₃) 4(IKU) 20 SAR#
+#lem:  n; n; u; mūšar[unit]N;   n; n; n; qā[unit]N;  n; n; n; mūšar[unit]N 
+
+14'.	 & [...] &  &  &  & ra-ha-bu-um
+#lem:  u;     +Rahabum[]GN$ 
+
+15'.	 & [...] &  &  & 10 SAR & ip-qú-ša
+#lem:  u;    n; mūšar[unit]N;  +Ipquša[]PN$ 
+
+16'.	 & [...] & [...] &  & 20 SAR & i-ši-me-ši-ha-šu
+#lem:  u;  u;   n; mūšar[unit]N;  +Išime-šihhašu[]PN$ 
+
+17'.	 & [...] & [...] &  &  & ú-ba-a-a-tum ENGAR zi-na-tum
+#lem:  u;  u;    +Ubayyatum[]PN$; ikkar[farmer]N; +Zinatum[]PN$ 
+
+18'.	 & [...] & [...] & x &  & nu-úr-{d}UTU
+#lem:  u;  u;  u;   +Nur-Šamaš[]PN$ 
+
+19'.	 & [...] & [...] & x &  & ta-li-mu-um
+#lem:  u;  u;  u;   +Talimum[]PN$ 
+
+20'.	 & [...] & [...] & x &  & {d}SUEN-ú-sé-li
+#lem:  u;  u;  u;   +Sin-uselli[]PN$ 
+
+@column 2
+$ start of column broken
+1'.	 & [...] & [...] & [...] & [...] & [...]-bu
+#lem:  u;  u;  u;  u;  +xxx-bu[]PN$ 
+
+2'.	 & [...] & [...] & [...] & [...] & [... ENGAR?] {d}UTU-ba-ni 
+#lem:  u;  u;  u;  u;  u; ikkar[farmer]N; Šamaš-bani[1]PN 
+
+3'.	 & [...] & [...] & [...] & [...] & [...] ENGAR {d}UTU-li-wi-ir
+#lem:  u;  u;  u;  u;  u; ikkar[farmer]N; +Šamaš-liwir[]PN$ 
+
+4'.	 & [...] & [...] & [...] & [...] & [... nu]-úr-DINGIR
+#lem:  u;  u;  u;  u;  u; +Nur-ilim[]PN$ 
+
+5'.	 & [...] & [...] & [...] & [...] & [...]-lum
+#lem:  u;  u;  u;  u;  +xxx-lum[]PN$ 
+
+6'.	 & 1(BUR₃) 1(EŠE₃) & [...] & [...] & [...]
+#lem:  n; n;  u;  u;  u 
+
+7'.	 & AN.ZA.GÀR &  &  &  & bi-ri-[...]-su-um
+#lem:  +dimtu[tower]N$dimti;     +Biri-xxx-sum[]GN$ 
+
+8'.	 & 1.20 SAR!(GIŠ) & 1(U) 5(AŠ) <GUR> & 2(BAN₂) &  & {d}SUEN-im-gur-[an-ni] ENGAR {d}UTU-li-wi-ir
+#lem:  n; mūšar[unit]N; n; n; kur[unit]N;  n;   Sin-imguranni[1]PN; ikkar[farmer]N; Šamaš-liwir[1]PN 
+
+9'.	 & 10 SAR & 2(U) <GUR> & 3.1/3 <SILA₃> &  & ša gi-mil-⸢lum⸣ ENGAR
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   ša[of]DET; Gimillum[1]PN; +ikkaru[farmer]N$ikkarim 
+
+10'.	 & 20 SAR & 1(U) 5(AŠ) <GUR> & 5 <SILA₃> &  & KI-1
+#lem:  n; mūšar[unit]N;  n; n; kur[unit]N;  n; qā[unit]N;   n 
+
+11'.	 & 1.15 SAR & 1(U) 5(AŠ) <GUR> & 1 <SILA₃> 15 <GIN₂> &  & KI-2 ri-im-{d}IŠKUR
+#lem:  n; mūšar[unit]N;  n; n; kur[unit]N;  n; qā[unit]N; n; šiqil[unit]N;   n; +Rim-Adad[]PN$ 
+
+12'.	 & 25 SAR & 1(U) <GUR> & 4 <SILA₃> 10 GÍN &  & ṣi-li₂-{d}NIN.URTA
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N; n; šiqil[unit]N;   +Ṣilli-Ninurta[]PN$ 
+
+13'.	 & 1(GEŠ₂){gana₂} & 1(U) 5(AŠ) <GUR> & 1(BAN₂) 5 <SILA₃> &  & ARAD-{d}MAR.TU
+#lem:  n;  n; n; kur[unit]N;  n; n; qā[unit]N;   Warad-Amurrim[1]PN 
+$ single ruling
+14'.	 & 2(IKU) &  & 4(BAN₂)? 8.2/3 <SILA₃> 5 <GIN₂>
+#lem:  n;   n; n; qā[unit]N; n; šiqil[unit]N 
+
+15'.	 & AN.ZA.GÀR &  &  &  & ARAD-ì-lí-šu
+#lem:  dimti[tower]N;     Warad-ilišu[1]PN 
+
+16'.	 & 4(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 1(BARIG) 3(BAN₂) & 2(IKU) & u-bar-{id₂}LIŠ?-$NA
+#lem:  n; n;  n; n; kur[unit]N;  n; n;  n;  +Ubar-xxx[]PN$ 
+
+17'.	 & 2(EŠE₃) & 1(U)? <GUR> & 3(BARIG) 2(BAN₂) &  & a-píl-{d}da-mu
+#lem:  n;  n; kur[unit]N;  n; n;   +Apil-Damu[]PN$ 
+
+18'.	 & 1(EŠE₃) & 1(U) 1(AŠ) <GUR> & 1(BARIG) 4(BAN₂) & 2(IKU) & ia-ú-ti-nu-um
+#lem:  n;  n; n; kur[unit]N;  n; n;  n;  +Yaʾutinum[]PN$ 
+
+19'.	 & 1(IKU) & 1(U) 2(AŠ) <GUR> & 2(BARIG) & 5(IKU) & u-bar-{d}UTU
+#lem:  n;  n; n; kur[unit]N;  n;  n;  Ubar-Šamaš[1]PN 
+
+20'.	 & 3(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 1(BARIG) 1(BAN₂) &  & e-te-ia-tum
+#lem:  n; n;  n; n; kur[unit]N;  n; n;   +Eteyatum[]PN$ 
+
+21'.	 & 3(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 1(BARIG) 1(BAN₂) &  & ARAD-{d}UTU? x x
+#lem:  n; n;  n; n; kur[unit]N;  n; n;   +Warad-Šamaš[]PN$; u; u 
+
+22'.	 & 3(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 1(BARIG) 1(BAN₂) &  & nu-úr-{d}UTU
+#lem:  n; n;  n; n; kur[unit]N;  n; n;   Nur-Šamaš[1]PN 
+
+23'.	 & 3(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 1(BARIG) 1(BAN₂) &  & {d}SUEN-ma-⸢gir⸣
+#lem:  n; n;  n; n; kur[unit]N;  n; n;   Sin-magir[1]PN 
+
+24'.	 & 3(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 1(BARIG) 1(BAN₂) &  & da-ak-[...]
+#lem:  n; n;  n; n; kur[unit]N;  n; n;   +Dak-xxx[]PN$ 
+
+25'.	 & 1(IKU){gana₂} &  &  &  & gi-mil-{d}AMAR.UTU
+#lem:  n;     +Gimil-Marduk[]PN$ 
+
+26'.	 & 1(GEŠ₂){gana₂} & 2(U) <GUR> & 2(BARIG) &  & KI-2 e-te-ia-tum ENGAR ì-lí-tu-kúl-ti
+#lem:  n;  n; kur[unit]N;  n;   n; Eteyatum[1]PN; ikkar[farmer]N; +Ili-tukulti[]PN$ 
+
+27'.	 &  &  &  & 5(IKU) & a-píl-ì-lí-[šu]
+#lem:     n;  +Apil-ilišu[]PN$ 
+
+28'.	 & $MAŠ & 5(AŠ) <GUR> & 1(BAN₂) 2.1/2 <SILA₃> & 1(IKU) & u-bar-{d}SUEN ENGAR [...]
+#lem:  u;  n; kur[unit]N;  n; n; qā[unit]N;  n;  Ubar-Sin[1]PN; ikkar[farmer]N; u 
+
+@reverse
+@column 1
+1.	 & 1(BUR₃) & 6 <GUR>  & 5 <SILA₃> &  & APIN ta-ri-[bu-um?]
+#lem:  n;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; Taribum[1]PN 
+
+2.	 & 30 SAR & 1(U) <GUR> & 5 <SILA₃> &  & APIN i-x-[...]
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +I-xxx[]PN$ 
+
+3.	 & 1.20{gana₂} & 6 <GUR> & 8 <SILA₃> &  & APIN na-[...]
+#lem:  n;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +Na-xxx[]PN$ 
+
+4.	 & 1.20{gana₂} & 2(U) <GUR> & 2(BAN₂) 6.2/3 <SILA₃> &  & APIN im-[...]
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;   mērešti[cultivated field]N; +Im-xxx[]PN$ 
+
+5.	 & ŠUKU &  &  &  & {d}NIN.URTA-[...]
+#lem:  šukūs[subsistence (field)]N;     +Ninurta-xxx[]PN$ 
+
+6.	 & 25 SAR & 2(U) <GUR> & 9 <SILA₃> &  & {d}kab-ta-ILLAT-su
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   +Kabta-illassu[]PN$ 
+
+7.	 & 54 SAR & 2(U) <GUR> & 1(BAN₂) 8 <SILA₃> &  & {d}SUEN-ma-gir DUMU li-pí-it-{d}SUEN
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; n; qā[unit]N;   Sin-magir[1]PN; mār[son]N; +Lipit-Sin[]PN$ 
+
+8.	 & 1(IKU) & 1(U) 2(AŠ) <GUR> & 2(BAN₂) &  & DUMU-er-ṣe-tim DUMU é-a-pu-ṭu₂-ri ENGAR a-hu-wa-qar
+#lem:  n;  n; n; kur[unit]N;  n;   +Mar-erṣetim[]PN$; mār[son]N; +Ea-puṭuri[]PN$; ikkar[farmer]N; +Ahu-waqar[]PN$ 
+
+9.	 & 25 SAR & 2(U) <GUR> & 8.1/3 <SILA₃> &  & APIN a-lí-wa-aq-rum
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +Ali-waqrum[]PN$ 
+
+10.	 & 1(IKU) & 1(U) <GUR> & 1(BAN₂) 6.2/3 <SILA₃> & 3(BUR₃){gana₂} & APIN šu-mu-um-li-ib-ši
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;  n;  mērešti[cultivated field]N; Šumum-libši[1]PN 
+
+11.	 & ŠUKU &  &  &  & ra-bu-ut-{d}SUEN
+#lem:  šukūs[subsistence (field)]N;     +Rabut-Sin[]PN$ 
+
+12.	 & 40 SAR & 5(AŠ) <GUR> & 3.1/3 <SILA₃> &  & APIN im-ta-ni
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +Imtani[]PN$ 
+
+13.	 & 1(IKU) 20 SAR & 5(AŠ) <GUR> & 1(BAN₂) &  & APIN šu-mu-um-li-ib-ši
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n;   mērešti[cultivated field]N; Šumum-libši[1]PN 
+
+14.	 & ŠUKU &  &  &  & x-li-an-ša-an
+#lem:  šukūs[subsistence (field)]N;     +xxx-li-Anšan[]PN$ 
+
+15.	 & 1(IKU) 20 [SAR] & 5(AŠ) <GUR> & 1(BAN₂) &  & [...] $E $TU $ŠA $BI
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n;   u; u; u; u; u 
+
+16.	 & 1.30{gana₂} & [...] & 7.1/2 <SILA₃> & 1(BUR₃) & [...]-ta
+#lem:  n;  u;  n; qā[unit]N;  n;  u 
+
+17.	 & 1(IKU) & [...] &  &  & šu-[mu]-⸢um⸣-li-ib-ši
+#lem:  n;  u;    Šumum-libši[1]PN 
+
+18.	 & ⸢15 SAR⸣ & 2(U) <GUR> & 5 <SILA₃> &  & APIN NU.GIŠ.KIRI₆
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +nukaribbu[gardener]N$nukaribbim 
+
+19.	 & 1(IKU) 1/2(IKU) & 1(U) 5(AŠ) <GUR> & 3(BAN₂) 7.1/2 <SILA₃> &  & APIN DUMU-er-ṣe?-tim DUMU zi-ia-tum
+#lem:  n; n;  n; n; kur[unit]N;  n; n; qā[unit]N;   mērešti[cultivated field]N; Mar-erṣetim[1]PN; mār[son]N; +Ziyatum[]PN$ 
+
+20.	 &  &  &  & 1(BUR₃) & {m}a-lí-wa-qar{+qar₃}
+#lem:     n;  +Ali-waqar[]PN$ 
+
+21.	 &  &  &  & 1(IKU) & APIN li-ib-lu-uṭ
+#lem:     n;  mērešti[cultivated field]N; +Libluṭ[]PN$ 
+
+22.	 & 4(IKU) & 1(U) 5(AŠ) <GUR> & 1(BARIG) 4(BAN₂) [...] &  & APIN a-hi-ṭà-bu-um
+#lem:  n;  n; n; kur[unit]N;  n; n; u;   mērešti[cultivated field]N; +Ahi-ṭabum[]PN$ 
+
+23.	 & ŠUKU &  &  &  & DUMU-er-ṣe-tim A.ZU
+#lem:  šukūs[subsistence (field)]N;     +Mar-erṣetim[]PN$; +asû[physician]N$asûm 
+
+24.	 & 1(IKU) 1(GEŠ₂){gana₂} & 1(U) 5(AŠ) <GUR> & 4(BAN₂) &  & DUMU-er-ṣe-tim ŠÀ.GUD
+#lem:  n; n;  n; n; kur[unit]N;  n;   Mar-erṣetim[1]PN; +kullizu[ox-driver]N$kullizum 
+
+25.	 & 3(IKU) & 1(U) 5(AŠ) <GUR> & 1(BARIG) 5(BAN₂) &  & APIN u-bar-{id₂}AL?-$NA ù nu-ra-tum
+#lem:  n;  n; n; kur[unit]N;  n; n;   mērešti[cultivated field]N; +Ubar-xxx[]PN$; u[and]CNJ; +Nuratum[]PN$ 
+
+26.	 & 1(IKU) 1/2(IKU) & 1(U) 5(AŠ) <GUR> & 3(BAN₂) 7.1/2 <SILA₃> &  & APIN nu-úr-DINGIR.MAH
+#lem:  n; n;  n; n; kur[unit]N;  n; n; qā[unit]N;   mērešti[cultivated field]N; +Nur-Belet-ili[]PN$ 
+
+27.	 & 1.30{gana₂} & 1(U) 5(AŠ) <GUR> & 2(BAN₂) 2.1/2 <SILA₃> &  & APIN per-hu-um
+#lem:  n;  n; n; kur[unit]N;  n; n; qā[unit]N;   mērešti[cultivated field]N; +Perhum[]PN$ 
+
+28.	 & 1(IKU) & 1(U) 5(AŠ) <GUR> & 2(BAN₂) 5 <SILA₃> & 1(BUR₃) & APIN ni-in-nu-tum
+#lem:  n;  n; n; kur[unit]N;  n; n; qā[unit]N;  n;  mērešti[cultivated field]N; +Ninnutum[]PN$ 
+
+29.	 & ⸢ŠUKU?⸣ &  &  &  & DINGIR-šu-ib-ni-šu
+#lem:  šukūs[subsistence (field)]N;     +Ilšu-ibnišu[]PN$ 
+
+30.	 & 4(IKU) 1/2(IKU) & 1(U) <GUR> & 1(BARIG) 1(BAN₂) 5 <SILA₃> & 2(IKU) & li-iš-ta-ši-im-DINGIR
+#lem:  n; n;  n; kur[unit]N;  n; n; n; qā[unit]N;  n;  +Lištašim-ilum[]PN$ 
+
+31.	 & 1(GEŠ₂){gana₂} & 1(U) 5(AŠ) <GUR> & 5 SÌLA &  & Ì-lí-za-ni-ni ENGAR be-lí-ia
+#lem:  n;  n; n; kur[unit]N;  n; qā[unit]N;   +Ili-zanini[]PN$; ikkar[farmer]N; +Beliya[]PN$ 
+
+32.	 & 1(IKU) 20 <SAR> & 1(U) 5(AŠ) <GUR> & 3(BAN₂) &  & i-qí-šum ENGAR wa-li-lum
+#lem:  n; n; mūšar[unit]N;  n; n; kur[unit]N;  n;   +Iqišum[]PN$; ikkar[farmer]N; +Walilum[]PN$ 
+
+33.	 & 3(IKU) & 1(U) <GUR> & 5(BAN₂) &  & u-bar-rum ENGAR é-a-ṣi-lí
+#lem:  n;  n; kur[unit]N;  n;   +Ubarrum[]PN$; ikkar[farmer]N; +Ea-ṣilli[]PN$ 
+
+34.	 & 2(IKU) 1.20 <SAR> & 1(U) 5(AŠ) <GUR> & 1(BAN₂) & 2(BUR₃) & APIN a-píl-{d}SUEN
+#lem:  n; n; mūšar[unit]N;  n; n; kur[unit]N;  n;  n;  mērešti[cultivated field]N; +Apil-Sin[]PN$ 
+
+35.	 & 2(IKU) & 1(U) <GUR> & 3(BAN₂) 3.1/3 <SILA₃> &  & APIN bu-ni-ab-ni ù ni-in-nu-tum
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;   mērešti[cultivated field]N; +Buni-abni[]PN$; u[and]CNJ; Ninnutum[1]PN 
+
+36.	 & ŠUKU &  &  &  & i₃-lí-URU₄
+#lem:  šukūs[subsistence (field)]N;     +Ili-ereš[]PN$ 
+
+37.	 & 2(IKU) & 1(U) <GUR> & 3(BAN₂) 3.1/3 <SILA₃> &  & [...] ENGAR {d}SUEN-še-me-e
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;   u; ikkar[farmer]N; +Sin-šeme[]PN$ 
+
+38.	 & 3(IKU) & 1(U) 2(AŠ) <GUR> & [...] &  & KI-[1?]
+#lem:  n;  n; n; kur[unit]N;  u;   n 
+
+39.	 & 1(BUR₃) & 1(U) 2(AŠ) <GUR> & 3(BAN₂) [...] &  & [KI?-2? ...]-ia
+#lem:  n;  n; n; kur[unit]N;  n; u;   n; +xxx-ia[]PN$ 
+
+40.	 & [...] 2(IKU) 1/2(IKU) & 1(U) 2(AŠ) <GUR> & 2(BARIG) 5(BAN₂) & 1(EŠE₃) & APIN [...]-ni
+#lem:  u; n; n;  n; n; kur[unit]N;  n; n;  n;  mērešti[cultivated field]N; +xxx-ni[]PN$ 
+
+41.	 & [...] SAR & 2(U) <GUR> & 6.2/3 <SILA₃> &  & APIN ⸢ARAD-{d}SUEN⸣ NU.GIŠ.KIRI₆
+#lem:  u; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +Warad-Sin[]PN$; +nukaribbu[gardener]N$nukaribbim 
+
+42.	 & [ŠUKU?] &  &  &  & sí-ia-tum
+#lem:  šukūs[subsistence (field)]N;     +Siyyatum[]PN$ 
+
+43.	 & [...] & [...] & 3.1/3 <SILA₃> &  & KI-1
+#lem:  u;  u;  n; qā[unit]N;   n 
+
+44.	 & [...] & [...] & 1(BARIG) 1(BAN₂) &  & [KI-2] APIN DUMU-er-ṣe-tim [...]
+#lem:  u;  u;  n; n;   n; mērešti[cultivated field]N; Mar-erṣetim[1]PN; u 
+
+45.	 & [...] & [...] & [...] & [...] & APIN DUMU-er-ṣe-tim $ŠA? [...]
+#lem:  u;  u;  u;  u;  mērešti[cultivated field]N; Mar-erṣetim[1]PN; u; u 
+
+46.	 & [...] & [...] & [...] & [...] & [APIN {d}EN].LÍL-mu-da-mi-[iq]
+#lem:  u;  u;  u;  u;  mērešti[cultivated field]N; +Enlil-mudammiq[]PN$ 
+
+$ rest of column missing
+@column 2
+1.	 & [...] &  & 7(AŠ) GUR 5/6 <SILA₃> & 1(BUR₃) 4(IKU) 30 SAR
+#lem:  u;   n; kur[unit]N; n; qā[unit]N;  n; n; n; mūšar[unit]N 
+
+2.	 & [A].⸢ŠÀ?⸣ &  &  &  & {d}da-mu-ú-a
+#lem:  eqel[field]N;    +Damua[]PN$ 
+
+3.	 & 1.30{gana₂} & 2(U) <GUR> & 3(BAN₂) &  & APIN nu-úr-ì-lí-šu
+#lem:  n;  n; kur[unit]N;  n;   mērešti[cultivated field]N; +Nur-ilišu[]PN$ 
+
+4.	 & [...] & [...] & [...] & 1.20 <SAR> & APIN na-bi-{d}EN.LIL₂
+#lem:  u;  u;  u;  n; mūšar[unit]N;  mērešti[cultivated field]N; +Nabi-Enlil[]PN$ 
+
+5.	 & 3(IKU) & 1(U) 2(AŠ) <GUR> & 1(AŠ)? <GUR> 1(BARIG) & 1(GEŠ₂){gana₂} & APIN ip-qú-ša
+#lem:  n;  n; n; kur[unit]N;  n; kur[unit]N; n; n; mērešti[cultivated field]N; Ipquša[1]PN 
+
+6.	 & x &  &  & 2(IKU) & APIN {d}NANNA-ME-TUM₂
+#lem:  u;    n;  mērešti[cultivated field]N; +Nanna-parṣi-šuluk[]PN$ 
+
+7.	 & 15 SAR & 2(U) <GUR> & 5 <SILA₃> &  & APIN é-a-i-ri-ba-am
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   mērešti[cultivated field]N; +Ea-iribam[]PN$ 
+
+8.	 & ŠUKU &  &  &  & DUMU-MEŠ ši-x-mil-lim
+#lem:  šukūs[subsistence (field)]N;     mārū[son]N; +Ši-xxx-millim[]PN$ 
+
+9.	 & 12 SAR & 1(U) 5(AŠ) <GUR> & 3 SÌLA &  & ti-iš-qàr ENGAR {d}SUEN-ka-ši-id
+#lem:  n; mūšar[unit]N;  n; n; kur[unit]N;  n; qā[unit]N;   +Tišqar[]PN$; ikkar[farmer]N; +Sin-kašid[]PN$ 
+$ single ruling
+10.	 & 4(IKU){gana₂} 17 [SAR] &  & 1(BARIG) 3(BAN₂) 8 <SILA₃> & 3(IKU)
+#lem:  n; n; mūšar[unit]N;   n; n; n; qā[unit]N;  n 
+
+11.	 & {iri?}x &  &  &  & x-mi-ṣum
+#lem:  u;     +xxx-miṣum[]GN$ 
+
+12.	 & 40 SAR & 2(U) 5(AŠ) <GUR> & 1(BAN₂) & [...] & ARAD-EŠ₈.TAR₂ ENGAR ip-qú-ša
+#lem:  n; mūšar[unit]N;  n; n; kur[unit]N;  n;  u;  +Warad-Ištar[]PN$; ikkar[farmer]N; Ipquša[1]PN 
+
+13.	 & 1(IKU) & 1(U) <GUR> & 2(BAN₂) 5 <SILA₃> & 1(IKU) & {d}UTU-DINGIR
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;  n;  +Šamaš-ilum[]PN$ 
+
+14.	 & 40 SAR & 1(U) 5(AŠ) <GUR> & 1(BAN₂) &  & gi-mil-lum ENGAR DINGIR-ra-bi
+#lem:  n; mūšar[unit]N;  n; n; kur[unit]N;  n;   Gimillum[1]PN; ikkar[farmer]N; +Ilum-rabi[]PN$ 
+
+15.	 & 1(IKU) & 1(U) <GUR> & 1(BAN₂) 6.2/3 <SILA₃> &  & APIN DINGIR-šu-ba-ni
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;   mērešti[cultivated field]N; Ilšu-bani[1]PN 
+
+16.	 & 1(IKU) & 1(U) 5(AŠ) <GUR> & 2(BAN₂) 8 <SILA₃> & 20 SAR & APIN a-píl-ša ù li-<iš-ta>-ši-im-DINGIR
+#lem:  n;  n; n; kur[unit]N;  n; n; qā[unit]N;  n; mūšar[unit]N;  mērešti[cultivated field]N; +Apilša[]PN$; u[and]CNJ; Lištašim-ilum[1]PN 
+
+17.	 & ŠUKU &  &  &  & ta-ri-bu-um
+#lem:  šukūs[subsistence (field)]N;     Taribum[1]PN 
+
+18.	 & 20 SAR & 1(U) <GUR> & 3.1/3 <SILA₃> &  & i₃-lí-URU₄!?
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; qā[unit]N;   +Ili-ereš[]PN$ 
+
+19.	 & 1(IKU) & 1(U) <GUR> & 1(BAN₂) 6.2/3 <SILA₃> &  & KI-1
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;   n 
+
+20.	 & 1(GEŠ₂){gana₂} & 1(U) 5(AŠ) <GUR> & 1(BAN₂) 5 <SILA₃> &  & KI-2 ma-a-šum
+#lem:  n;  n; n; kur[unit]N;  n; n; qā[unit]N;   n; +Mayyašum[]PN$ 
+
+21.	 & 1(GEŠ₂){gana₂} & 6(AŠ) <GUR> & 1(BAN₂) & 1/2(IKU) & it-ti-ta-x-qu
+#lem:  n;  n; kur[unit]N;  n;  n;  +Ittita-xxx-qu[]PN$ 
+
+22.	 & [1].30{gana₂} & 1(U) <GUR> & 1(BAN₂) 5 <SILA₃> &  & ma-an-na-šu ENGAR ⸢{d}UTU⸣-li-wi-ir
+#lem:  n;  n; kur[unit]N;  n; n; qā[unit]N;   Mannašu[1]PN; ikkar[farmer]N; Šamaš-liwir[1]PN 
+
+23.	 & [...] & 5(AŠ) <GUR> & 8.1/3 <SILA₃> & 1/2(IKU) & hu-up-pu-u₂ ENGAR a-[píl-ì]-lí-šu
+#lem:  u;  n; kur[unit]N;  n; qā[unit]N;  n;  +Huppu[]PN$; ikkar[farmer]N; +Apil-ilišu[]PN$ 
+$ single ruling
+24.	 & [...] & [...] & [...] & 2(IKU) 20 SAR
+#lem:  u;  u;  u;  n; n; mūšar[unit]N 
+
+25.	 & [...] & [...] & [...] & [...] & ha-ra-ab-x-x-x
+#lem:  u;  u;  u;  u;  +Harab-xxx[]SN$ 
+
+26.	 & [...] & [...] & [...] & [...] & {d}SUEN-URU₄
+#lem:  u;  u;  u;  u;  +Sin-ereš[]PN$ 
+
+27.	 & [...] & [...] & [...] & [...]
+#lem:  u; u;  u;  u 
+
+28.	 & [...] & [...] & [...] & [...] & [...]-a-é-a
+#lem:  u;  u;  u;  u;  +xxx-a-Ea[]PN$ 
+
+29.	 & [...] & [...] & [...] & [...] & [...] 1(BUR₃) 2(EŠE₃) 2(IKU){gana₂} 28 SAR 
+#lem:  u;  u;  u;  u;  u; n; n; n; n; mūšar[unit]N 
+
+30.	 &  &  &  &  & [...] 1(U) 5(AŠ)? <GUR> 1(BARIG) 4(BAN₂) SÌLA 5 GÍN 
+#lem:      u; n; n; kur[unit]N; n; n; qā[unit]N; n; šiqil[unit]N 
+
+31.	 &  &  &  &  & [...] $É $BU
+#lem:      u; u; u 
+
+$ 1 line blank
+32.	 & [...] & [...] & [...] & [...] & [...] $UD?
+#lem:  u;  u;  u;  u;  u; u 
+
+$ rest of column missing
+
+@translation parallel en project
+@obverse
+@column 1
+
+$ start of column broken
+1'.	 @& [...] @& [...] @& [...] @& 2 @iku @& Ahi-wedum, tenant-farmer of Šamaš-bani
+2'.	 @& [...] @& 5 @gur @& 5 @sila @& 1 1/2 @iku @& Nidnuša, tenant-farmer of Anna-ilum
+3'.	 @& [...] @& 5 @gur @& 10 @sila @& 2 @iku @& Ibbi-Ilabrat, tenant-farmer of Šamaš-bani
+4'.	 @& 6 @iku @& 10 @gur @& 60 @sila @& 3 @iku @& Cultivated land of Awil-Nammu
+5'.	 @& 6 @iku @& 10 @gur @& 60 @sila @& 12 @iku @& Cultivated land of Gimil-Marduk
+6'.	 @& 1/2 @iku @& 6 @gur @& 1 @sila @& 18 @iku @& Cultivated land of Mar-Amurrim
+7'.	 @& 55 @iku 15 @sar @& 6 @gur @& 3 @sila @&  @& Cultivated land of Awil-Ilabrat, @?son?@ of Ana-Sin-taklaku
+8'.	 @& 1 @iku @& 5 @gur @& 8 1/3 @sila @& 18 @iku @& Erṣetum-abi
+9'.	 @& 30 @sar @& 6 @gur @& 3 @sila @& 18 @iku @& Sin-ayyabaš
+10'.	 @& 2 @iku @& 6 @gur @& 20 @sila @& 18 @iku @& ...-Ištar
+11'.	 @& 2 @iku 80 @sar @& 20 @gur @& 93 1/3 @sila @& 54 @iku @& Habil-abi
+12'.	 @& 85 @sar @& 20 @gur @& 28 1/3 @sila @&  @& Iddin-Sin, tenant-farmer of Sin-ašareda
+$ single ruling
+13'.	 @& 66+ @iku [...] @sar @&  @& 200 1/2 @sila @& 58 @iku 20 @sar
+14'.	 @&5 [...] of Rahabum
+15'.	 @& [...] @&  @&  @& 10 @sar @& Ipquša
+16'.	 @& [...] @& [...] @&  @& 20 @sar @& @?Išime-šihhašu?@
+17'.	 @& [...] @& [...] @&  @&  @& Ubayyatum, tenant farmer of Zinatum
+18'.	 @& [...] @& [...] @& ... @&  @& Nur-Šamaš
+19'.	 @& [...] @& [...] @& ... @&  @& Talimum
+20'.	 @& [...] @& [...] @& ... @&  @& Sin-ušelli
+@column 2
+$ start of column broken
+1'.	 @& [...] @& [...] @& [...] @& [...] @& [...] ...
+2'.	 @& [...] @& [...] @& [...] @& [...] @& [... @?tenant-farmer of?@] Šamaš-bani
+3'.	 @& [...] @& [...] @& [...] @& [...] @& [...], tenant-farmer of Šamaš-liwir
+4'.	 @& [...] @& [...] @& [...] @& [...] @& [...] Nur-ilim
+5'.	 @& [...] @& [...] @& [...] @& [...] @& [...] ...
+$ single ruling
+6'.	 @& 24 @iku @& [...] @& [...] @& [...]
+7'.	 @&5 Tower of @?Biri-...-sum?@
+8'.	 @& 80 @sar @& 15 @gur @& 20 @sila @&  @& Sin-imguranni, tenant-farmer of Šamaš-liwir
+9'.	 @& 10 @sar @& 20 @gur @& 3 1/3 @sila @&  @& of Gimillum, tenant-farmer
+10'.	 @& 20 @sar @& 15 @gur @& 5 @sila @&  @& first
+11'.	 @& 75 @sar @& 15 @gur @& 1 @sila 15 shekels @&  @& second, Rim-Adad
+12'.	 @& 25 @sar @& 10 @gur @& 4 @sila 10 shekels @&  @& Ṣilli-Ninurta
+13'.	 @& 60 @sar @& 15 @gur @& 15 @sila @&  @& Warad-Amurrim
+$ single ruling
+14'.	 @& 2 @iku @&  @& @?48?@ 2/3 @sila, 5 shekels
+15'.	 @&5 Tower of Warad-ilišu
+16'.	 @& 4 1/2 @iku @& 12 @gur @& 90 @sila @& 2 @iku @& Ubar-...
+17'.	 @& 12 @iku @& @?10?@ gur @& 200 @sila @&  @& Apil-Damu
+18'.	 @& 6 @iku @& 11 @gur @& 100 @sila @& 2 @iku @& Yaʾunitum
+19'.	 @& 1 @iku @& 12 @gur @& 120 @sila @& 5 @iku @& Ubar-Šamaš
+20'.	 @& 3 1/2 @iku @& 12 @gur @& 70 @sila @&  @& Eteyatum
+21'.	 @& 3 1/2 @iku @& 12 @gur @& 70 @sila @&  @& @?Warad-Šamaš?@ ...
+22'.	 @& 3 1/2 @iku @& 12 @gur @& 70 @sila @&  @& Nur-Šamaš
+23'.	 @& 3 1/2 @iku @& 12 @gur @& 70 @sila @&  @& Sin-magir
+24'.	 @& 3 1/2 @iku @& 12 @gur @& 70 @sila @&  @& Dak...
+25'.	 @& 1 @iku @&  @&  @&  @& Gimil-Marduk
+26'.	 @& 60 @sar @& 20 @gur @& 120 @sila @&  @& second, Eteyatum, tenant-farmer of Ili-tukulti
+27'.	 @&  @&  @&  @& 5 @iku @& Apil-ilišu
+28'.	 @& ... @& 5 @gur @& 12 1/2 @sila @& 1 @iku @& Ubar-Sin, tenant-farmer of [...]
+@reverse
+@column 1
+1.	 @& 18 @iku @& 6 @gur @& 5 @sila @&  @& Cultivated land of Taribum
+2.	 @& 30 @sar @& 10 @gur @& 5 @sila @&  @& Cultivated land of I...
+3.	 @& 80 @sar @& 6 @gur @& 8 @sila @&  @& Cultivated land of Na....
+4.	 @& 80 @sar @& 20 @gur @& 26 2/3 @sila @&  @& Cultivated land of Im...
+5.	 @&5 Subsistence land of Ninurta-[...]
+6.	 @& 25 @sar @& 20 @gur @& 9 @sila @&  @& Kabta-illassu
+7.	 @& 54 @sar @& 20 @gur @& 18 @sila @&  @& Sin-magir, son of Lipit-Sin
+8.	 @& 1 @iku @& 12 @gur @& 20 @sila @&  @& Mar-erṣetim, son of Ea-puṭuri, tenant-farmer of Ahu-waqar
+9.	 @& 25 @sar @& 20 @gur @& 8 1/3 @sila @&  @& Cultivated land of Ali-waqrum
+10.	 @& 1 @iku @& 10 @gur @& 16 2/3 @sila @& 54 @iku @& Cultivated land of Šumum-libši
+12.	 @&5 Subsistence land of Rabut-Sin
+13.	 @& 1 @iku 20 @sar @& 5 @gur @& 10 @sila @&  @& Cultivated land of Šumum-libši
+14.	 @&5 Subsistence land of ...li-Anšan
+15.	 @& 1 @iku 20 [@sar] @& 5 @gur @& 10 @sila @&  @& [...] ...
+16.	 @& 90 @sar @& [...] @& 7 1/2 @sila @& 18 @iku @& [...]-ta
+17.	 @& 1 @iku @& [...] @&  @&  @& Šumum-libši
+18.	 @& 15 @sar @& 20 @gur @& 5 @sila @&  @& Cultivated land of the gardener
+19.	 @& 1 1/2 @iku @& 15 @gur @& 37 1/2 @sila @&  @& Cultivated land of Mar-erṣetim, son of Ziyatum
+20.	 @&  @&  @&  @& 18 @iku @& Ali-waqar
+21.	 @&  @&  @&  @& 1 @iku @& Cultivated land of Libluṭ
+22.	 @& 4 @iku @& 15 @gur @& 100+ @sila @&  @& Cultivated land of Ahi-ṭabum
+23.	 @&5 Subsistence land of Mar-erṣetim, physician
+24.	 @& 1 @iku 60 @sar @& 15 @gur @& 40 @sila @&  @& Mar-erṣetim, ox-driver
+25.	 @& 3 @iku @& 15 @gur @& 110 @sila @&  @& Cultivated-land of Ubar-... and Nuratum
+26.	 @& 1 1/2 @iku @& 15 @gur @& 27 1/2 @sila @&  @& Cultivated land of Nur-Belet-ili
+27.	 @& 90 @sar @& 15 @gur @& 22 1/2 @sila @&  @& Cultivated land of Perhum
+28.	 @& 1 @iku @& 15 @gur @& 25 @sila @& 18 @iku @& Cultivated land of Ninnutum
+29.	 @&5 Subsistence land of Ilšu-ibnišu
+30.	 @& 4 1/2 @iku @& 10 @gur @& 75 @sila @& 2 @iku @& Lištašim-ilum
+31.	 @& 60 @sar @& 15 @gur @& 5 @sila @&  @& Ili-zanini, tenant-farmer of Beliya
+32.	 @& 1 @iku 20 @sar @& 15 @gur @& 30 @sila @&  @& Iqišum, tenant-farmer of Walilum
+33.	 @& 3 @iku @& 10 @gur @& 50 @sila @&  @& Ubarrum, tenant-farmer of Ea-ṣilli
+34.	 @& 2 @iku 80 @sar @& 15 @gur @& 10 @sila @& 12 @iku @& Cultivated land of Apil-Sin
+35.	 @& 2 @iku @& 10 @gur @& 33 1/3 @sila @&  @& Cultivated land of Buni-abni and Ninnutum
+36.	 @&5 Subsistence land of Ili-ereš
+37.	 @& 2 @iku @& 10 @gur @& 33 1/3 @sila @&  @& [...], tenant-farmer of Sin-šeme
+38.	 @& 3 @iku @& 12 @gur @& [...] @&  @& @?First?@
+39.	 @& 18 @iku @& 12 @gur @& 30+ @sila @&  @& [@?Second?@, ...]-ia
+40.	 @& 2+ 1/2 @iku @& 12 @gur @& 230 @sila @& 6 @iku @& Cultivated land of [...]-ni
+41.	 @& [...] @sar @& 20 @gur @& 6 2/3 @sila @&  @& Cultivated land of Warad-Sin, gardener
+42.	 @&5 [@?Subsistence land of?@] Siyatum
+43.	 @& [...] @& [...] @& 3 1/3 @sila @&  @& First
+44.	 @& [...] @& [...] @& 70 @sila @&  @& [Second], cultivated land of Mar-erṣetim [...]
+45.	 @& [...] @& [...] @& [...] @& [...] @& Cultivated land of Mar-erṣetim ... [...]
+46.	 @& [...] @& [...] @& [...] @& [...] @& [Cultivated land of] Enlil-mudammiq
+$ rest of column missing
+@column 2
+1.	 @& [...] @&  @& 7 @gur 5/6 @sila @& 22 @iku 30 @sar
+2.	 @&5 @?Field(s)?@ of Damua
+3.	 @& 90 @sar @& 20 @gur @& 30 @sila @&  @& Cultivated land of Nur-ilišu
+4.	 @& [...] @& [...] @& [...] @& 80 @sar @& Cultivated land of Nabi-Enlil
+5.	 @& 3 @iku @& 12 @gur @& @?1 @gur?@ 60 @sila @& 60 @sar
+6.	 @& ... @&  @&  @& 2 @iku @& Cultivated land of Nanna-parṣi-šuluk
+7.	 @& 15 @sar @& 20 @gur @& 5 @sila @&  @& Cultivated land of Ea-iribam
+8.	 @&5 Subsistence land of the sons of @?Ši-...-millum?@
+9.	 @& 12 @sar @& 15 @gur @& 3 @sila @&  @& Tišqar, tenant-farmer of Sin-kašid
+$ single ruling
+10.	 @& 4 @iku 17 [@sar] @&  @& 98 @sila @& 3 @iku
+11. 	 @&5 @?Town of?@ ...-miṣum
+12.	 @& 40 @sar @& 25 @gur @& 10 @sila @& [...] @& Ward-Ištar, tenant-farmer of Ipquša
+13.	 @& 1 @iku @& 10 @gur @& 25 @sila @& 1 @iku @& Šamaš-ilum
+14.	 @& 40 @sar @& 15 @gur @& 10 @sila @&  @& Gimillum, tenant-farmer of Ilum-rabi
+15.	 @& 1 @iku @& 10 @gur @& 16 2/3 @sila @&  @& Cultivated land of Ilšu-bani
+16.	 @& 1 @iku @& 15 @gur @& 28 @sila @& 20 @sar @& Cultivated land of Apilša and @?Lištašim?@-ilum
+17.	 @&5 Subsistence land of Taribum
+18.	 @& 20 @sar @& 10 @gur @& 3 1/3 @sila @&  @& Ili-ereš
+19.	 @& 1 @iku @& 10 @gur @& 16 2/3 @sila @&  @& First
+20.	 @& 60 @sar @& 15 @gur @& 15 @sila @&  @& Second, Mayyašum
+21.	 @& 60 @sar @& 6 @gur @& 10 @sila @& 1/2 @iku @& @?Ittita...qu?@
+22.	 @& 90 @sar @& 10 @gur @& 15 @sila @&  @& Mannašu, tenant-farmer of Šamaš-liwir
+23.	 @& [...] @& 5 @gur @& 8 1/3 @sila @& 1/2 @iku @& Huppu, tenant-farmer of Apil-ilišu]
+$ single ruling
+24.	 @& [...] @& [...] @& [...] @& 2 @iku 20 @sar
+25.	 @&5 [...] of Harab... 
+26.	 @& [...] @& [...] @& [...] @& [...] @& Sin-ereš
+$ single ruling
+27.	 @& [...] @& [...] @& [...] @& [...]
+28.	 @& [...] @& [...] @& [...] @& [...] @& [...]a-Ea
+29.	 @& [...] @& [...] @& [...] @& [...] @& 22+ @iku 28 @sar
+30.	 @& [...] @& [...] @& [...] @& [...] @& 15+ @gur 100 @sila 5 shekels
+31.	 @& [...] @& [...] @& [...] @& [...] @& [...] ...
+$ 1 line blank
+32.	 @& [...] @& [...] @& [...] @& [...] @& [...] ...
+$ rest of column missing
+
+

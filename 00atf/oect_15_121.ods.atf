@@ -1,0 +1,144 @@
+&P347464 = OECT 15, 121
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+# Ashmolean 1923.340
+
+@tablet
+@obverse
+1.	| šu-ku-un-na A.GÀR a-a-ni-a-tim ù A.GÀR DAM-la-ga-nu
+#lem:  šukunnā[estimated yield]N; +ugāru[(communally controlled) meadow]N$ugār; +Ayyaniatum[]GN$Ayyaniatim; u[and]CNJ; ugār[(communally controlled) meadow]N; +Dam-laganum[]GN$Dam-laganu 
+
+2.	| A.ŠÀ É {d}NANNA ù UKU.UŠ-MEŠ ša AB.SÍN iš-ta-ad-du
+#lem:  eqel[field]N; bīt[temple]N; Nanna[1]DN; u[and]CNJ; rēdî[soldier]N; ša[that]REL; šerʾātim[furrow]N; +nadû[throw//abandon]V'V$ištaddû 
+
+3.	| {iri}šu-un-na-mu-un-dím{ki}
+#lem:  +Šunnamundim[]SN$ 
+
+4.	| GÚ {íd}al-bi-an-na BAL.RI a-a-bi
+#lem:  ah[bank]N; +Albianna[]WN$; eberti[other side]N; ayyābī[enemy]N 
+
+$ single ruling
+5.	 & AB.SÍN  & NÍG.GAR & ŠE-BI & ŠE NU & AB.SÍN  & NÍG.GAR  & ŠE-BI & ŠE NU & MU-BI.IM
+#lem:  šerʾātum[furrow]N;  šukunnûm[estimated yield]N;  šeʾšu[grain]N;  +šeʾu[barley//grain]N'N$šeʾum; lā[not]MOD;  šerʾātum[furrow]N;  šukunnûm[estimated yield]N;  šeʾšu[grain]N;  šeʾum[grain]N; lā[not]MOD;  šumšu[name]N 
+
+6.	 &4 NÍG É.GAL &4 NÍG É {d}NANNA 
+#lem:  būš[property]N; ēkallim[palace]N;  būš[property]N; bīt[temple]N; Nanna[1]DN 
+
+$ single ruling
+7.	 &  &  &  &  & 1(BUR₃) 2(IKU) & 3(U) <GUR> & 3(U) 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & ÉŠ.GÀR i-din-{d}UTU ENSÍ ša ma-la ; i-li-a-am ša-ak-nu
+#lem:      n; n;  n; kur[unit]N;  n; n; kur[unit]N; n; n;   iškār[work assignment]N; Iddin-Šamaš[1]PN; iššiakkim[(a class of farmer)]N; ša[that]REL; mala[as much as]'SBJ; īliam[go up]V; +šaknu[placed//set]AJ'AJ$ 
+
+8.	 & 3(IKU) & 1(U) <GUR> & 4(BARIG) 1(BAN₂) &  & 3(IKU) & 1(U) <GUR> & 4(BARIG) 1(BAN₂) &  & KI-1
+#lem:  n;  n; kur[unit]N;  n; n;   n;  n; kur[unit]N;  n; n;   n 
+
+9.	 & 1(EŠE₃) 4(IKU) & 3(U) <GUR> & 8(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & 1(EŠE₃) 4(IKU) & 3(U) <GUR> & 8(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & KI-2 ap-lum DUMU {m}a-hu-um
+#lem:  n; n;  n; kur[unit]N;  n; kur[unit]N; n; n;   n; n;  n; kur[unit]N;  n; kur[unit]N; n; n;   n; +Aplum[]PN$; mār[son]N; +Ahum[]PN$ 
+
+10.	 & 5(IKU) & 3(U) <GUR> & 4(AŠ) <GUR> 5(BAN₂) &  & 5(IKU) & 3(U) <GUR> & 4(AŠ) <GUR> 5(BAN₂) &  & i-din-{d}SUEN GÌR.NÍTA ki-ip-ra-am{ki}
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n;   n;  n; kur[unit]N;  n; kur[unit]N; n;   +Iddin-Sin[]PN$; +šakkanakku[(military) governor]N$šakkanakki; +Kipram[]SN$ 
+
+11.	 & 15 <SAR> & 2(U) <GUR> & 2(BAN₂) 5 <SILA₃> &  & 15 <SAR> & 1(U) <GUR> & 2(BAN₂) 5 <SILA₃> &  & a-ha-nir-ši na-ap-pi₂-lum
+#lem:  n; mūšar[unit]N;  n; kur[unit]N;  n; n; qā[unit]N;   n; mūšar[unit]N;  n; kur[unit]N;  n; n; qā[unit]N;   +Aha-nirši[]PN$; +nāpilu[(an excavator?)]N$nappilum 
+
+12.	 & 1(IKU) 1.20 <SAR> & 3(U) <GUR> & 1(AŠ) <GUR> 2(BARIG) 3(BAN₂) &  & 1(IKU) 1.20 <SAR> & 3(U) <GUR> & 1(AŠ) <GUR> 2(BARIG) 3(BAN₂) &  & nu-rum-li-ṣi LÚ šu-na-mu-un-dím{ki}
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n; kur[unit]N; n; n;   n; n; mūšar[unit]N;  n; kur[unit]N;  n; kur[unit]N; n; n;   +Nurum-liṣi[]PN$; +awīlu[man//citizen]N'N$awīl; +Šunnamundim[]SN$ 
+
+13.	 & 1(IKU) 20 <SAR> & 3(U) <GUR> & 1(AŠ) <GUR> &  & 1(IKU) 20 <SAR> & 3(U) <GUR> & 1(AŠ) <GUR> &  & {d}SUEN-SIPA ù {d}SUEN-tám-kà-ri
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n; kur[unit]N;   n; n; mūšar[unit]N;  n; kur[unit]N;  n; kur[unit]N;   Sin-reʾum[1]PN; u[and]CNJ; +Sin-tamkari[]PN$ 
+
+14.	 & 2(IKU) & 3(U) <GUR> & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) &  & 2(IKU) & 3(U) <GUR> & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) &  & bé-e-ta-a ù {d}SUEN-ma-gir
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;   n;  n; kur[unit]N;  n; kur[unit]N; n; n;   +Betaya[]PN; u[and]CNJ; +Sin-magir[]PN$ 
+
+15.	 & 1(EŠE₃) 1(IKU) 1/2(IKU) & 3(U) <GUR> & 6(AŠ) <GUR> 1(BARIG) 1(BAN₂) 5 <SILA₃> &  & 1(EŠE₃) 1(IKU) 1/2(IKU) & 3(U) <GUR> & 6(AŠ) <GUR> 1(BARIG) 1(BAN₂) 5 <SILA₃> &  & ì-lí-i-din-nam NU.BANDÀ LÚ šu-na-mu-un-dím{ki}
+#lem:  n; n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;   n; n; n;  n; kur[unit]N;  n; kur[unit]N; n; n; n; qā[unit]N;   Ili-idinnam[1]PN; +laputtû[lieutenant]N$laputtûm; +awīlu[man//citizen]N'N$awīl; Šunnamundim[1]SN 
+
+16.	 & 3(IKU) & 3(U) <GUR> & 2(AŠ) <GUR> 2(BARIG) 3(BAN₂) &  & 3(IKU) & 3(U) <GUR> & 2(AŠ) <GUR> 2(BARIG) 3(BAN₂) &  & a-wi-il-{d}IŠKUR ù a-píl-{d}MAR.TU
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;   n;  n; kur[unit]N;  n; kur[unit]N; n; n;   +Awil-Adad[]PN$; u[and]CNJ; +Apil-Amurrim[]PN$ 
+
+17.	 &  &  &  &  & 1(EŠE₃) 1(IKU) 1/2(IKU) & 2(U) <GUR> & 4(AŠ) <GUR> 5(BAN₂) &  & APIN {d}SUEN-⸢ma⸣-[gir? ...]
+#lem:      n; n; n;  n; kur[unit]N;  n; kur[unit]N; n;   mērešti[cultivated field]N; +Sin-magir[]PN$; u 
+
+@bottom
+1.	 &  &  &  &  & 1(EŠE₃) & 2(U) <GUR> & 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & APIN ṣi-lí-⸢{d}⸣[...]
+#lem:      n;  n; kur[unit]N;  n; kur[unit]N; n; n;   mērešti[cultivated field]N; +Ṣilli-xxx[]PN$ 
+
+2.	 & 1(BUR₃) 1(IKU) 1/2(IKU)  & 2(U) <GUR> & 1(U) <GUR> 4(BARIG) 1(BAN₂) &  &  &  &  &  & APIN nu-rum-li-[ṣi ...]
+#lem:  n; n; n;  n; kur[unit]N;  n; kur[unit]N; n; n;       mērešti[cultivated field]N; Nurum-liṣi[1]PN; u 
+
+@reverse
+1.	 &  &  &  &  & 1(BUR₃) 2(IKU) &  & 3(U) 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & ÉŠ.GÀR {d}NANNA ša ma-la i-⸢li⸣-[a-am ša-ak-nu?]
+#lem:      n; n;   n; n; kur[unit]N; n; n;   iškār[work assignment]N; Nanna[1]DN; ša[that]REL; mala[as much as]'SBJ; īliam[go up]V; šaknu[set]AJ 
+
+2.	 & 2(BUR₃) 2(EŠE₃) 5(IKU) 15 <SAR> &  & 3(U) 7(AŠ) <GUR> 1(BARIG) &  & 2(BUR₃) 1(EŠE₃)! 5(IKU)! 15 <SAR> &  & 3(U) 1(AŠ) <GUR> 4(BARIG) 1(BAN₂) &  & APIN LÚ DIDLI NÍG.KU₅ ŠU.RI.A
+#lem:  n; n; n; n; mūšar[unit]N;   n; n; kur[unit]N; n;   n; n; n; n; mūšar[unit]N;   n; n; kur[unit]N; n; n;   mērešti[cultivated field]N; awīlī[man]N; wēdûtim[prominent]AJ; mikis[tax (on produce)]N; mišlānī[half (shares)]N 
+
+3.	 &  &  &  &  & 2(BUR₃) 2(EŠE₃) 5(IKU) 1.05 <SAR> &  & 1(GEŠʾU) 2(AŠ) <GUR> 1(BARIG) 4(BAN₂) &  & NÍG É {d}NANNA
+#lem:      n; n; n; n; mūšar[unit]N;   n; n; kur[unit]N; n; n;   būš[property]N; bīt[temple]N; Nanna[1]DN 
+
+$ single ruling
+4.	| A.GÀR a-a-ni-a-tum{ki} A.GÀR DAM-la-ga-nu-um
+#lem:  ugār[(communally controlled) meadow]N; +Ayyaniatum[]GN$; ugār[(communally controlled) meadow]N; +Dam-laganum[]GN$ 
+
+5.	| {iri}šu-un-na-mu-un-dím{ki}
+#lem:  +Šunnamundim[]SN$ 
+
+$ single ruling
+6.	| GÌR {d}UTU-ha-zi-ir {d}AMAR.UTU-na-ṣir ù ŠÀ.TAM-MEŠ
+#lem:  šēp[responsibility]N; Šamaš-hazir[1]PN; +Marduk-naṣir[]PN$; u[and]CNJ; +šatammu[administrator//government auditor]N'N$šatammī 
+
+7.	| {iti}SIG₄.A U₄ 22-KAM
+#lem:  Simanum[1]MN; ūm[day]N; n 
+
+8.	| %s mu ha-am-mu-ra-bi lugal-e
+#lem:  mu[year]; Hammurabi[1]; lugal[king] 
+
+9.	| %s bàd ma-ri{ki} ù mà-al-gi₄-a{ki}
+#lem:  bad[wall]; Mari[]SN; u[and]; Malgium[]SN 
+
+10.	| %s mu-un-gul-la
+#lem:  gul[destroy] 
+
+@translation parallel en project
+@obverse
+1.	| Estimated yield of the Ayyaniatum meadow and @?Dam-laganum?@ meadow.
+2.	| Fields belonging to Nanna's temple and to soldiers, in which cultivation has been abandoned
+3.	| Sunnamundim town
+4.	| Next to Albianna river on the opposite bank to the enemy. 
+$ single ruling
+5.	 @& Furrowed (area) @& Yield rate @& Its grain @& No grain @& Cultivated area @& Yield rate  @& Its grain @& No grain @& Its name
+6.	 @&4 Property of the palace @&4 Property of Nanna's temple
+$ single ruling
+7.	 @&  @&  @&  @&  @& 20 @iku @& 30 (@gur) @& 33 @gur 100@sila  @&  @& Work assignment of Idin-Šamas, agricultual-middle-man, that was set for whatever comes up.
+8.	 @& 3 @iku @& 10 (@gur) @& 250 @sila @&  @& 3 @iku @& 10 (@gur) @& 250 @sila @&  @& First time
+9.	 @& 10 @iku @& 30 (@gur) @& 8 @gur 100 @sila @&  @& 10 @iku @& 30 (@gur) @& 8 @gur 100 @sila @&  @& Second time, Aplum, son of Ahum
+10.	 @& 5 @iku @& 30 (@gur) @& 4 @gur 50 @sila @&  @& 5 @iku @& 30 (@gur) @& 4 @gur 50 @sila @&  @& Iddin-Sin, governor of Kipram
+11.	 @& 15 (@sar) @& 20 (@gur) @& 25 @sila @&  @& 15 (@sar) @& 20 (@gur) @& 25 @sila @&  @& Aha-nirši, excavator
+12.	 @& 1 @iku 80 (@sar) @& 30 (@gur) @& 1 @gur 150 @sila @&  @& 1 @iku 80 (@sar) @& 30 (@gur) @& 1 @gur 150 @sila @&  @& Nurum-liṣi, man of Šunnamundim
+13.	 @& 1 @iku 20 (@sar) @& 30 (@gur) @& 1 @gur @&  @& 1 @iku 20 (@sar) @& 30 (@gur) @& 1 @gur @&  @& Sin-reʾum and Sin-tamkari
+14.	 @& 2 @iku @& 30 (@gur) @& 1 @gur 200 @sila @&  @& 2 @iku @& 30 (@gur) @& 1 @gur 200 @sila @&  @& Betaya and Sin-magir
+15.	 @& 7 1/2 @iku @& 30 (@gur) @& 6 @gur 85 @sila @&  @& 7 1/2 @iku @& 30 (@gur) @& 6 @gur 85 @sila @&  @& Ili-iddinam, lieutenant, man of Šunnamundim
+16.	 @& 3 @iku @& 30 (@gur) @& 2 @gur 150 @sila @&  @& 3 @iku @& 30 (@gur) @& 2 @gur 150 @sila @&  @& Awil-Adad, and Apil-Amurrim
+17.	 @&  @&  @&  @&  @& 7 1/2 @iku @& 20 (@gur) @& 4 @gur 50 @sila @&  @& Cultivated land of Sin-@?magir?@
+@bottom
+1.	 @&  @&  @&  @&  @& 6 @iku @& 20 (@gur) @& 3 @gur 100@sila  @&  @& Cultivated land of Ṣilli-[...]
+2.	 @& 19 1/2 @iku @& 20 (@gur) @& 10 @gur 250 @sila @&  @&  @&  @&  @&  @& Cultivated land of Nurum-liṣi
+@reverse
+1.	 @&  @&  @&  @&  @& 20 @iku @& <30 (@gur)> @& 33 @gur 100 @sila  @&  @& Work assignment of Nanna that was set for whatever comes up
+2.	 @& 53 @iku 15 (@sar) @&  @& 37 @gur 60 @sila @&  @& 47 @iku 15 (@sar) @&  @& 31 @gur 250 @sila @&  @& Cultivated land of prominent men, the land-owners' half-shares
+3.	 @&  @&  @&  @&  @& 53 @iku 65 (@sar) @&  @& 62 @gur 100 @sila @&  @& Property of Nanna's temple
+$ single ruling
+4.	| Ayyaniatum meadow, @?Dam-laganum?@ meadow, 
+5.	| Šunnamundim town.
+$ single ruling
+6.	| Under the authority of Šamaš-hazir, Marduk-naṣir and the auditors.
+7.	| Simanum (Month IV), day 22
+8.	| Year: Hammurabi the king
+9.	| the wall of Mari and Malgium
+10.	| destroyed
+
+

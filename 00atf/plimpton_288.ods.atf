@@ -1,0 +1,77 @@
+&P412472 = CULC 426
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+@tablet
+@obverse
+1.	 & GU₄-HI.A & {še}MUR.GU₄ & LAL₂ & DUH & LAL₂ & IN.NU.DA & LAL₂ & MU-BI.IM
+#lem:  alpū[bull]N;  imrûm[fodder]N;  ribbatum[arrears]N;  +tuhhu[residue//bran]N'N$tuhhum;  ribbatum[arrears]N;  tibnum[straw]N;  ribbatum[arrears]N;  šumšu[name]N 
+
+#note: I thank Gertrud and Walter Farber for the reading of ŠE.MUR.GU₄ in this line.
+$ single ruling
+2.	 & 2.44 & 1(AŠ) <GUR> 2(BARIG) 1(BAN₂) 7? <SILA₃>  &  & 1(AŠ) <GUR> 3(BARIG) 1(BAN₂) 2 <SILA₃>  &  & 5(AŠ) <GUR> &  & {d}EN.KI-ma-lik
+#lem:  n;  n; kur[unit]N; n; n; n; +qû[unit]N$qā;   n; kur[unit]N; n; n; n; qā[unit]N;   n; kur[unit]N;   +Ea-malik[]PN$ 
+
+$ 1 blank line
+4.	 & NÍG.Ú.RUM &  &  &  &  &  &  & {d}EN.LÍL
+#lem:  namkūr[property]N;        Enlil[1]DN 
+
+5.	 & 3.50 & 1(AŠ) <GUR> 4(BAN₂)! &  & 2(AŠ) <GUR> & 1(BARIG) 3(BAN₂)  & 6(AŠ) <GUR> &  & i-din-⸢{d}UTU⸣
+#lem:  n;  n; kur[unit]N; n;   n; kur[unit]N;  n; n;  n; kur[unit]N;   Iddin-Šamaš[1]PN 
+
+$ 1 blank line
+7.	 & NÍG.Ú.RUM &  &  &  &  &  &  & {[d]}UTU
+#lem:  namkūr[property]N;        Šamaš[]DN 
+
+8.	 & 16 & 3(BAN₂) &  & 3(AŠ) <GUR> & 2(BAN₂) &  &  & ia-ú
+#lem:  n;  n;   n; kur[unit]N;  n;    yāʾu[mine]PP 
+
+$ 1 blank line
+10.	 & NÍG.Ú.RUM &  &  &  &  &  &  & {d}NANNA ŠA₃ URIM₂{ki}
+#lem:  namkūr[property]N;        +Nanna[]DN$; qereb[centre]N; +Ur[]SN$ 
+
+$ 1 blank line
+@bottom
+1.	 & NÍG.Ú.RUM &  &  &  &  &  &  & DINGIR-RE.E.NE
+#lem:  namkūr[property]N;        +ilu[god]N$ilāni 
+
+@reverse
+$ several lines blank
+$ single ruling
+1.	| {iti}DU₆.KÙ KI-3 U₄ 26-KAM
+#lem:  Tašritum[1]MN; n; ūm[day]N; n 
+
+2.	| %s mu ki-2 {ŋeš}tukul mah an {d}en-líl {d}en-ki-ga-<ta>
+#lem:  mu[year]; n; tukul[weapon]; mah[great]; An[1]; Enlil[1]; Enki[1] 
+
+3.	| %s ì-si-in{ki} iri nam-lugal-[la] in-dab-ba
+#lem:  Isin[1]; iri[city]; namlugal[kingship]; dab[seize]                                                                                                     
+
+@translation parallel en project
+@obverse
+1.	 @& Bulls @& Fodder @& Arrears @& Bran @& Arrears @& Straw @& Arrears @& Its name
+$ single ruling
+2.	 @& 2 44 @& 1 @gur @?137?@ @sila @&  @& 1 @gur 192 @sila @&  @& 5 @gur @&  @& Ea-malik
+$ 1 blank line
+4.	 @&8 Property of Enlil
+5.	 @& 3 50 @& 1 @gur 40 @sila @&  @& 2 @gur @& 90 @sil @& 6 @gur @&  @& Iddin-Šamaš
+$ 1 blank line
+7.	 @&8 Property of Šamaš
+8.	 @& 16 @& 30 @sila @&  @& 3 @gur @& 20 @sila @&  @&  @& Mine
+$ 1 blank line
+10.	 @&8 Property of Nanna of Ur
+$ 1 blank line
+@bottom
+1.	 @&8 Property of the gods
+@reverse
+$ several lines blank
+$ single ruling
+1.	 @&8 Tašritum (Month VI), third, day 26.
+2.	 @&8 Year: the second after which with the great weapon of An, Enlil and Enki
+3.	 @&8 he seized Isin, city of kingship.
+
+

@@ -1,0 +1,283 @@
+@project obta
+@lang sux
+@name obta, sux
+
+@letter A
+
+@entry adam [habitation] N
+@bases a₂-dam
+@form a₂-dam $adam /a₂-dam #~
+@sense N habitation
+@end entry
+
+@entry anamea [everything] N
+@bases a-na-me-a-bi
+@form a-na-me-a-bi $anamea /a-na-me-a-bi #~
+@sense N everything
+@end entry
+
+@letter B
+
+@entry bad [wall] N
+@bases bad₃
+@form bad₃ $bad /bad₃ #~
+@sense N wall
+@end entry
+
+@letter D
+
+@entry dab [seize] V/t
+@bases dab₅
+@form in-dab-ba /dab₅ #V.n:~;a
+@form in-dab₅-ba /dab₅ #V.n:~;a
+@form i₃-dab /dab₅ #V.n:~
+@sense V/t to seize, take, hold
+@end entry
+
+@entry daŋal [wide] V/i
+@bases daŋal
+@form daŋal-la-be₂-še₃ $V.da:daŋal /daŋal #V.da:~
+@form daŋal-la-be₂-eš $V.da:daŋal /daŋal #V.da:~
+@form daŋal-bi $daŋal;*a,bi /daŋal #~;*a,bi
+@sense V/i (to be) wide
+@end entry
+
+@entry didli [several] AJ
+@bases didli
+@form didli-bi $didli /didli #~
+@form didli $didli /didli #~
+@sense AJ several, various
+@end entry
+
+@entry duri [forever] AJ
+@bases du-ri₂
+@form du-ri₂-še₃ $duri,eše /du-ri₂ #~,eše
+@sense AJ forever
+@end entry
+
+@letter E
+
+@entry e [leave] V/i
+@bases e₃
+@form bi₂-in-e₃-a $ba.i.n:e;a /e₃ #ba.i.n:~;a
+@sense V/i to leave, go out
+@end entry
+
+@letter G
+
+@entry gi [turn] V/i
+@bases gi
+@form bi₂-gi $ba.i:gi /gi #ba.i:~
+@sense V/i to turn, return
+@end entry
+
+@entry gul [destroy] V/t
+@bases gul
+@form mu-un-gul-la $V.b:gul /gul #V.b:~
+@form mu-un-gul-la₂ $V.b:gul /gul #V.b:~
+@form mu-un-gul-e $mu.n:gul;e /gul #mu.n:~;e
+@sense V/t to destroy
+@end entry
+
+@letter Ŋ
+
+@entry ŋar [place] V/t
+@bases ŋar
+@form in-ŋar-ra $V.n:ŋar;a /ŋar +-ra=r.a #V.n:~;a
+@sense V/t to put, place, lay down
+@end entry
+
+@entry ŋeš [tree] N
+@bases ŋeš
+@form ŋeš-bi $ŋeš,bi /ŋeš #~,bi
+@sense N tree
+@end entry
+
+@letter I
+
+@entry inim [word] N
+@bases inim
+@form inim $inim /inim #~
+@sense N word
+@end entry
+
+@entry iri [city] N
+@bases iri; iri{ki}
+@form iri-še₃ $iri,eše /iri #~,eše
+@form iri $iri /iri #~
+@form iri{ki} $iri /iri{ki} #~
+@sense N city
+@end entry
+
+@letter K
+
+@entry kalag [strong] V/i
+@bases kalag
+@form kalag-ga $kalag;a /kalag +-ga=g.a #~;a
+@sense V/i strong
+@end entry
+
+@entry kugsig [gold] N
+@bases kug-sig₁₇
+@form kug-sig₁₇ $kugsig /kug-sig₁₇ #~
+@sense N gold
+@end entry
+
+@entry kur [mountain] N
+@bases kur
+@form kur $kur /kur #~
+@sense N land, country
+@end entry
+
+@letter L
+
+@entry lugal [king] N
+@bases lugal
+@form lugal $lugal /lugal #~
+@form lugal-e $lugal,e /lugal #~,e
+@sense N king
+@end entry
+
+@letter M
+
+@entry mah [great] V/i
+@bases mah
+@form mah $mah /mah #~
+@sense V/i great
+@end entry
+
+@entry mu [name] N
+@bases mu
+@form mu $mu /mu #~
+@sense N name
+@end entry
+
+@entry mu [year] N
+@bases mu
+@form mu $mu /mu #~
+@sense N year
+@end entry
+
+@letter N
+
+@entry namlugal [kingship] N
+@bases nam-lugal
+@form nam-lugal-la $namlugal,ak /nam-lugal +-la=l.a #~,ak
+@form nam-lugal-bi $namlugal,bi /nam-lugal #~,bi
+@sense N kingship
+@end entry
+
+@entry namtil [life] N
+@bases nam-ti-il
+@form nam-ti-la $namtil /nam-ti-il #~
+@sense N life
+@end entry
+
+@letter R
+
+@entry rah [beat] V/t
+@bases rah₂-rah₂
+@form bi₂-rah-a $V.b.da:rah /rah₂-rah₂ #V.b.da:~
+@sense V/t to beat, kill
+@end entry
+
+@letter S
+
+@entry saŋ [head] N
+@bases saŋ
+@form saŋ $saŋ /saŋ #~
+@sense N head
+@end entry
+
+@entry saŋ ŋeš rah [kill] V/t
+@parts saŋ[head]N ŋeš[tree]N rah[beat]V/t
+@form saŋ_ŋeš-bi_bi₂-rah-a $saŋ $ŋeš,bi $V.b.da:rah
+@sense V/t to kill
+@end entry
+
+@entry sipad [shepherd] N
+@bases sipad
+@form sipad $sipad /sipad #~
+@sense N shepherd
+@end entry
+
+@letter Š
+
+@entry šu [hand] N
+@bases šu
+@form šu $šu /šu #~
+@sense N hand
+@end entry
+
+@entry šu ŋar [spare] V/t
+@parts šu[hand]N ŋar[place]V/t
+@form šu_in-ŋar-ra $šu $V.n:ŋar;a
+@sense V/t spare
+@end entry
+
+@entry šum [give] V/t
+@bases šu-mu
+@form mu-un-na-šum₂-ma-ta $šum;en.a /šu-mu #~;en.a
+@sense V/t to give
+@end entry
+
+@entry šuniŋin [total] N
+@bases šu-niŋin₂
+@form šu-nigin $šuniŋin /šu-niŋin₂ #~
+@sense N total, sum
+@end entry
+
+@entry šunir [emblem] N
+@bases šu-nir
+@form šu-nir $šunir /šu-nir #~
+@sense N emblem
+@end entry
+
+@letter T
+
+@entry tukul [weapon] N
+@bases {ŋeš}tukul
+@form {ŋeš}tukul $tukul /{ŋeš}tukul #~
+@sense N weapon
+@end entry
+
+@letter U
+
+@entry u [and] CNJ
+@bases u₃
+@form u₃ $u /u₃ #~
+@sense CNJ and
+@end entry
+
+@entry ugu [skull] N
+@bases ugu
+@form ugu $ugu /ugu #~
+@sense N on, over, above
+@end entry
+
+@entry uŋ [people] N
+@bases uŋ₃
+@form uŋ₃ $uŋ /uŋ₃ #~
+@sense N people
+@end entry
+
+@entry us [follow] V/t
+@bases us₂
+@form us₂-sa $us;a /us₂ +-sa=s.a #~;a
+@sense V/t to accompany, follow
+@end entry
+
+@entry usu [strength] N
+@bases usu
+@form usu $usu /usu #~
+@sense N strength
+@end entry
+
+@letter Z
+
+@entry zid [right] V/i
+@bases zid
+@form zid $zid /zid #~
+@sense V/i (to be) right, true, loyal
+@end entry
+

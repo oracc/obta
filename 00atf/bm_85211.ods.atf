@@ -1,0 +1,138 @@
+&P412466 = BM 085211
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+@tablet
+@obverse
+1.	 & UŠ & SAG [AN.NA] & [SAG] & [GAM] & [SAHAR] & [SAHAR-HI].A# & LÚ
+#lem:  +šiddu[(longer) side]N$šiddum;  +pūtu[forehead//front (side)]N'N$pūtum; +elû[upper]N$elûm;  pūtum[front (side)]N;  +šuplu[depth]N$šuplum;  +eperu[earth//volume]N'N$eperum;  +eperu[earth//volume]N'N$eperū;  +awīlu[man]N$awīlum 
+#note: I am indebted to Zsombor Földi for many improvements in the reading of this text.
+2.	 & 40 & 15# & [...] & [...] & [...] & [x] SAR# & iš-tu ša DUMU.MUNUS i-šar-li!-im! ; [...] $DIRI ša DINGIR-šu-ba-ni
+#lem:  n;  n;  u;  u;  u;  u; mūšar[unit]N;  ištu[from]PRP; ša[that]REL; +mārtu[daughter]N$mārat; +Išar-Lim[]PN$; u; u; ša[of]DET; +Ilšu-bani[]PN$ 
+
+3.	 & 3.35# & [...] & [...] & [...] & [...] & [1(IKU)]{gana₂#} 11.2/3 <SAR> & a-di EG₂ ša ; mu#-ha#-ad-di-im?!
+#lem:  n;  u;  u;  u;  u;  n; n; mūšar[unit]N;  adi[as far as]PRP; +īku[dyke]N$īkim; ša[of]DET; +Muhaddum[]PN$Muhaddim 
+
+4.	 & 2#.30# & [...] & [...] & [...] & [...] & 1(IKU){gana₂} 5.2/3 <SAR> & 1-KAM
+#lem:  n;  u;  u;  u;  u;  n; n; mūšar[unit]N;  n 
+
+5.	 & 30 & [...] & [...] & [...] & [...] & 10 SAR & 2-KAM
+#lem:  n;  u;  u;  u;  u;  n; mūšar[unit]N;  n 
+
+6.	 & 10 & [...] & [...] & [...] & [...] & 5.5/6 <SAR> & <3-KAM>
+#lem:  n;  u;  u;  u;  u;  n; mūšar[unit]N;  n 
+
+7. 	 &6 7.25# [NINDA UŠ ...] SAR# 2.1/2 GÍN a-di na-ba-hu# [(...)]
+#lem:  n; +nindanu[unit]N$nindan; +šiddu[(longer) side]N$šiddim; u; mūšar[unit]N; n; šiqil[unit]N; +adi[until//as far as]PRP'PRP$; +Nabahu[]GN$; u 
+
+8.	 & 3#.15#  & 20# & 15# & [...] & [...] &2 1(IKU){gana₂} 13.2/3 SAR 5 GIN₂ ; ša# {d#}AMAR#.UTU#-mu#-[ša-lim]
+#lem:  n;  n;  n;  u;  u;  n; n; mūšar[unit]N; n; šiqil[unit]N; ša[of]DET; +Marduk-mušallim[]PN$ 
+
+9.	 & 1.40 & [...] & [...] & [...] & [...] & [...] SAR & [...]
+#lem:  n;  u;  u;  u;  u;  u; mūšar[unit]N;  u 
+
+$ several lines missing
+1'.	 & 3 & 20 & 15 & 1.30 <KUŠ₃> & ⸢26.15⸣  & 1(IKU){gana₂} 18.1/3 [SAR] & [...]
+#lem:  n;  n;  n;  n; +ammatu[forearm//unit]N'N$ammat;  n;  n; n; mūšar[unit]N;  u 
+
+2'.	 & 3 & 20 & ($ erasure $) & 1 <KUŠ₃> & 20 & 1(IKU){gana₂} & 
+#lem:  n;  n;   n; ammat[unit]N;  n;  n  
+
+3'.	 &  &5 9.10 NINDA UŠ 2(IKU){gana₂} 33.1/2 SAR SAHAR-HI.A
+#lem:   n; +nindanu[unit]N$nindan; +šiddu[(longer) side]N$šiddim; n; n; mūšar[unit]N; +eperu[earth//volume]N'N$eperī 
+
+4'.	 &  &5 iš-tu ša ha-ṭi-mu-a-bi-im a-di A.AB.BA $AL?
+#lem:   ištu[from]PRP; ša[that]REL; +Haṭimu-abim[]PN$; adi[as far as]PRP; +tiāmtu[sea//marsh]N'N$tiāmtim; u 
+
+5'.	 &  &5 1/3 DANNA!(KASKAL) 4.20 NINDA UŠ ($ erasure $)
+#lem:   n; bēr[unit]N; n; nindan[unit]N; šiddim[(longer) side]N 
+
+@reverse
+
+1.	 &  &  &  &4 1(EŠE₃) 1/2(IKU){gana₂} 1.1/2 SAR 2.1/2 GÍN <SAHAR>-HI.A
+#lem:     n; n; n; mūšar[unit]N; n; šiqil[unit]N; +eperu[earth//volume]N'N$eperī 
+
+2.	 &7 iš-tu A.ŠÀ DUMU.MUNUS i-šar-li-im a-di a-ta-pu ša ia-[...]
+#lem:  ištu[from]PRP; eqel[field]N; mārat[daughter]N; Išar-Lim[1]PN; adi[as far as]PRP; +atappu[(small) canal]N$atappu; ša[of]DET; +Ya-xxx[]PN$ 
+
+3.	 & 3 & 15 & 10 & 2 <KUŠ₃> & 37.30 & SAHAR-HI.A 1-KAM
+#lem:  n;  n;  n;  n; ammat[unit]N;  n;  eperū[volume]N; n 
+
+4.	| ⸢x x x A-ŠÀ-HI.A⸣ [...]
+#lem:  u; u; u; +eqlu[field]N$eqlētu; u 
+
+$ 1 line traces
+$ several lines missing
+1'.	 & 2#.22#.30# & 15# & [...] & [...] & [...] & [...] & [1].35# SAR# 57#.[1/2 GÍN]
+#lem:  n;  n;  u;  u;  u;  u;  n; mūšar[unit]N; n; šiqil[unit]N 
+
+2'.	 & 1.20 & 15# & [...] & [...] & [...] & [...] & [n(IKU)]{gana₂} 7.5/6 <SAR> 5 GIN₂
+#lem:  n;  n;  u;  u;  u;  u;  n; n; mūšar[unit]N; n; šiqil[unit]N 
+
+3'.	 & 4.35 & 15# & [...] & [...] & [...] & [...] & a-di ap-sa-tim
+#lem:  n;  n;  u;  u;  u;  u;  adi[as far as]PRP; +Apsatum[]GN$Apsatim 
+
+4'.	 & 5 & [...] & [...] & [...] & [...] & [...] & 1(IKU){gana₂} 15# SAR# a-di A.ŠÀ {d}<AMAR>.UTU-mu-ša-lim
+#lem:  n;  u;  u;  u;  u;  u;  n; n; mūšar[unit]N; adi[as far as]PRP; eqel[field]N; +Marduk-mušallim[]PN$ 
+
+5'.	 & 40 & 20 & [...] & 2# & 35# & <1>.21.2/3 SAR & 
+#lem:  n;  n;  u;  n;  n;  n; mūšar[unit]N  
+
+6'.	 &  &6 1/2 DANNA!(KASKAL) 4!(14).47.30 NINDA UŠ
+#lem:   n; bēr[unit]N; n; nindan[unit]N; šiddim[(longer) side]N 
+
+7'.	 &  &  &5 1(EŠE₃) 3(IKU) 1/2(IKU).<<20>>{gana₂} 8 SAR SAHAR-HI.A
+#lem:    n; n; n; n; mūšar[unit]N; eperī[volume]N 
+
+8'.	 &  &  &  &4 SAHAR-HI.A pil₂-kum
+#lem:     eperū[volume]N; +pilku[demarcated zone]N$pilkum 
+
+@top
+1.	 &7 {iti}APIN.DU₈.A U₄ 27-KAM
+#lem:  +Arahsamnu[]MN$Arahsamnum; ūm[day]N; n 
+
+2.	 &7 %s mu {ŋeš}tukul <<šu>> šu-nir kug-sig₁₇
+#lem:  mu[year]; tukul[weapon]; šunir[emblem]; kugsig[gold] 
+
+@translation parallel en project
+@obverse
+1.	 @& Length @& [Upper] width @& [Width] @& [Depth] @& [Volume] @& [Volume] @& Man
+2.	 @& 40 @& 0;15 @& [...] @& [...] @& [...] @& [x] @sar @& From that of Išar-Lim's daughter [...] ... of Ilšu-bani
+3.	 @& 215 @& [...] @& [...] @& [...] @& [...] @& [1] @iku 11 2/3 @sar @& As far as Muhaddum's dyke
+4.	 @& 150 @& [...] @& [...] @& [...] @& [...] @& 1 @iku 5 2/3 @sar @& First
+5.	 @& 30 @& [...] @& [...] @& [...] @& [...] @& 10 @sar @& Second
+6.	 @& 10 @& [...] @& [...] @& [...] @& [...] @& 5 5/6 @sar @& <Third>
+7. 	 @&7 445 [rods length ...] @sar 2 1/2 shekels, as far as @?Nabahu?@ [(...)]
+8.	 @& 195 @& 0;20 @& 0;15 @& [...] @& [...] @& 1 @iku 13 2/3 @sar 5 shekels @& Of Marduk-mušallim
+9.	 @& 100 @& [...] @& [...] @& [...] @& [...] @& [...] @sar @& [...]
+$ several lines missing
+1'.	 @& 3 @& 0;20 @& 0;15 @& 1;30 cubits @& 0;26 15 @& 1 @iku 18 1/3 @sar @& [...]
+2'.	 @& 3 @& 0;20 @&  @& 1 cubit @& 0;20 @& 1 @iku
+3'.	 @&  @&6 550 rods length, 2 @iku 33 1/3 @sar volume
+4'.	 @&  @&6 From that of @?Haṭimu-abim?@ as far as the sea ...
+5'.	 @&  @&6 1/3 league 260 rods length
+@reverse
+1.	 @&  @&  @&  @&4 6 1/2 @iku 1 1/2 @sar 2 1/2 shekels volume
+2.	 @&7 From the field of Išar-Lim's daughter as far as Ya-[...]'s little canal
+3.	 @& 3 @& 0;15 @& 0;10 @& 2 cunits @& 0;37 30 @& First volume
+4.	 @&7 ... fields [...]
+$ 1 line traces
+$ several lines missing
+1'.	 @& 142.5 @& 0;15 @& [...] @& [...] @& [...] @& [...] @& 95 @sar 57 1/2 [shekels]
+2'.	 @& 80 @& 0;15 @& [...] @& [...] @& [...] @& [...] @& [...] @iku 7 5/6 @sar 5 shekels
+3'.	 @& 275 @& 0;15 @& [...] @& [...] @& [...] @& [...] @& As far as @?Apsatum?@
+4'.	 @& 5 @& [...] @& [...] @& [...] @& [...] @& [...] @& 1 @iku 15 sar as far as @?Marduk?@-mušallim's field
+5'.	 @& 40 @& 0;20 @& [...] @& 2 cubits @& 0;35# @& 81 2/3 @sar
+6'.	 @&  @&6 1/2 league 287 1/2 rods length
+7'.	 @&  @&  @&5 9 1/2 @iku 8 @sar volume
+8'.	 @&  @&  @&  @&4 Volume in the demarcated sector
+@top
+1.	 @&7 Arahsamnum (Month VIII), day 27
+2.	 @&7 Year: the gold weapon-emblem.
+
+

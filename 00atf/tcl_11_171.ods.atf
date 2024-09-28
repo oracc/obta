@@ -1,0 +1,120 @@
+&P386986 = TCL 11, 171
+
+#project: obta
+#atf: lang akk-x-oldbab
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+#atf: use mylines
+
+# AO 8425
+
+@tablet
+@obverse
+1.	 & [AB].SIN₂ & NÍG.GAR & ŠE-BI & ŠU.RI.A-BI & MU-BI.IM
+#lem:  šerʾātim[furrow]N;  šukunnûm[estimated yield]N;  šeʾšu[grain]N;  +mišlu[half]N$mišilšu;  šumšu[name]N 
+
+$ single ruling
+2.	 & 1(BUR₃) 3(IKU){gana₂} & 3(U) <GUR> & 3(U) 4(AŠ)!(5(AŠ)) <GUR> & 1(U) 7(AŠ) GUR  & ma-an-na-šu?
+#lem:  n; n;  n; kur[unit]N;  n; n; kur[unit]N;  n; n; kur[unit]N;  +Mannašu[]PN$ 
+
+$ single ruling
+3.	 & 1(IKU){gana₂} 10 <SAR> & 4(U) <GUR> & 2(AŠ) 2(BARIG) GUR & 1(AŠ) 1(BARIG) GUR & {d}SUEN-ni-i
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n; n; kur[unit]N;  n; n; kur[unit]N;  +Sinni[]PN$ 
+
+$ single ruling
+4.	 & 3(IKU){gana₂} 30 <SAR> & 5(U) <GUR> & 9(AŠ) <GUR> 5(BAN₂) & 4(AŠ) 2(BARIG) 5(BAN₂) 5 SÌLA GUR  & a-wi-il-{d}IŠKUR
+#lem:  n; n; mūšar[unit]N;  n; kur[unit]N;  n; kur[unit]N; n;  n; n; n; n; qā[unit]N; kur[unit]N;  Awil-Adad[1]PN 
+
+$ single ruling
+5.	 & [1(BUR₃)] ⸢2(IKU){gana₂}⸣ 25 <SAR> & 2(U) <GUR> & 2(AŠ) <GUR> 2(BARIG) 3(BAN₂) & 1(AŠ) 1(BARIG) 1(BAN₂) 5 SÌLA GUR  & mu-ha-du-um
+#lem:  n; n; n; mūšar[unit]N;  n; kur[unit]N;  n; kur[unit]N; n; n;  n; n; n; n; qā[unit]N; kur[unit]N;  +Muhaddum[]PN$ 
+
+$ single ruling
+$ 1 line blank
+6.	 & [2(BUR₃) 1(EŠE₃) 3(IKU) 1/2(IKU) 15] ⸢SAR⸣ &  & 4(U) 8(AŠ)!(7(AŠ)) <GUR> 2(BAN₂) & 2(U) 4(AŠ) <GUR> ⸢1(BAN₂)⸣ & 
+#lem:  n; n; n; n; n; mūšar[unit]N;   n; n; kur[unit]N; n;  n; n; kur[unit]N; n  
+
+$ single ruling
+7.	 & [...] &  &  &  & [...]-bi-tum
+#lem:  u;     u 
+
+$ single ruling
+8.	 & GU₂# &  &  & {id₂}ma?-a?-ma?-rum? & 
+#lem:  ah[bank]N;    +Mayyamarum[]WN$  
+
+$ single ruling
+9.	 & 2(IKU){gana₂} & 3(U) <GUR> & 3(AŠ) <GUR> 1(BARIG) 4(BAN₂) & 1(AŠ) <GUR> 3(BARIG) 2(BAN₂) & di#-iq-qum
+#lem:  n;  n; kur[unit]N;  n; kur[unit]N; n; n;  n; kur[unit]N; n; n;  +Diqqum[]PN$ 
+
+$ single ruling
+10.	| ŠA₃# {giš}KIRI₆ DU₈.A $SA $ZU GUB.BA
+#lem:  ina[in]PRP$ina&libbu[interior]N$libbi; +kirû[(fruit) plantation//orchard]N'N$kirîm; X; u; u; X     
+
+@reverse
+$ several lines blank
+1.	 & 2(BUR₃) 1(EŠE₃) 5(IKU) 1/2(IKU) 15 SAR &  & 5(U) 1(AŠ) <GUR> 2(BARIG) &  & 2(U) 5(AŠ) 3(BARIG) 3(BAN₂) GUR
+#lem:  n; n; n; n; n; mūšar[unit]N;   n; n; kur[unit]N; n;   n; n; n; n; kur[unit]N 
+
+$ single ruling
+2.	| i-na A.ŠÀ DIDLI
+#lem:  ina[in]PRP; +eqlu[field]N$eqlētim; +mādu[many//various]AJ'AJ$mādâtim     
+
+$ single ruling
+3.	| IRI{ki} E₂.DURU₅-{d}ŠUL.GI{ki}
+#lem:  +ālu[city//town]N'N$āl; +Adur-Šulgi[]SN$     
+
+$ single ruling
+$ several lines blank
+4.	| {iti}BARÁ.ZAG.GAR U₄ 20-KAM
+#lem:  +Nisannu[]MN$Nisannum; ūm[day]N; n 
+
+5.	| %s [mu] ha-am-mu-ra-bi lugal-e
+#lem:  mu[year]; Hammurabi[1]; lugal[king] 
+
+6.	| %s ⸢usu⸣ kalag-ga an {d}en-líl mu-un-na-šum₂-<ma>-ta
+#lem:  usu[strength]; kalag[strong]; An[1]; Enlil[1]; šum[give] 
+
+7.	| %s [šu-nigin gu₂]-du₃-a kur su-bir₄-ke₄
+#lem:  šuniŋin[total]; Kutha[]GN; kur[land]; Subir[]GN 
+
+8.	| %s [saŋ ŋeš]-bi bí-rah-a
+#lem:  saŋ[head]; ŋeš[tree]; rah[beat] 
+
+# PSU saŋ ŋeš rah [kill] V
+@translation parallel en project
+@obverse
+1.	 @& Cultivated (area) @& Estimated yield @& Its grain @& Half of it @& Its name
+$ single ruling
+2.	 @& 21 @iku @& 30 @gur @& 34 @gur @& 17 @gur @& @?Mannašu?@
+$ single ruling
+3.	 @& 1 @iku 10 @sar @& 40 @gur @& 2 @gur 120 @sila @& 1 @gur 60 @sila @& Sinni
+$ single ruling
+4.	 @& 3 @iku 30 @sar @& 50 @gur @& 9 @gur 50 @sila @& 4 @gur 175 @sila @& Awil-Adad
+$ single ruling
+5.	 @& 20 @iku 25 @sar @& 20 @gur @& 2 @gur 150 @sila @& 1 @gur 75 @sila @& Muhaddum
+$ single ruling
+$ 1 line blank
+6.	 @& [45 1/2 @iku 15] @sar @&  @& 48 @gur 20 @sila @& 24 @gur 10 @sila
+$ single ruling
+7.	 @&5 [...] ...
+$ single ruling
+8.	 @&5 By the @?Mayyamarum?@ canal
+$ single ruling
+9.	 @& 2 @iku @& @30 gur @& 3 @gur 100 @sila @& 1 @gur 200 @sila @& Diqqum
+$ single ruling
+10.	| From the .... date orchard
+@reverse
+1.	 @& 47 1/2 @iku 15 @sar @&  @& 51 @gur 120 @sila @&2 25 @gur 270 @sila
+$ single ruling
+2.	 @&5 In various fields
+$ single ruling
+3.	 @&5 Adur-Šulgi town
+$ single ruling
+$ several lines blank
+4.	 @&5 Nisannum, day 20
+5.	 @&5 Year: Hammurabi the king
+6.	 @&5 by the great strength given to him by An and Enlil
+7.	 @&5 killed [all of] Kutha and the land of Subartu.
+
+

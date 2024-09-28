@@ -1,0 +1,6 @@
+#000 (black) lemm-unvisited-fg lemm-visited-fg
+#fff (white) lemm-unvisited-bg lemm-visited-bg logo-fg logo-visited-fg logo-unvisited-fg
+     	     logo-hover-fg alt-fg banner-fg
+#102343 (dark blue) logo-bg logo-hover-bg banner-bg banner-border other-border
+#9099ff (light blue) alt-bg h3-bg
+#444444 (grey) h3-fg
